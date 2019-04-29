@@ -46,8 +46,8 @@
           <button type="button" class="collapsed s-header-v2__toggle" data-toggle="collapse" data-target="#nav-collapse" aria-expanded="false"> <span class="s-header-v2__toggle-icon-bar"></span> </button>
         </div>
         <div class="s-header-v2__navbar-col s-header-v2__navbar-col-width--180"> 
-          <!-- Logo -->
-          <div class="s-header-v2__logo"> <a href="index.html" class="s-header-v2__logo-link"> <img class="s-header-v2__logo-img s-header-v2__logo-img--default" src="img/logo-white.png" alt="Dublin Logo"> <img class="s-header-v2__logo-img s-header-v2__logo-img--shrink" src="img/logo.png" alt="Dublin Logo"> </a> </div>
+          <!---<!-- Logo -->
+          <div class="s-header-v2__logo"> <a href="index.html" class="s-header-v2__logo-link"> <img class="s-header-v2__logo-img s-header-v2__logo-img--default" src="img/logo-white.png" alt="Dublin Logo"> <img class="s-header-v2__logo-img s-header-v2__logo-img--shrink" src="img/logo.png" alt="Dublin Logo"> </a> </div>--->
           <!-- End Logo --> 
         </div>
         <div class="s-header-v2__navbar-col s-header-v2__navbar-col--right"> 
@@ -56,11 +56,11 @@
             <ul class="s-header-v2__nav">
               <!-- Home -->
               
-              <li class="s-header-v2__nav-item"><a href="#js__scroll-to-section3" class="s-header-v2__nav-link">Home</a></li>
-              <li class="s-header-v2__nav-item"><a href="#js__scroll-to-section" class="s-header-v2__nav-link">Immigration Consultancy</a></li>
-              <li class="s-header-v2__nav-item"><a href="#js__scroll-to-section2" class="s-header-v2__nav-link">Process</a></li>
-              <li class="s-header-v2__nav-item"><a href="#js__scroll-to-section4" class="s-header-v2__nav-link">Our Team</a></li>
-              <li class="s-header-v2__nav-item"><a href="#js__scroll-to-appointment" class="s-header-v2__nav-link s-header-v2__nav-link--dark">Contact Us</a></li>
+              <li class="s-header-v2__nav-item"><a href="#" class="s-header-v2__nav-link">Home</a></li>
+              <li class="s-header-v2__nav-item"><a href="#" class="s-header-v2__nav-link">Immigration Consultancy</a></li>
+              <li class="s-header-v2__nav-item"><a href="#" class="s-header-v2__nav-link">Process</a></li>
+              <li class="s-header-v2__nav-item"><a href="#" class="s-header-v2__nav-link">Our Team</a></li>
+              <li class="s-header-v2__nav-item"><a href="#" class="s-header-v2__nav-link s-header-v2__nav-link--dark">Contact Us</a></li>
             </ul>
           </div>
           <!-- End Nav Menu --> 
@@ -126,13 +126,13 @@
       <div class="row g-row-col--5 g-overflow--hidden js__masonry">
         <div class="col-xs-6 js__masonry-sizer"></div>
         <div class="col-xs-6 g-full-width--xs g-margin-b-10--xs g-margin-b-0--sm js__masonry-item">
-          <div class="wow fadeInDown" data-wow-duration=".3" data-wow-delay=".1s"> <img class="img-responsive" src="img/400x550/03.jpg" alt="Image"> </div>
+          <div class="wow fadeInDown" data-wow-duration=".3" data-wow-delay=".1s"> <img class="img-responsive" src="img/400x550/truck1.jpg" alt="Image"> </div>
         </div>
         <div class="col-xs-6 g-full-width--xs g-margin-b-10--xs js__masonry-item">
-          <div class="wow fadeInRight" data-wow-duration=".3" data-wow-delay=".3s"> <img class="img-responsive" src="img/970x647/10.jpg" alt="Image"> </div>
+          <div class="wow fadeInRight" data-wow-duration=".3" data-wow-delay=".3s"> <img class="img-responsive" src="img/970x647/pickup.jpg" alt="Image"> </div>
         </div>
         <div class="col-xs-6 g-full-width--xs js__masonry-item">
-          <div class="wow fadeInRight" data-wow-duration=".3" data-wow-delay=".5s"> <img class="img-responsive" src="img/970x647/11.jpg" alt="Image"> </div>
+          <div class="wow fadeInRight" data-wow-duration=".3" data-wow-delay=".5s"> <img class="img-responsive" src="img/970x647/flatbed.jpg" alt="Image"> </div>
         </div>
       </div>
       <!-- End Masonry Grid --> 
@@ -188,7 +188,7 @@
 </div>
 <!-- End Services --> 
 
-<!-- Process -->
+<!---<!-- Process -->
 <div id="js__scroll-to-section2" class="" style="background-color:#b80822 !important">
   <div class="container g-padding-y-80--xs g-padding-y-125--sm">
     <div class="g-text-center--xs g-margin-b-100--xs">
@@ -250,9 +250,9 @@
     </div>
   </div>
 </div>
-<!-- End Process -->
+<!-- End Process -->--->
 
-<div id="js__scroll-to-section4" class="container g-text-center--xs g-padding-y-80--xs" style="margin-top:3px">
+<!---<div id="js__scroll-to-section4" class="container g-text-center--xs g-padding-y-80--xs" style="margin-top:3px">
   <p class="text-uppercase g-font-size-14--xs g-font-weight--700 g-color--primary g-letter-spacing--2 g-margin-b-25--xs">Meet the Team</p>
   <h2 class="g-font-size-32--xs g-font-size-36--sm">Professional Specialists</h2>
 </div>
@@ -304,9 +304,9 @@
     </div>
   </div>
 </div>
-<!-- End Team --> 
+<!-- End Team --> --->
 
-<!-- News -->
+<!---<!-- News -->
 <div id="js__scroll-to-section5"  class="container g-padding-y-80--xs g-padding-y-125--sm">
   <div class="g-text-center--lg">
     <p class="text-uppercase g-font-size-14--xs g-font-weight--700 g-color--primary g-letter-spacing--2 g-margin-b-25--xs hidden">Meet the Team</p>
@@ -326,9 +326,9 @@
     </div>
   </div>
 </div>
-<!-- End News --> 
+<!-- End News --> --->
 
-<!-- Form -->
+<!---<!-- Form -->
 <div id="js__scroll-to-appointment" class="g-bg-color--sky-light g-padding-y-80--xs g-padding-y-0--sm">
   <div class="g-position--relative g-bg-color--primary"  style="background-color:#b80822 !important">
     <div class="g-container--md g-padding-y-125--xs">
@@ -378,11 +378,11 @@
     </div>
     <img class="s-mockup-v2" src="img/mockups/pencil-01.png" alt="Mockup Image"> </div>
 </div>
-<!-- End Form --> 
+<!-- End Form --> --->
 <!--========== END PAGE CONTENT ==========--> 
 
 <!--========== FOOTER ==========-->
-<footer class="g-bg-color--dark"> 
+<!---<footer class="g-bg-color--dark"> 
   <!-- Links -->
   <div class="g-hor-divider__dashed--white-opacity-lightest">
     <div class="container g-padding-y-80--xs">
@@ -416,18 +416,18 @@
         </div>
       </div>
     </div>
-  </div>
+  </div>--->
   <!-- End Links --> 
   
   <!-- Copyright -->
-  <div class="container g-padding-y-50--xs">
+ <!--- <div class="container g-padding-y-50--xs">
     <div class="row">
       <div class="col-xs-6"> <a href="index.html"> <img class="g-width-100--xs g-height-auto--xs" src="img/logo-white.png" alt="Megakit Logo"> </a> </div>
       <div class="col-xs-6 g-text-right--xs">
         <p class="g-font-size-14--xs g-margin-b-0--xs g-color--white-opacity-light"><a href="index.html/">AJOC IMMIGRATION CONSULTANCY SERVICES</a> Created by: <a href="http://www.onevoix.com/">OneVoix</a></p>
       </div>
     </div>
-  </div>
+  </div>--->
   <!-- End Copyright --> 
 </footer>
 <!--========== END FOOTER ==========--> 
