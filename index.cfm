@@ -252,81 +252,83 @@
 </div>
 <!-- End Process -->--->
 
-<!---<div id="js__scroll-to-section4" class="container g-text-center--xs g-padding-y-80--xs" style="margin-top:3px">
+<div id="js__scroll-to-section4" class="container g-text-center--xs g-padding-y-80--xs" style="margin-top:3px">
   <p class="text-uppercase g-font-size-14--xs g-font-weight--700 g-color--primary g-letter-spacing--2 g-margin-b-25--xs">Meet the Team</p>
   <h2 class="g-font-size-32--xs g-font-size-36--sm">Professional Specialists</h2>
 </div>
 <!-- Team -->
 <div class="row g-row-col--0">
   <div class="col-md-4 col-xs-6 g-full-width--xs">
-    <div class="wow fadeInUp" data-wow-duration=".3" data-wow-delay=".1s"> 
+   
       <!-- Team -->
-      <div class="s-team-v1"> <img class="img-responsive g-width-100-percent--xs" src="img/400x400/04.jpg" alt="Image">
+      <div class="s-team-v1"> <img class="img-responsive g-width-100-percent--xs" src="img/400x400/truckP.jpg" alt="Image">
         <div class="g-text-center--xs g-bg-color--white g-padding-x-30--xs g-padding-y-40--xs">
-          <h2 class="g-font-size-18--xs g-margin-b-5--xs">Amelia Fantone-Ajoc, RCIC</h2>
-          <span class="g-font-size-15--xs g-color--text"><i>Regulated Canadian Immigration Consultant (RCIC Member #R518392)<br>
-          Commissioner for Oaths in Alberta</i></span> </div>
+          <h2 class="g-font-size-18--xs g-margin-b-5--xs">Amelia Fantone-Ajoc</h2>
+          <span class="g-font-size-15--xs g-color--text"><i><!---Regulated Canadian Immigration Consultant (RCIC Member #R518392)<br>
+          Commissioner for Oaths in Alberta---></i></span> </div>
       </div>
       <!-- End Team --> 
-    </div>
+    
   </div>
   <div class="col-md-4 col-xs-6 g-full-width--xs">
-    <div class="wow fadeInUp" data-wow-duration=".3" data-wow-delay=".2s"> 
+    
       <!-- Team -->
-      <div class="s-team-v1"> <img class="img-responsive g-width-100-percent--xs" src="img/400x400/06.jpg" alt="Image">
+      <div class="s-team-v1"> <img class="img-responsive g-width-100-percent--xs" src="img/400x400/truckP.jpg" alt="Image">
         <div class="g-text-center--xs g-bg-color--white g-padding-x-30--xs g-padding-y-40--xs">
           <h3 class="g-font-size-18--xs g-margin-b-5--xs">Anna Kusaikina</h3>
-          <span class="g-font-size-15--xs g-color--text"><i>Psafdasdf</i></span> </div>
+          <span class="g-font-size-15--xs g-color--text"><i><!---Psafdasdf---></i></span> </div>
       </div>
       <!-- End Team --> 
-    </div>
+   
   </div>
   <div class="col-md-4 col-xs-6 g-full-width--xs">
-    <div class="wow fadeInUp" data-wow-duration=".3" data-wow-delay=".3s"> 
+   
       <!-- Team -->
-      <div class="s-team-v1"> <img class="img-responsive g-width-100-percent--xs" src="img/400x400/05.jpg" alt="Image">
+      <div class="s-team-v1"> <img class="img-responsive g-width-100-percent--xs" src="img/400x400/truckP.jpg" alt="Image">
         <div class="g-text-center--xs g-bg-color--white g-padding-x-30--xs g-padding-y-40--xs">
           <h4 class="g-font-size-18--xs g-margin-b-5--xs">Katrina Buan</h4>
-          <span class="g-font-size-15--xs g-color--text"><i>Client Specialist</i></span> </div>
+          <span class="g-font-size-15--xs g-color--text"><i><!---Client Specialist---></i></span> </div>
       </div>
       <!-- End Team --> 
-    </div>
+   
   </div>
   <div class="col-md-3 col-xs-6 g-full-width--xs hidden">
-    <div class="wow fadeInUp" data-wow-duration=".3" data-wow-delay=".4s"> 
+    
       <!-- Team -->
-      <div class="s-team-v1"> <img class="img-responsive g-width-80-percent--xs" src="img/400x400/06.jpg" style="border-radius:50%; margin:20px 20px 20px 20px" alt="Image">
+      <div class="s-team-v1"> <img class="img-responsive g-width-80-percent--xs" src="img/400x400/truckP.jpg" style="border-radius:50%; margin:20px 20px 20px 20px" alt="Image">
         <div class="g-text-center--xs g-bg-color--white g-padding-x-30--xs g-padding-y-40--xs">
           <h4 class="g-font-size-18--xs g-margin-b-5--xs">Rizelle Cabantac</h4>
-          <span class="g-font-size-15--xs g-color--text"><i>Client Specialist</i></span> </div>
+          <span class="g-font-size-15--xs g-color--text"><i><!---Client Specialist---></i></span> </div>
       </div>
       <!-- End Team --> 
-    </div>
+    
   </div>
 </div>
-<!-- End Team --> --->
+<!-- End Team -->
 
-<!---<!-- News -->
+<!-- News -->
 <div id="js__scroll-to-section5"  class="container g-padding-y-80--xs g-padding-y-125--sm">
   <div class="g-text-center--lg">
     <p class="text-uppercase g-font-size-14--xs g-font-weight--700 g-color--primary g-letter-spacing--2 g-margin-b-25--xs hidden">Meet the Team</p>
-    <h2 class="g-font-size-32--xs g-font-size-36--sm">Why hire a licensed Immigration Consultant?</h2>
-    <p>Immigrating to Canada is a complex process. An immigration consultant is someone who will help and advise you throughout the process of obtaining your visa. RCIC are fully trained and knowledgeable of all areas of immigration stream. RCIC will help you find a program that better fits your qualifications and experience.</p>
+    <h2 class="g-font-size-32--xs g-font-size-36--sm">What makes Truck Dispatch GO so good?</h2>
+    <p>Truck Dispatch GO is team of experienced call center agents that mainly focuses in the logistics and dispatching industry. This already gives proof that our telecommunications experience is superior in this line of business. We are a collective of skillful independent dispatchers that have reached optimal efficiency by working as a team.</p>
   </div>
   <div class="row g-margin-b-10--xs g-margin-t-100--lg">
+    
     <div class="col-md-6 g-margin-b-60--xs g-margin-b-0--lg">
-      <iframe width="100%" height="310px" src="https://www.youtube.com/embed/TviXiHd152o" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+      <iframe width="100%" height="310px" src="https://www.youtube.com/embed/a_3VOkhQBmM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
     </div>
+    
     <div class="col-md-5 g-margin-b-10--xs g-margin-b-0--lg g-margin-t-10--lg g-margin-l-20--lg">
       <div class="g-margin-b-30--xs">
-        <p>On June 30, 2011, the ICCRC became the new regulatory body for Canadian immigration consultants.  Appointed by the Government of Canada, the ICCRC replaced the previous regulator, CSIC.  Its mandate includes ensuring its members have met all the criteria required to become a RCIC, routinely conducting audits of its members, and having a strict complaints and discipline process.​</p>
-        <p>Members of the ICCRC are accountable, have the necessary qualifications, and abide by a strict Code of Conduct. ​</p>
-        <p>If you choose to hire someone that is not a member of the ICCRC, you risk having your application handled incompetently, unethically, and without accountability.</p>
+        <p>Being in the trucking industry, carriers or truck drivers would mostly be on the road, and it is not always possible to reach out via phone. We can provide different channels of support, like email, chat, SMS and other applicable avenues of communication.</p>
+        <p>We can help you find profitable and high-dollar freight, find loads that you would want to haul and towards the places/routes that you would want to go. </p>
+        <p>What sets us apart are our outstanding personnel who are always up to the task in handling challenging responsibilities and our team's passion towards excellence.</p>
       </div>
     </div>
   </div>
 </div>
-<!-- End News --> --->
+<!-- End News -->
 
 <!---<!-- Form -->
 <div id="js__scroll-to-appointment" class="g-bg-color--sky-light g-padding-y-80--xs g-padding-y-0--sm">
@@ -382,7 +384,7 @@
 <!--========== END PAGE CONTENT ==========--> 
 
 <!--========== FOOTER ==========-->
-<!---<footer class="g-bg-color--dark"> 
+<footer class="g-bg-color--dark"> 
   <!-- Links -->
   <div class="g-hor-divider__dashed--white-opacity-lightest">
     <div class="container g-padding-y-80--xs">
@@ -398,7 +400,7 @@
         <div class="col-sm-2 g-margin-b-20--xs g-margin-b-0--md">
           <ul class="list-unstyled g-ul-li-tb-5--xs g-margin-b-0--xs">
             <li><a class="g-font-size-15--xs g-color--white-opacity" href="#">Twitter</a></li>
-            <li><a class="g-font-size-15--xs g-color--white-opacity" href="https://www.facebook.com/ajocimmigration/">Facebook</a></li>
+            <li><a class="g-font-size-15--xs g-color--white-opacity" href="#">Facebook</a></li>
             <li><a class="g-font-size-15--xs g-color--white-opacity" href="#">Instagram</a></li>
             <li><a class="g-font-size-15--xs g-color--white-opacity" href="#">YouTube</a></li>
           </ul>
@@ -411,12 +413,12 @@
           </ul>
         </div>
         <div class="col-md-4 col-md-offset-2 col-sm-5 col-sm-offset-1 s-footer__logo g-padding-y-50--xs g-padding-y-0--md">
-          <h3 class="g-font-size-18--xs g-color--white">AJOC INTERNATIONAL INC.</h3>
-          <p class="g-color--white-opacity">We are a licensed immigration consulting firm located in Edmonton, AB Canada.</p>
+          <h3 class="g-font-size-18--xs g-color--white">TRUCK DISPATCH GO</h3>
+          <p class="g-color--white-opacity"><!---We are a licensed immigration consulting firm located in Edmonton, AB Canada.---></p>
         </div>
       </div>
     </div>
-  </div>--->
+  </div>
   <!-- End Links --> 
   
   <!-- Copyright -->
