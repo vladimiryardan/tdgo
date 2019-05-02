@@ -56,11 +56,11 @@
             <ul class="s-header-v2__nav">
               <!-- Home -->
               
-              <li class="s-header-v2__nav-item"><a href="#" class="s-header-v2__nav-link">Home</a></li>
-              <li class="s-header-v2__nav-item"><a href="#" class="s-header-v2__nav-link">Immigration Consultancy</a></li>
-              <li class="s-header-v2__nav-item"><a href="#" class="s-header-v2__nav-link">Process</a></li>
-              <li class="s-header-v2__nav-item"><a href="#" class="s-header-v2__nav-link">Our Team</a></li>
-              <li class="s-header-v2__nav-item"><a href="#" class="s-header-v2__nav-link s-header-v2__nav-link--dark">Contact Us</a></li>
+              <li class="s-header-v2__nav-item"><a href="#js__scroll-to-section3" class="s-header-v2__nav-link">Home</a></li>
+              <li class="s-header-v2__nav-item"><a href="#js__scroll-to-section" class="s-header-v2__nav-link">Immigration Consultancy</a></li>
+              <li class="s-header-v2__nav-item"><a href="#js__scroll-to-section2" class="s-header-v2__nav-link">Process</a></li>
+              <li class="s-header-v2__nav-item"><a href="#js__scroll-to-section4" class="s-header-v2__nav-link">Our Team</a></li>
+              <li class="s-header-v2__nav-item"><a href="#js__scroll-to-appointment" class="s-header-v2__nav-link s-header-v2__nav-link--dark">Contact Us</a></li>
             </ul>
           </div>
           <!-- End Nav Menu --> 
@@ -188,13 +188,13 @@
 </div>
 <!-- End Services --> 
 
-<!---<!-- Process -->
+<!-- Process -->
 <div id="js__scroll-to-section2" class="" style="background-color:#b80822 !important">
   <div class="container g-padding-y-80--xs g-padding-y-125--sm">
     <div class="g-text-center--xs g-margin-b-100--xs">
       <p class="text-uppercase g-font-size-14--xs g-font-weight--700 g-color--white-opacity g-letter-spacing--2 g-margin-b-25--xs hidden">Process</p>
       <h2 class="g-font-size-32--xs g-font-size-36--sm g-color--white">Process</h2>
-      <h3 class="g-font-size-18--xs g-color--white">We will take you from the initial stage of establishing what you want to the final stage of attaining your visa.</h3>
+      <h3 class="g-font-size-18--xs g-color--white">Dispatching made seamless and comfortable just for you. Here is the whole outline of driving out, and getting paid.</h3>
     </div>
     <ul class="list-inline row g-margin-b-100--xs">
       <!-- Process -->
@@ -203,7 +203,7 @@
           <div class="g-margin-b-30--xs"> <span class="g-display-inline-block--xs g-width-100--xs g-height-100--xs g-font-size-38--xs g-color--primary g-bg-color--white g-box-shadow__dark-lightest-v4 g-padding-x-20--xs g-padding-y-20--xs g-radius--circle">01</span> </div>
           <div class="g-padding-x-20--xs">
             <h3 class="g-font-size-18--xs g-color--white">Provide Your Information</h3>
-            <p class="g-color--white-opacity">The information you provide will enable us to tell you what visas you are eligible for and help you make an informed decision based on your circumstances.</p>
+            <p class="g-color--white-opacity">Signing up is easy. Before we can dispatch you, we'll need a signed Dispatch Agreement, accompanied by a Carrier Profile Sheet. Your dedicated dispatcher will assess your preference and plan out your freight lanes and schedule under your consent.</p>
           </div>
         </div>
       </li>
@@ -215,7 +215,7 @@
           <div class="g-margin-b-30--xs"> <span class="g-display-inline-block--xs g-width-100--xs g-height-100--xs g-font-size-38--xs g-color--primary g-bg-color--white g-box-shadow__dark-lightest-v4 g-padding-x-20--xs g-padding-y-20--xs g-radius--circle">02</span> </div>
           <div class="g-padding-x-20--xs">
             <h3 class="g-font-size-18--xs g-color--white">Complete Your Documents</h3>
-            <p class="g-color--white-opacity">We will also guide you on what supporting material and documents you need to provide. We will then prepare an exhaustive submission to accompany your application that will address all legal requirements.</p>
+            <p class="g-color--white-opacity">Once we've received your completed forms, we can start giving you load options to choose from on a daily basis. Our goal is to keep you moving. We'll make sure that your routes will be maximized and efficient.</p>
           </div>
         </div>
       </li>
@@ -226,8 +226,8 @@
         <div class="center-block g-text-center--xs">
           <div class="g-margin-b-30--xs"> <span class="g-display-inline-block--xs g-width-100--xs g-height-100--xs g-font-size-38--xs g-color--primary g-bg-color--white g-box-shadow__dark-lightest-v4 g-padding-x-20--xs g-padding-y-20--xs g-radius--circle">03</span> </div>
           <div class="g-padding-x-20--xs">
-            <h3 class="g-font-size-18--xs g-color--white">Citizenship and Immigration Canada (CIC)</h3>
-            <p class="g-color--white-opacity">After we lodge your application, we will communicate with the Citizenship and Immigration Canada (CIC) and any other relevant department/authority on your behalf.</p>
+            <h3 class="g-font-size-18--xs g-color--white">Transporting Your Load</h3>
+            <p class="g-color--white-opacity">After transporting the load successfully, we make sure that you get paid. There is also an option to receive your income immediately through our partnered factoring company.</p>
           </div>
         </div>
       </li>
@@ -250,7 +250,7 @@
     </div>
   </div>
 </div>
-<!-- End Process -->--->
+<!-- End Process -->
 
 <div id="js__scroll-to-section4" class="container g-text-center--xs g-padding-y-80--xs" style="margin-top:3px">
   <p class="text-uppercase g-font-size-14--xs g-font-weight--700 g-color--primary g-letter-spacing--2 g-margin-b-25--xs">Meet the Team</p>
@@ -330,7 +330,7 @@
 </div>
 <!-- End News -->
 
-<!---<!-- Form -->
+<!-- Form -->
 <div id="js__scroll-to-appointment" class="g-bg-color--sky-light g-padding-y-80--xs g-padding-y-0--sm">
   <div class="g-position--relative g-bg-color--primary"  style="background-color:#b80822 !important">
     <div class="g-container--md g-padding-y-125--xs">
@@ -342,19 +342,19 @@
         <div class="col-xs-4 g-full-width--xs g-margin-b-50--xs g-margin-b-0--sm">
           <div class="g-text-center--xs"> <i class="g-display-block--xs g-font-size-40--xs g-color--white-opacity g-margin-b-30--xs ti-email"></i>
             <h4 class="g-font-size-18--xs g-color--white g-margin-b-5--xs">Email</h4>
-            <p class="g-color--white-opacity">support@ajocinternational.com</p>
+            <p class="g-color--white-opacity">info@virtualassistantgo.com</p>
           </div>
         </div>
         <div class="col-xs-4 g-full-width--xs g-margin-b-50--xs g-margin-b-0--sm">
-          <div class="g-text-center--xs"> <i class="g-display-block--xs g-font-size-40--xs g-color--white-opacity g-margin-b-30--xs ti-map-alt"></i>
-            <h4 class="g-font-size-18--xs g-color--white g-margin-b-5--xs">Address</h4>
-            <p class="g-color--white-opacity">343 Orchards Blvd SW, Edmonton, AB T6X, Canada</p>
+          <div class="g-text-center--xs"> <i class="g-display-block--xs g-font-size-40--xs g-color--white-opacity g-margin-b-30--xs <!---ti-map-alt--->"></i>
+            <h4 class="g-font-size-18--xs g-color--white g-margin-b-5--xs"></h4>
+            <p class="g-color--white-opacity"><!---343 Orchards Blvd SW, Edmonton, AB T6X, Canada---></p>
           </div>
         </div>
         <div class="col-xs-4 g-full-width--xs">
           <div class="g-text-center--xs"> <i class="g-display-block--xs g-font-size-40--xs g-color--white-opacity g-margin-b-30--xs ti-headphone-alt"></i>
             <h4 class="g-font-size-18--xs g-color--white g-margin-b-5--xs">Call at</h4>
-            <p class="g-color--white-opacity">780.8007861</p>
+            <p class="g-color--white-opacity">(442) 237-6035</p>
           </div>
         </div>
       </div>
@@ -380,7 +380,7 @@
     </div>
     <img class="s-mockup-v2" src="img/mockups/pencil-01.png" alt="Mockup Image"> </div>
 </div>
-<!-- End Form --> --->
+<!-- End Form --> 
 <!--========== END PAGE CONTENT ==========--> 
 
 <!--========== FOOTER ==========-->
