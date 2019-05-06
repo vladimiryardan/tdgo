@@ -46,8 +46,8 @@
           <button type="button" class="collapsed s-header-v2__toggle" data-toggle="collapse" data-target="#nav-collapse" aria-expanded="false"> <span class="s-header-v2__toggle-icon-bar"></span> </button>
         </div>
         <div class="s-header-v2__navbar-col s-header-v2__navbar-col-width--180"> 
-          <!---<!-- Logo -->
-          <div class="s-header-v2__logo"> <a href="index.html" class="s-header-v2__logo-link"> <img class="s-header-v2__logo-img s-header-v2__logo-img--default" src="img/logo-white.png" alt="Dublin Logo"> <img class="s-header-v2__logo-img s-header-v2__logo-img--shrink" src="img/logo.png" alt="Dublin Logo"> </a> </div>--->
+          <!-- Logo -->
+          <div class="s-header-v2__logo"> <a href="index.html" class="s-header-v2__logo-link"> <img class="s-header-v2__logo-img s-header-v2__logo-img--default" src="img/testLogo.png" alt="Dublin Logo"> <img class="s-header-v2__logo-img s-header-v2__logo-img--shrink" src="img/testLogo2.png" alt="Dublin Logo"> </a> </div>
           <!-- End Logo --> 
         </div>
         <div class="s-header-v2__navbar-col s-header-v2__navbar-col--right"> 
@@ -238,7 +238,7 @@
         <div class="center-block g-text-center--xs">
           <div class="g-margin-b-30--xs"> <span class="g-display-inline-block--xs g-width-100--xs g-height-100--xs g-font-size-38--xs g-color--primary g-bg-color--white g-box-shadow__dark-lightest-v4 g-padding-x-20--xs g-padding-y-20--xs g-radius--circle">04</span> </div>
           <div class="g-padding-x-20--xs">
-            <h3 class="g-font-size-18--xs g-color--white">Better Title?</h3>
+            <h3 class="g-font-size-18--xs g-color--white"></h3>
             <p class="g-color--white-opacity">We will keep you informed about the progress of your application till an outcome is achieved.</p>
           </div>
         </div>
@@ -400,21 +400,20 @@
         <div class="col-sm-2 g-margin-b-20--xs g-margin-b-0--md">
           <ul class="list-unstyled g-ul-li-tb-5--xs g-margin-b-0--xs">
             <li><a class="g-font-size-15--xs g-color--white-opacity" href="#">Twitter</a></li>
-            <li><a class="g-font-size-15--xs g-color--white-opacity" href="#">Facebook</a></li>
+            <li><a class="g-font-size-15--xs g-color--white-opacity" href="https://www.facebook.com/Truck-Dispatch-GO-2321923231384195" target="_blank" >Facebook</a></li>
             <li><a class="g-font-size-15--xs g-color--white-opacity" href="#">Instagram</a></li>
             <li><a class="g-font-size-15--xs g-color--white-opacity" href="#">YouTube</a></li>
           </ul>
         </div>
         <div class="col-sm-2 g-margin-b-40--xs g-margin-b-0--md">
           <ul class="list-unstyled g-ul-li-tb-5--xs g-margin-b-0--xs">
-            <li><a class="g-font-size-15--xs g-color--white-opacity" href="#">Subscribe to Our Newsletter</a></li>
-            <li><a class="g-font-size-15--xs g-color--white-opacity" href="#">Privacy Policy</a></li>
-            <li><a class="g-font-size-15--xs g-color--white-opacity" href="#">Terms &amp; Conditions</a></li>
+            <li><a class="g-font-size-15--xs g-color--white-opacity" href="https://virtualassistantgo.com/privacy.cfm">Privacy Policy</a></li>
+            <li><a class="g-font-size-15--xs g-color--white-opacity" href="https://virtualassistantgo.com/Terms.cfm">Terms &amp; Conditions</a></li>
           </ul>
         </div>
         <div class="col-md-4 col-md-offset-2 col-sm-5 col-sm-offset-1 s-footer__logo g-padding-y-50--xs g-padding-y-0--md">
           <h3 class="g-font-size-18--xs g-color--white">TRUCK DISPATCH GO</h3>
-          <p class="g-color--white-opacity"><!---We are a licensed immigration consulting firm located in Edmonton, AB Canada.---></p>
+          <p class="g-color--white-opacity">Our seamless process has been proven to innovate the industry. The dispatch hub trusted by most carriers and a company that is built by time and experience.</p>
         </div>
       </div>
     </div>
