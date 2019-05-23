@@ -57,9 +57,10 @@
               <!-- Home -->
               
               <li class="s-header-v2__nav-item"><a href="#js__scroll-to-section3" class="s-header-v2__nav-link">Home</a></li>
-              <li class="s-header-v2__nav-item"><a href="#js__scroll-to-section" class="s-header-v2__nav-link">Immigration Consultancy</a></li>
+              <li class="s-header-v2__nav-item"><a href="#js__scroll-to-section" class="s-header-v2__nav-link">About Us</a></li>
               <li class="s-header-v2__nav-item"><a href="#js__scroll-to-section2" class="s-header-v2__nav-link">Process</a></li>
               <li class="s-header-v2__nav-item"><a href="#js__scroll-to-section4" class="s-header-v2__nav-link">Our Team</a></li>
+              <li class="s-header-v2__nav-item"><a href="Blogs.cfm" class="s-header-v2__nav-link">Blog</a></li>
               <li class="s-header-v2__nav-item"><a href="#js__scroll-to-appointment" class="s-header-v2__nav-link s-header-v2__nav-link--dark">Contact Us</a></li>
             </ul>
           </div>
@@ -264,8 +265,7 @@
       <div class="s-team-v1"> <img class="img-responsive g-width-100-percent--xs" src="img/400x400/truckP.jpg" alt="Image">
         <div class="g-text-center--xs g-bg-color--white g-padding-x-30--xs g-padding-y-40--xs">
           <h2 class="g-font-size-18--xs g-margin-b-5--xs">Amelia Fantone-Ajoc</h2>
-          <span class="g-font-size-15--xs g-color--text"><i><!---Regulated Canadian Immigration Consultant (RCIC Member #R518392)<br>
-          Commissioner for Oaths in Alberta---></i></span> </div>
+          <span class="g-font-size-15--xs g-color--text"><i></i></span> </div>
       </div>
       <!-- End Team --> 
     
@@ -316,7 +316,7 @@
   <div class="row g-margin-b-10--xs g-margin-t-100--lg">
     
     <div class="col-md-6 g-margin-b-60--xs g-margin-b-0--lg">
-      <iframe width="100%" height="310px" src="https://www.youtube.com/embed/a_3VOkhQBmM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+      <!---<iframe width="100%" height="310px" src="https://www.youtube.com/embed/a_3VOkhQBmM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>--->
     </div>
     
     <div class="col-md-5 g-margin-b-10--xs g-margin-b-0--lg g-margin-t-10--lg g-margin-l-20--lg">
@@ -392,9 +392,10 @@
         <div class="col-sm-2 g-margin-b-20--xs g-margin-b-0--md">
           <ul class="list-unstyled g-ul-li-tb-5--xs g-margin-b-0--xs">
             <li><a class="g-font-size-15--xs g-color--white-opacity" href="#js__scroll-to-section3">Home</a></li>
-            <li><a class="g-font-size-15--xs g-color--white-opacity" href="#js__scroll-to-section">Immigration Consultancy</a></li>
+            <li><a class="g-font-size-15--xs g-color--white-opacity" href="#js__scroll-to-section">About Us</a></li>
             <li><a class="g-font-size-15--xs g-color--white-opacity" href="#js__scroll-to-section2">Process</a></li>
             <li><a class="g-font-size-15--xs g-color--white-opacity" href="#js__scroll-to-section4">Our Team</a></li>
+            <li><a class="g-font-size-15--xs g-color--white-opacity" href="Blogs.cfm">Blog</a></li>
           </ul>
         </div>
         <div class="col-sm-2 g-margin-b-20--xs g-margin-b-0--md">
