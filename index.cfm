@@ -6,8 +6,8 @@
 <meta charset="utf-8"/>
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta http-equiv="x-ua-compatible" content="ie=edge">
-<title>AJOC INTERNATIONAL INC.l</title>
-<meta name="keywords" content="Immigration Consultancy Canada" />
+<title>Truck Dispatch Go | Truckdispatchgo.com</title>
+<meta name="keywords" content="Truck Dispatching" />
 <meta name="description" content="Immigration Consultancy">
 <meta name="author" content="onevoix.com">
 
@@ -140,7 +140,9 @@
     </div>
     <div class="col-md-5 g-margin-b-10--xs g-margin-b-0--lg g-margin-t-10--lg g-margin-l-20--lg">
       <div class="g-margin-b-30--xs">
-        <p class="text-uppercase g-font-size-14--xs g-font-weight--700 g-color--primary g-letter-spacing--2 g-margin-b-15--xs hidden">We are a licensed immigration consulting firm located in Edmonton, AB Canada</p>
+        <p class="text-uppercase g-font-size-14--xs g-font-weight--700 g-color--primary g-letter-spacing--2 g-margin-b-15--xs hidden">
+        	----
+        </p>
         <h2 class="g-font-size-32--xs g-font-size-36--sm">WE DISPATCH. WE DELIVER. WE CONQUER.</h2>
         <h6>Dry Van, Reefer, Flatbed & Power-Only Trucks.</h6>
         <p>Our clients have full confidence in having us by their side to ensure their safety, security, and success. 
