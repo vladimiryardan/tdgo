@@ -6,7 +6,7 @@
 <meta charset="utf-8"/>
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta http-equiv="x-ua-compatible" content="ie=edge">
-<title>AJOC INTERNATIONAL INC.l</title>
+<title>Truck Dispatch Go | Truckdispatchgo.com</title>
 <meta name="keywords" content="Immigration Consultancy Canada" />
 <meta name="description" content="Immigration Consultancy">
 <meta name="author" content="onevoix.com">
@@ -26,7 +26,7 @@
 <link href="css/global/global.css" rel="stylesheet" type="text/css"/>
 
 <!-- Favicon -->
-<link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon">
+<link rel="shortcut icon" href="img/favTDGO.png" type="image/x-icon">
 <link rel="apple-touch-icon" href="img/apple-touch-icon.png">
 </head>
 <!-- End Head -->
@@ -55,11 +55,11 @@
           <div class="collapse navbar-collapse s-header-v2__navbar-collapse" id="nav-collapse">
             <ul class="s-header-v2__nav">
               <!-- Home -->        
-              <li class="s-header-v2__nav-item"><a href="index.cfm" class="s-header-v2__nav-link">Home</a></li>
+               <li class="s-header-v2__nav-item"><a href="index.cfm" class="s-header-v2__nav-link">Home</a></li>
               <li class="s-header-v2__nav-item"><a href="index.cfm" class="s-header-v2__nav-link">About Us</a></li>
               <li class="s-header-v2__nav-item"><a href="index.cfm" class="s-header-v2__nav-link">Process</a></li>
-              <li class="s-header-v2__nav-item"><a href="index.cfm" class="s-header-v2__nav-link">Our Team</a></li>
-              <li class="s-header-v2__nav-item"><a href="truckDispatchSoGood.cfm" class="s-header-v2__nav-link">Blog</a></li>
+              <li class="s-header-v2__nav-item"><a href="index.cfm" class="s-header-v2__nav-link">Trucks</a></li>
+              <li class="s-header-v2__nav-item"><a href="Blogs.cfm" class="s-header-v2__nav-link">Blog</a></li>
               <li class="s-header-v2__nav-item"><a href="index.cfm" class="s-header-v2__nav-link s-header-v2__nav-link--dark">Contact Us</a></li>
             </ul>
           </div>
@@ -350,10 +350,10 @@
       <div class="row">
         <div class="col-sm-2 g-margin-b-20--xs g-margin-b-0--md">
           <ul class="list-unstyled g-ul-li-tb-5--xs g-margin-b-0--xs">
-            <li><a class="g-font-size-15--xs g-color--white-opacity" href="#js__scroll-to-section3">Home</a></li>
-            <li><a class="g-font-size-15--xs g-color--white-opacity" href="#js__scroll-to-section">About Us</a></li>
-            <li><a class="g-font-size-15--xs g-color--white-opacity" href="#js__scroll-to-section2">Process</a></li>
-            <li><a class="g-font-size-15--xs g-color--white-opacity" href="#js__scroll-to-section4">Our Team</a></li>
+            <li><a class="g-font-size-15--xs g-color--white-opacity" href="index.cfm">Home</a></li>
+            <li><a class="g-font-size-15--xs g-color--white-opacity" href="index.cfm">About Us</a></li>
+            <li><a class="g-font-size-15--xs g-color--white-opacity" href="index.cfm">Process</a></li>
+            <li><a class="g-font-size-15--xs g-color--white-opacity" href="index.cfm">Trucks</a></li>
             <li><a class="g-font-size-15--xs g-color--white-opacity" href="Blogs.cfm">Blog</a></li>
           </ul>
         </div>

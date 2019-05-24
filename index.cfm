@@ -26,7 +26,7 @@
 <link href="css/global/global.css" rel="stylesheet" type="text/css"/>
 
 <!-- Favicon -->
-<link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon">
+<link rel="shortcut icon" href="img/favTDGO.png" type="image/x-icon">
 <link rel="apple-touch-icon" href="img/apple-touch-icon.png">
 </head>
 <!-- End Head -->
@@ -59,7 +59,7 @@
               <li class="s-header-v2__nav-item"><a href="#js__scroll-to-section3" class="s-header-v2__nav-link">Home</a></li>
               <li class="s-header-v2__nav-item"><a href="#js__scroll-to-section" class="s-header-v2__nav-link">About Us</a></li>
               <li class="s-header-v2__nav-item"><a href="#js__scroll-to-section2" class="s-header-v2__nav-link">Process</a></li>
-              <li class="s-header-v2__nav-item"><a href="#js__scroll-to-section4" class="s-header-v2__nav-link">Our Team</a></li>
+              <li class="s-header-v2__nav-item"><a href="#js__scroll-to-section4" class="s-header-v2__nav-link">Trucks</a></li>
               <li class="s-header-v2__nav-item"><a href="Blogs.cfm" class="s-header-v2__nav-link">Blog</a></li>
               <li class="s-header-v2__nav-item"><a href="#js__scroll-to-appointment" class="s-header-v2__nav-link s-header-v2__nav-link--dark">Contact Us</a></li>
             </ul>
@@ -85,7 +85,7 @@
           <h2 class="g-font-size-32--xs g-font-size-45--sm g-font-size-60--md g-color--white">DISPATCH FREIGHT SERVICE</h2>
           <p class="g-font-size-18--xs g-font-size-22--sm g-color--white-opacity">Dispatching made safe and secure. We have experienced dedicated dispatchers that will surely keep you on the move. Wherever you like, whenever you like. You drive. We take care of everything else.</p>
         </div>
-        <a href="#js__scroll-to-section" class="text-uppercase s-btn s-btn--md s-btn--white-brd g-radius--50 g-padding-x-50--xs">Read More</a> </div>
+        <!---<a href="#js__scroll-to-section" class="text-uppercase s-btn s-btn--md s-btn--white-brd g-radius--50 g-padding-x-50--xs">Read More</a>---> </div>
     </div>
     <div class="g-fullheight--xs g-bg-position--center swiper-slide" style="background: url('img/1920x1080/truck2.jpg');">
       <div class="container g-text-center--xs g-ver-center--xs">
@@ -94,7 +94,7 @@
             <h2 class="g-font-size-32--xs g-font-size-45--sm g-font-size-60--md g-color--white">SECURITY AND COMFORT</h2>
             <p class="g-font-size-18--xs g-font-size-22--sm g-color--white-opacity">Through years of experience, we know every trick in the book; and even came up with more. Skill and experience work hand in hand in every industry, and on this one, we have a lot.</p>
           </div>
-          <a href="#js__scroll-to-section2" class="text-uppercase s-btn s-btn--md s-btn--white-brd g-radius--50 g-padding-x-50--xs">Read More</a> </div>
+          <!---<a href="#js__scroll-to-section2" class="text-uppercase s-btn s-btn--md s-btn--white-brd g-radius--50 g-padding-x-50--xs">Read More</a>---> </div>
       </div>
     </div>
     <div class="g-fullheight--xs g-bg-position--center g-bg-position--bottom swiper-slide" style="background: url('img/1920x1080/truck5.jpg');">
@@ -104,7 +104,7 @@
             <h2 class="g-font-size-32--xs g-font-size-45--sm g-font-size-60--md g-color--white">DIFFERENT ABOVE ALL</h2>
             <p class="g-font-size-18--xs g-font-size-22--sm g-color--white-opacity">Our dispatching process has been refined to a point where errors barely even see the light of day. Out of all the time that we have been dispatching, it has been proven that our process alone stands out from everybody else's.</p>
           </div>
-          <a href="#js__scroll-to-section5" class="text-uppercase s-btn s-btn--md s-btn--white-brd g-radius--50 g-padding-x-50--xs">Read More</a> <br>
+          <!---<a href="#js__scroll-to-section5" class="text-uppercase s-btn s-btn--md s-btn--white-brd g-radius--50 g-padding-x-50--xs">Read More</a>---> <br>
         </div>
       </div>
     </div>
@@ -256,17 +256,17 @@
 <!-- End Process -->
 
 <div id="js__scroll-to-section4" class="container g-text-center--xs g-padding-y-80--xs" style="margin-top:3px">
-  <p class="text-uppercase g-font-size-14--xs g-font-weight--700 g-color--primary g-letter-spacing--2 g-margin-b-25--xs">Meet the Team</p>
-  <h2 class="g-font-size-32--xs g-font-size-36--sm">Professional Specialists</h2>
+  <!---<p class="text-uppercase g-font-size-14--xs g-font-weight--700 g-color--primary g-letter-spacing--2 g-margin-b-25--xs">Meet the Trucks</p>--->
+  <h2 class="g-font-size-32--xs g-font-size-36--sm">Meet the Trucks</h2>
 </div>
 <!-- Team -->
 <div class="row g-row-col--0">
   <div class="col-md-4 col-xs-6 g-full-width--xs">
    
       <!-- Team -->
-      <div class="s-team-v1"> <img class="img-responsive g-width-100-percent--xs" src="img/400x400/truckP.jpg" alt="Image">
+      <div class="s-team-v1"> <img class="img-responsive g-width-100-percent--xs" src="img/400x400/truck14.png" alt="Image">
         <div class="g-text-center--xs g-bg-color--white g-padding-x-30--xs g-padding-y-40--xs">
-          <h2 class="g-font-size-18--xs g-margin-b-5--xs">Amelia Fantone-Ajoc</h2>
+          <h2 class="g-font-size-18--xs g-margin-b-5--xs">Dry Van</h2>
           <span class="g-font-size-15--xs g-color--text"><i></i></span> </div>
       </div>
       <!-- End Team --> 
@@ -275,9 +275,9 @@
   <div class="col-md-4 col-xs-6 g-full-width--xs">
     
       <!-- Team -->
-      <div class="s-team-v1"> <img class="img-responsive g-width-100-percent--xs" src="img/400x400/truckP.jpg" alt="Image">
+      <div class="s-team-v1"> <img class="img-responsive g-width-100-percent--xs" src="img/400x400/truck11.png" alt="Image">
         <div class="g-text-center--xs g-bg-color--white g-padding-x-30--xs g-padding-y-40--xs">
-          <h3 class="g-font-size-18--xs g-margin-b-5--xs">Anna Kusaikina</h3>
+          <h3 class="g-font-size-18--xs g-margin-b-5--xs">Reefer</h3>
           <span class="g-font-size-15--xs g-color--text"><i><!---Psafdasdf---></i></span> </div>
       </div>
       <!-- End Team --> 
@@ -286,9 +286,9 @@
   <div class="col-md-4 col-xs-6 g-full-width--xs">
    
       <!-- Team -->
-      <div class="s-team-v1"> <img class="img-responsive g-width-100-percent--xs" src="img/400x400/truckP.jpg" alt="Image">
+      <div class="s-team-v1"> <img class="img-responsive g-width-100-percent--xs" src="img/400x400/truck13.png" alt="Image">
         <div class="g-text-center--xs g-bg-color--white g-padding-x-30--xs g-padding-y-40--xs">
-          <h4 class="g-font-size-18--xs g-margin-b-5--xs">Katrina Buan</h4>
+          <h4 class="g-font-size-18--xs g-margin-b-5--xs">Flat Bed</h4>
           <span class="g-font-size-15--xs g-color--text"><i><!---Client Specialist---></i></span> </div>
       </div>
       <!-- End Team --> 
@@ -297,7 +297,7 @@
   <div class="col-md-3 col-xs-6 g-full-width--xs hidden">
     
       <!-- Team -->
-      <div class="s-team-v1"> <img class="img-responsive g-width-80-percent--xs" src="img/400x400/truckP.jpg" style="border-radius:50%; margin:20px 20px 20px 20px" alt="Image">
+      <div class="s-team-v1"> <img class="img-responsive g-width-80-percent--xs" src="img/400x400/truck14.png" style="border-radius:50%; margin:20px 20px 20px 20px" alt="Image">
         <div class="g-text-center--xs g-bg-color--white g-padding-x-30--xs g-padding-y-40--xs">
           <h4 class="g-font-size-18--xs g-margin-b-5--xs">Rizelle Cabantac</h4>
           <span class="g-font-size-15--xs g-color--text"><i><!---Client Specialist---></i></span> </div>
@@ -309,25 +309,27 @@
 <!-- End Team -->
 
 <!-- News -->
-<div id="js__scroll-to-section5"  class="container g-padding-y-80--xs g-padding-y-125--sm">
-  <div class="g-text-center--lg">
+<div id="js__scroll-to-section5"  class="container">
+	<div class="g-text-center--lg">
+		<br>
+	<h2 class="g-font-size-32--xs g-font-size-36--sm ">What makes Truck Dispatch GO so good?</h2>
+	</div>
+  <div class="g-text-left--lg">
     <p class="text-uppercase g-font-size-14--xs g-font-weight--700 g-color--primary g-letter-spacing--2 g-margin-b-25--xs hidden">Meet the Team</p>
-    <h2 class="g-font-size-32--xs g-font-size-36--sm">What makes Truck Dispatch GO so good?</h2>
+    
+    <br>
     <p>Truck Dispatch GO is team of experienced call center agents that mainly focuses in the logistics and dispatching industry. This already gives proof that our telecommunications experience is superior in this line of business. We are a collective of skillful independent dispatchers that have reached optimal efficiency by working as a team.</p>
+  
+  		<p>Being in the trucking industry, carriers or truck drivers would mostly be on the road, and it is not always possible to reach out via phone. We can provide different channels of support, like email, chat, SMS and other applicable avenues of communication.</p>
+        <p>We can help you find profitable and high-dollar freight, find loads that you would want to haul and towards the places/routes that you would want to go. </p>
+        <p>What sets us apart are our outstanding personnel who are always up to the task in handling challenging responsibilities and our team's passion towards excellence.</p>
+     
   </div>
   <div class="row g-margin-b-10--xs g-margin-t-100--lg">
     
-    <div class="col-md-6 g-margin-b-60--xs g-margin-b-0--lg">
+   <!--- <div class="col-md-6 g-margin-b-60--xs g-margin-b-0--lg">
       <!---<iframe width="100%" height="310px" src="https://www.youtube.com/embed/a_3VOkhQBmM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>--->
-    </div>
-    
-    <div class="col-md-5 g-margin-b-10--xs g-margin-b-0--lg g-margin-t-10--lg g-margin-l-20--lg">
-      <div class="g-margin-b-30--xs">
-        <p>Being in the trucking industry, carriers or truck drivers would mostly be on the road, and it is not always possible to reach out via phone. We can provide different channels of support, like email, chat, SMS and other applicable avenues of communication.</p>
-        <p>We can help you find profitable and high-dollar freight, find loads that you would want to haul and towards the places/routes that you would want to go. </p>
-        <p>What sets us apart are our outstanding personnel who are always up to the task in handling challenging responsibilities and our team's passion towards excellence.</p>
-      </div>
-    </div>
+    </div>--->
   </div>
 </div>
 <!-- End News -->
@@ -344,7 +346,7 @@
         <div class="col-xs-4 g-full-width--xs g-margin-b-50--xs g-margin-b-0--sm">
           <div class="g-text-center--xs"> <i class="g-display-block--xs g-font-size-40--xs g-color--white-opacity g-margin-b-30--xs ti-email"></i>
             <h4 class="g-font-size-18--xs g-color--white g-margin-b-5--xs">Email</h4>
-            <p class="g-color--white-opacity">info@virtualassistantgo.com</p>
+            <p class="g-color--white-opacity">info@truckdispatchgo.com</p>
           </div>
         </div>
         <div class="col-xs-4 g-full-width--xs g-margin-b-50--xs g-margin-b-0--sm">
