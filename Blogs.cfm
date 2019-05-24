@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta http-equiv="x-ua-compatible" content="ie=edge">
 <title>Truck Dispatch Go | Truckdispatchgo.com</title>
-<meta name="keywords" content="Immigration Consultancy Canada" />
+<meta name="keywords" content="Truck Dispatching" />
 <meta name="description" content="Immigration Consultancy">
 <meta name="author" content="onevoix.com">
 
@@ -97,7 +97,10 @@
 
 <!-- News -->
 <div class="container g-padding-y-80--xs g-padding-y-125--sm">
+
   <div class="g-text-left--lg">
+  	
+  	<!--->What makes Truck Dispatch GO so good? --->
     <p class="text-uppercase g-font-size-14--xs g-font-weight--700 g-color--primary g-letter-spacing--2 g-margin-b-25--xs hidden">Meet the Team</p>
     <h2 class="g-font-size-32--xs g-font-size-36--sm"><a href="truckDispatchSoGood.cfm">What makes Truck Dispatch GO so good?</a></h2>
     <p>Truck Dispatch GO is team of experienced call center agents that mainly focuses in the logistics and dispatching industry. 
@@ -105,9 +108,46 @@
     skillful independent dispatchers that have reached optimal efficiency by working as a team...
     <br><a href="truckDispatchSoGood.cfm">Read more</a>
     </p>
+    <br>
+    <!--->What makes Truck Dispatch GO so good? End---> 
     
-  
+    <!---5 IMPORTANT THINGS --->
+    <p class="text-uppercase g-font-size-14--xs g-font-weight--700 g-color--primary g-letter-spacing--2 g-margin-b-25--xs hidden">5 IMPORTANT THINGS</p>
+    <h2 class="g-font-size-32--xs g-font-size-36--sm"><a href="fiveImportantThings.cfm">You Should Know About A Career In Trucking Company</a></h2>
+    <p>There are 5  important things you should know about a career in trucking, <B>BEFORE</b> getting onboard in the trucking industry. 
+    My personal career in trucking has lasted for nearly 40 years. I've learned lots in that time in this industry as a result
+	of my trucking experience, which new drivers and CDL drivers in training could benefit from. This is a realistic look at what
+	to expect from a driving career in trucking.
+    <br><a href="fiveImportantThings.cfm">Read more</a>
+    </p>
+    <!---5 IMPORTANT THINGS END --->
+    
+    <!---Things You Should Know About Lumpers --->
+    <p class="text-uppercase g-font-size-14--xs g-font-weight--700 g-color--primary g-letter-spacing--2 g-margin-b-25--xs hidden">TRUCKERS BEWARE</p>
+    <h2 class="g-font-size-32--xs g-font-size-36--sm"><a href="blogs/everyTruckerShouldKnowAboutLumpers.cfm">Things Every Trucker Should Know About Lumpers</a></h2>
+    <p>Things You Should Know About Lumpers. Lumping is a service charge that is sometimes used, most commonly, by big grocery store chains. 
+    Basically, lumping is when a third-party unloads your freight delivery for you, whether it is stated as part of your job or not. Big 
+    grocery chains like lumper services. It saves them millions of dollars in staff and labour annually. Grocery chains are more than happy 
+    to allow lumper services in their freight delivery docks for this reason. However, lumping is mostly considered a scam that these chains 
+    brush off to the trucking companies. But in the end, it's important that the truck driver, not get stuck with the lumping bill.
+    <br><a href="blogs/everyTruckerShouldKnowAboutLumpers.cfm">Read more</a>
+    </p>
+    <!---Things You Should Know About Lumpers End --->
+    
+    <!---THE DARKSIDE OF TRUCKING --->
+    <p class="text-uppercase g-font-size-14--xs g-font-weight--700 g-color--primary g-letter-spacing--2 g-margin-b-25--xs hidden">THE DARKSIDE OF TRUCKING</p>
+    <h2 class="g-font-size-32--xs g-font-size-36--sm"><a href="blogs/darkSideOfTrucking.cfm">Industry Lies, Scams and Secrets</a></h2>
+    <p>There is a dark side of trucking. It is often brushed aside or not spoken about openly. The trucking industry consists of a huge population 
+    of people. Within this population, the majority of the workers are truck drivers who have a stressful risky, often low paying job, live a 
+    transient lifestyle and thus are very susceptible to health problems. Some trucking companies and segments of the trucking industry freely 
+    take advantage of the truck driver population in various ways. The truck driver is often intimidated by the system and unaware that they are 
+    being taken advantage of. Therefore they do nothing in response but take it.  
+    <br><a href="blogs/darkSideOfTrucking.cfm">Read more</a>
+    </p>
   </div>
+
+
+
 </div>
 <!-- End News -->
 <!--========== END PAGE CONTENT ==========--> 

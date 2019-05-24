@@ -60,7 +60,7 @@
               <li class="s-header-v2__nav-item"><a href="#js__scroll-to-section" class="s-header-v2__nav-link">About Us</a></li>
               <li class="s-header-v2__nav-item"><a href="#js__scroll-to-section2" class="s-header-v2__nav-link">Process</a></li>
               <li class="s-header-v2__nav-item"><a href="#js__scroll-to-section4" class="s-header-v2__nav-link">Trucks</a></li>
-              <li class="s-header-v2__nav-item"><a href="Blogs.cfm" class="s-header-v2__nav-link">Blog</a></li>
+              <li class="s-header-v2__nav-item .dropdown-backdrop"><a href="Blogs.cfm" class="s-header-v2__nav-link">Blog</a></li>
               <li class="s-header-v2__nav-item"><a href="#js__scroll-to-appointment" class="s-header-v2__nav-link s-header-v2__nav-link--dark">Contact Us</a></li>
             </ul>
           </div>
@@ -275,9 +275,9 @@
   <div class="col-md-4 col-xs-6 g-full-width--xs">
     
       <!-- Team -->
-      <div class="s-team-v1"> <img class="img-responsive g-width-100-percent--xs" src="img/400x400/truck11.png" alt="Image">
+      <div class="s-team-v1"> <img class="img-responsive g-width-100-percent--xs" src="img/400x400/truck12.png" alt="Image">
         <div class="g-text-center--xs g-bg-color--white g-padding-x-30--xs g-padding-y-40--xs">
-          <h3 class="g-font-size-18--xs g-margin-b-5--xs">Reefer</h3>
+          <h3 class="g-font-size-18--xs g-margin-b-5--xs">Flat Bed</h3>
           <span class="g-font-size-15--xs g-color--text"><i><!---Psafdasdf---></i></span> </div>
       </div>
       <!-- End Team --> 
@@ -286,9 +286,9 @@
   <div class="col-md-4 col-xs-6 g-full-width--xs">
    
       <!-- Team -->
-      <div class="s-team-v1"> <img class="img-responsive g-width-100-percent--xs" src="img/400x400/truck13.png" alt="Image">
+      <div class="s-team-v1"> <img class="img-responsive g-width-100-percent--xs" src="img/400x400/truck11.png" alt="Image">
         <div class="g-text-center--xs g-bg-color--white g-padding-x-30--xs g-padding-y-40--xs">
-          <h4 class="g-font-size-18--xs g-margin-b-5--xs">Flat Bed</h4>
+          <h4 class="g-font-size-18--xs g-margin-b-5--xs">Reefer</h4>
           <span class="g-font-size-15--xs g-color--text"><i><!---Client Specialist---></i></span> </div>
       </div>
       <!-- End Team --> 
@@ -382,7 +382,7 @@
         </div>
       </form>
     </div>
-    <img class="s-mockup-v2" src="img/mockups/pencil-01.png" alt="Mockup Image"> </div>
+    <img class="s-mockup-v2" src="img/mockups/items-01.png" alt="Mockup Image"> </div>
 </div>
 <!-- End Form --> 
 <!--========== END PAGE CONTENT ==========--> 
@@ -398,7 +398,7 @@
             <li><a class="g-font-size-15--xs g-color--white-opacity" href="#js__scroll-to-section3">Home</a></li>
             <li><a class="g-font-size-15--xs g-color--white-opacity" href="#js__scroll-to-section">About Us</a></li>
             <li><a class="g-font-size-15--xs g-color--white-opacity" href="#js__scroll-to-section2">Process</a></li>
-            <li><a class="g-font-size-15--xs g-color--white-opacity" href="#js__scroll-to-section4">Our Team</a></li>
+            <li><a class="g-font-size-15--xs g-color--white-opacity" href="#js__scroll-to-section4">Trucks</a></li>
             <li><a class="g-font-size-15--xs g-color--white-opacity" href="Blogs.cfm">Blog</a></li>
           </ul>
         </div>

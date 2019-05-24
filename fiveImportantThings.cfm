@@ -25,6 +25,7 @@
 <link href="css/style.css" rel="stylesheet" type="text/css"/>
 <link href="css/global/global.css" rel="stylesheet" type="text/css"/>
 
+<link href="css/tdgoStyle.css" rel="stylesheet" type="text/css"/>
 <!-- Favicon -->
 <link rel="shortcut icon" href="img/favTDGO.png" type="image/x-icon">
 <link rel="apple-touch-icon" href="img/apple-touch-icon.png">
@@ -78,11 +79,11 @@
 <div> 
   <!-- Image -->
 
-    <div class="g-fullheight--xs g-bg-position--center" style="background: url('img/1920x1080/Btruck.jpg');">
+    <div class="g-fullheight--xs g-bg-position--center" style="background: url('img/1920x1080/fiveImportantThings.jpg');">
       <div class="container g-text-center--xs g-ver-center--xs">
         <div class="g-margin-b-30--xs">
-          <h2 class="g-font-size-32--xs g-font-size-45--sm g-font-size-60--md g-color--white">DISPATCH SERVICE ON THE GO</h2>
-          <p class="g-font-size-18--xs g-font-size-22--sm g-color--white-opacity">We're taking logistics in a new direction. With leading technology, greater transparency, and more opportunities, both shippers and carriers win</p>
+          <h2 class="g-font-size-32--xs g-font-size-45--sm g-font-size-60--md g-color--white">5 IMPORTANT THINGS</h2>
+          <p class="g-font-size-18--xs g-font-size-22--sm g-color--white-opacity">You Should Know About A Career In Trucking Comepany</p>
         </div>     
     </div>
   
@@ -94,197 +95,213 @@
 <!--========== PAGE CONTENT ==========--> 
 
 <!-- News -->
-<div id="js__scroll-to-section5"  class="container g-padding-y-80--xs g-padding-y-125--sm">
+<div class="container g-padding-y-80--xs">
   <div class="g-text-left--lg">
-    <p class="text-uppercase g-font-size-14--xs g-font-weight--700 g-color--primary g-letter-spacing--2 g-margin-b-25--xs hidden">True Value</p>
-    <h2 class="g-font-size-32--xs g-font-size-36--sm">The True Value of a Truck Dispatch Service</h2>
-    <p class="g-font-size-18--xs">The Trucking Business is considered a volatile industry because the rates
-		and loads shift in an instant. Although it welcomes newbies and
-		independent dispatchers with open arms, the struggle for growth and
-		stability in this endeavor is quite real.
+    <p class="g-font-size-18--xs"><strong>There are 5  important things you should know about a career in trucking, 
+    <B>BEFORE</b> getting onboard in the trucking industry.</strong>
 	</p>
 	
 	<p class="g-font-size-18--xs">
-		In such a situation, teaming up with a truck dispatcher can make or break
-		your trucking company. Hence, getting the best dispatcher on your side is
-		critical.
+		My personal career in trucking has lasted for nearly 40 years. I've learned lots in that time in this industry as a result
+		 of my trucking experience, which new drivers and CDL drivers in training could benefit from.
 	</p>
+	
+	<p class="g-font-size-18--xs">
+		This is a realistic look at what to expect from a driving career in trucking.
+	</p>
+	
 	<br>
-	<h3 class="g-font-size-21--xs g-font-size-25--sm">Truck Dispatchers - Who are they?</h3>
-	
-	<p class="g-font-size-18--xs">
-		Friendly neighborhood truck dispatchers are individuals who help owner-
-		operators of trucks manage the administrative side of their companies.
-		Good dispatchers act as liaison between the carrier, broker and shipper.
-		They find loads, negotiate rates and verify the status of posted loads.They
-		inform the driver of the pickup and drop off location, schedule and get
-		details of a haul, and do the necessary paperwork, so that the carrier
-		doesn't have to worry about anything else other than the actual travel and
-		delivery. Dispatchers also secure the billing and payment system.
-	</p>
+	<!---Realistic Expectations --->
+	<h3 class="g-font-size-21--xs g-font-size-25--sm">Realistic Expectations of a Driving Career in Trucking</h3>
 	<br>
-	<h3 class="g-font-size-21--xs g-font-size-25--sm">Picking the Right Dispatcher</h3>
-	<p class="g-font-size-18--xs"> 
-		There are three things to consider when choosing a truck dispatching
-		service:
-	</p>
 	
-	<!---Dispatcher Resources --->
-	
-	<p class="g-font-size-18--xs"> <strong>Resources of the Dispatcher</strong></p>
-	
+	<!---Stress is Part of the Job --->
+	<p class="g-font-size-18--xs"> <strong>1. Stress is Part of the Job</strong></p>
+
 	<p class="g-font-size-18--xs">
-		Ideally, your partner dispatcher should be able to provide majority, if
-		not all of the services that you as an owner-operator need.
-		<br>
-		A truck dispatching service must offer the following assistance:
-	</p>	
-	
-	<p class="g-font-size-18--xs">
-		&#9755; Load Booking is the most basic service given by a dispatcher.
-		This is a vital resource for independent owner-operators because most
-		of them don't have regular clients yet.
+		Stress is an inevitable part of a career in trucking. I always enjoy the driving part of the job, don't get me wrong.
 	</p>
 	
 	<p class="g-font-size-18--xs">
-		&#9755; Documents and administrative work, such as maintaining the motor
-		carrier compliance is essential to ensure that the carrier can be
-		dispatched anytime. Billing and collections is also part of a dispatcher's
-		responsibility. Invoices to the shipper or factoring company, collections,
-		follow-ups and payments are some of the common tasks involved.
-	</p>
-	
-	<p class="g-font-size-18--xs"> <strong>Logistics of the Dispatcher</strong></p>
-	
-	<p class="g-font-size-18--xs">
-		&#9755; Carrier management means building a reliable relationship with truck
-		driver clients, assigning them loads whenever needed and
-		communicating with them if ever they are empty. A good dispatcher
-		must be familiar with their customer's routes, origin state, rates,
-		equipment and schedule in order to get a successful match.
+		But there is stress involved in a truck driving career. There's stress when you're in traffic, there's stress when you're 
+		looking for some place downtown and you can't find it and you're lost, there's stress trying to back into a tiny little spot, 
+		where there really isn't any room for a tractor trailer.
 	</p>
 	
 	<p class="g-font-size-18--xs">
-		&#9755; Troubleshooting should also one be one of the specialties of a
-		dispatching service. It is the responsibility of a dispatcher to inform their
-		carriers when there are equipment, traffic or weather related delays.
+		The customer doesn't car&hellip; he just wants you to be at the dock. There's the stress of being away from home and worrying about 
+		your family when you're gone. There is plenty of stress in driving professionally for a living.
 	</p>
 	
 	<p class="g-font-size-18--xs">
-		&#9755; Customer service is part of the owner-operator and dispatcher
-		agreement. The dispatcher should be able to address issues on behalf
-		of their client.
+		One of the first things you need to do, is learn how to handle that stress and take it in stride.
 	</p>
+	
+	<!---Stress is Part of the Job End --->
 	<br>
-	<h3 class="g-font-size-21--xs g-font-size-25--sm">Payment Options of the Dispatcher</h3>
+	<!---Effective Communication is Key --->
+	<p class="g-font-size-18--xs"> <strong>2. Effective Communication is Key</strong></p>
+
+	<p class="g-font-size-18--xs">
+		The second thing you need to learn to do, is how to communicate and manage the people that you're dealing with.
+	</p>
 	
 	<p class="g-font-size-18--xs">
-		An efficient dispatching service must have several payment options for their
-		customers. The two most common billing method is charging by flat rate or
-		taking a percentage off the carrier's load. These options are flexible and
-		provide drivers control over their spending.
+		Contrary to popular belief, over the road trucking is not just freedom of the road and you're all by yourself. 
+		There's people to deal with along the way at various levels.
+	</p>
+	
+	<p class="g-font-size-18--xs">
+		&#x2714; You've got to deal with your dispatcher.
+	</p>
+	
+	<p class="g-font-size-18--xs">
+		&#x2714; You've got to learn how to handle and manage him, in order to communicate to him, 
+		what your needs are so that you can successfully deliver his load in a timely fashion. 
+		That way, the trucking company makes money&hellip; It's their number one concern.
+	</p>
+	
+	<p class="g-font-size-18--xs">
+		&#x2714; You've got to learn to communicate and manage your relationship with the customers 
+		so they're not leaving you out in the back 40 waiting to unload.
+	</p>
+	
+	<p class="g-font-size-18--xs">
+		&#x2714; You've got to use that time efficiently. A lot of times you're not getting paid for 
+		waiting or you're getting paid very little for the wait time, so you want to be in and out of 
+		that dock as quickly as possible rather than being put on ignore by the shipper or receiver.
+	</p>
+	
+	<p class="g-font-size-18--xs">
+		&#x2714; You've got to learn to communicate effectively with the repair shop workers. Shop time 
+		is generally unpaid downtime, so you want to get in and out of the shop as quickly as possible and 
+		learn to manage that downtime successfully, in order to minimize it.
+	</p>
+	
+	<!---Effective Communication is Key End--->
+	<br>
+	<!---You Won't Get Rich as a Trucker--->
+	<p class="g-font-size-18--xs"> <strong>3. You Won't Get Rich as a Trucker</strong></p>
+	<br>
+	<p class="g-font-size-18--xs">
+		<img class="money" src="img/200x200/money.jpg"></img>Something 
+		else that I've learned, is that you'll probably not get rich in trucking. You might think you will, due 
+		to the large number of hours you put in. You would think it would balance out to a large 
+		pay check but it doesn't work that way, especially these days.		
 		<br><br>
-		How to get paid with a truck dispatching service?
+		The time you invest doesn't often turn into a big payout. It's a fact you need to realize and accept, early in your driving career.
 	</p>
 	
 	<p class="g-font-size-18--xs">
-		Truck dispatchers can either directly bill the owner -operator for their fee or
-		involve a factoring company in the mix. Direct billing means the payment
-		for the carrier is given by the broker or shippers themselves. A factoring
-		company on the other hand advances the payment to the driver but
-		immediately deducts the fees associated with the service.
+		The cost of operating on the road has gone way up and that cuts into your bottom line. There's no such 
+		thing as a $2 breakfast anymore, its a $12 breakfast now. $2 only gets you the coffee and nothing else. 
+		It's especially tough to get rich these days if you're an owner operator. The cost of maintaining and 
+		repairing a truck have gone through the roof.
 	</p>
-	<br>
-	<!---Direct Billing --->
-<h3 class="g-font-size-21--xs g-font-size-25--sm">Direct Billing</h3>
 	
-<div id="js__scroll-to-section"  class="container" >
-  <div class="row g-margin-b-10--xs">
-    <div class="col-md-5 g-margin-b-10--xs g-margin-b-0--lg g-margin-t-10--lg g-margin-l-20--lg">
-      <div class="g-margin-b-30--xs">
-        <p class="text-uppercase g-font-size-14--xs g-font-weight--700 g-color--primary g-letter-spacing--2 g-margin-b-15--xs hidden">We are a licensed immigration consulting firm located in Edmonton, AB Canada</p>
-        <h3 class="g-font-size-21--xs g-font-size-25--sm">PRO</h3>
-        <p class="g-font-size-18--xs">&#x2714; The money is paid in full amount and obtained from the broker or shipper. </p>
-        <p class="g-font-size-18--xs">&#x2714; Client feels assured because thereis personal communication with the brokers or shippers.</p>
-        <p class="g-font-size-18--xs">&#x2714; The driver gets a bigger take home pay because there are no deductions.</p>
-      </div>
-    </div>
-    <div class="col-md-5 g-margin-b-10--xs g-margin-b-0--lg g-margin-t-10--lg g-margin-l-20--lg">
-      <div class="g-margin-b-30--xs">
-        <p class="text-uppercase g-font-size-14--xs g-font-weight--700 g-color--primary g-letter-spacing--2 g-margin-b-15--xs hidden">We are a licensed immigration consulting firm located in Edmonton, AB Canada</p>
-        <h3 class="g-font-size-21--xs g-font-size-25--sm">CONS</h3>
-        <p class="g-font-size-18--xs">&#x2718; May take several days up to 45 days to process the payment</p>
-        <p class="g-font-size-18--xs">&#x2718; The process is slower since it goes through several people.</p>
-        <p class="g-font-size-18--xs">&#x2718; The carrier does all the paperwork involved.</p>
-      </div>
-    </div>
-  </div>
-</div>
+	<p class="g-font-size-18--xs">
+		The customer doesn't car&hellip; he just wants you to be at the dock. There's the stress of being away from home and worrying about 
+		your family when you're gone. There is plenty of stress in driving professionally for a living.
+	</p>
+	
+	<p class="g-font-size-18--xs">
+		One of the first things you need to do, is learn how to handle that stress and take it in stride.
+	</p>
+	<!---You Won't Get Rich as a Trucker End --->
+	
+	<!---Relationship Suffer --->
+	<p class="g-font-size-18--xs"> <strong>4. Relationships Suffer</strong></p>
 
-<h3 class="g-font-size-21--xs g-font-size-25--sm">Factoring</h3>
+	<p class="g-font-size-18--xs">
+		One of the biggest lessons I've learned is how hard an over-the-road trucking lifestyle is on a relationship.
+	</p>
 	
-<div id="js__scroll-to-section"  class="container" >
-  <div class="row g-margin-b-10--xs">
-    <div class="col-md-5 g-margin-b-10--xs g-margin-b-0--lg g-margin-t-10--lg g-margin-l-20--lg">
-      <div class="g-margin-b-30--xs">
-        <p class="text-uppercase g-font-size-14--xs g-font-weight--700 g-color--primary g-letter-spacing--2 g-margin-b-15--xs hidden">We are a licensed immigration consulting firm located in Edmonton, AB Canada</p>
-        <h3 class="g-font-size-21--xs g-font-size-25--sm">PRO</h3>
-        <p class="g-font-size-18--xs">&#x2714; The owner-operator gets paid the money in advance.</p>
-        <p class="g-font-size-18--xs">&#x2714; The driver has lesser chances of getting scammed because the money is processed through a financial company.</p>
-        <p class="g-font-size-18--xs">&#x2714; Factoring companies provide more pay out options like money transfer, PayPal, stripe, etc.</p>
-      </div>
-    </div>
-    <div class="col-md-5 g-margin-b-10--xs g-margin-b-0--lg g-margin-t-10--lg g-margin-l-20--lg">
-      <div class="g-margin-b-30--xs">
-        <p class="text-uppercase g-font-size-14--xs g-font-weight--700 g-color--primary g-letter-spacing--2 g-margin-b-15--xs hidden">We are a licensed immigration consulting firm located in Edmonton, AB Canada</p>
-        <h3 class="g-font-size-21--xs g-font-size-25--sm">CONS</h3>
-        <p class="g-font-size-18--xs">&#x2718; The carrier gets lesser pay due to the deduction of factoring service fees.</p>
-        <p class="g-font-size-18--xs">&#x2718; The carrier's money can be easily spent because it is readily available.</p>
-        <p class="g-font-size-18--xs">&#x2718; The money doesn't come in cash.</p>
-      </div>
-    </div>
-  </div>
-</div>
-<br>
-<!-- End Direct Billing --> 
+	<p class="g-font-size-18--xs">
+		Generally, you're away more than you're at home. This in turn places a great deal of strain on your spouse. 
+		They must handle and run the household as well as countless other chores, such as taking care of the kids, 
+		taking care of the bills, doing all the jobs, mowing the lawn, you name it, they've got to do it while you're gone. 
+		These stresses are hard on the stay at home spouse.
+	</p>
+	
+	<p class="g-font-size-18--xs">
+		There's a loss of emotional and moral support. It's not something that can be recovered with phone calls and often 
+		it's something that's just lost and never is recovered if you're gone for long enough.
+	</p>
+	
+	<p class="g-font-size-18--xs">
+		I learned that when the next load takes priority over your family, you're definitely doing something wrong and it's time to switch gears.
+	</p>
+	
+	<!---Relationship Suffer End --->
+	
+	<!---Changes Are Sometimes Necessary --->
+	<p class="g-font-size-18--xs"> <strong>5. Changes Are Sometimes Necessary</strong></p>
 
-<h3 class="g-font-size-21--xs g-font-size-25--sm">Finding the right Truck Dispatching service for you</h3>
-<br>
 	<p class="g-font-size-18--xs">
-		1. Asses your needs as a trucking company. Be aware of the tasks and
-		duties that needs to be done on a regular basis. Check your options and
-		limitations as an individual. Everything that needs manpower should be
-		delegated to a team of dispatchers. Those that can be done personally can
-		be left to you.
+		Finally, I've learned that while it can be tough to make a change, sometimes it's the best thing to do.
 	</p>
 	
 	<p class="g-font-size-18--xs">
-		2. Get referrals. Never underestimate word of mouth. Consult fellow
-		businessmen about their trusted dispatch service. This eases the qualms of
-		entering an unknown partnership and increases confidence in dealing with
-		people.
+		The object of the game is to put money in your pocket, so you've got to be working with a carrier that 
+		is not only making themselves money, but is allowing you to make money as well.
 	</p>
 	
 	<p class="g-font-size-18--xs">
-		3. Comprehend your expenses. Make a detailed costing list of your
-		company expenditure. Know exactly how much money you need to run
-		trucking business and if you can afford to divert some of the funds to pay
-		for a truck dispatching service. Consider back up options such as factoring
-		to prevent future financial problems or bankruptcy.
+		It's got to be a mutual relationship, and too often, especially these days, the carrier is making money, 
+		but the driver not so much. You've got to be compensated for all your time on the road, all your time away. 
+		After all, it's work time too.
 	</p>
-	<br>
 	
-<h3 class="g-font-size-21--xs g-font-size-25--sm">Conclusion</h3>
 	<p class="g-font-size-18--xs">
-		Getting a truck dispatching service may be a big decision for many trucking
-		companies. For some, it may even be their last resort in salvaging their
-		businesses. It is understandable that many are still hesitant to deal with
-		them because of old traditions. Rather than treating them as an option, it is
-		better to refer to them as a solution. After all, what one man can do for his
-		company, a team can surely do greater for everybody.
+		If you find yourself in the position where you are not making money, and you've met with the carrier and voiced 
+		your concerns about being paid for your down time or waiting time or whatever it is, and you and your carrier don't 
+		seem to be able to work it out, it's time to start looking for a better carrier.
 	</p>
 	
-	<h6 class="g-font-size-8--xs g-font-size-12--sm">Source: WWW.COMCAPFACTORING.COM</h6>
+	<p class="g-font-size-18--xs">
+		There are better carriers out there that will pay you for your time. Your time is worth money. While it is stressful 
+		to switch jobs, often its the best thing, because you've got to make a good living at this.
+	</p>
+	
+	<p class="g-font-size-18--xs">
+		Don't let yourself stagnate at a trucking company, who's not treating you well or not paying you fairly, just because you're afraid to move.
+	</p>
+	
+	<p class="g-font-size-18--xs">
+		Make the move. I've had to do it a few times in my career in trucking and each time, it was the right thing to do. 
+		Do consider a change if you’re not being compensated fairly for your time.
+	</p>
+	
+	<!---Changes Are Sometimes Necessary End --->
+	
+	<!---Do What Is BEST For YOU --->
+	<p class="g-font-size-18--xs"> <strong>Do What Is BEST For YOU</strong></p>
+
+	<p class="g-font-size-18--xs">
+		And finally, sometimes it may be nearly impossible to satisfy yourself with the wages in the trucking jobs available to you. 
+		In that case, it may be better to leave your over the road driving career, and seek out a day Job.
+	</p>
+	
+	<p class="g-font-size-18--xs">
+		At the end of the day, you just may find you're making better money and you're home at night. Considering quality of life is a 
+		very important factor.
+	</p>
+	
+	<p class="g-font-size-18--xs">
+		My advice to you, is that if you're in trucking for a career, consider these five things.
+	</p>
+	
+	<p class="g-font-size-18--xs">
+		Learn to balance and deal with them accordingly. A career as a truck driver is truly a great job, as long as you can manage the 
+		issues involved with it.
+	</p>
+	
+	<!---Do What Is BEST For YOU End --->
+	
+	<!---Realistic Expectations End --->
+	
+	
+	<h6 class="g-font-size-8--xs g-font-size-12--sm uppercase">Source: www.smart-trucking.com</h6>
   </div>
 </div>
 <!-- End blog -->
