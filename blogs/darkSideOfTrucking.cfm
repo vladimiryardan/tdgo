@@ -119,32 +119,32 @@
 	<!---Recognizing the Dark Side of Trucking --->
 	<h3 class="g-font-size-21--xs g-font-size-25--sm">Recognizing the Dark Side of Trucking and How to Handle It</h3>
 	
-	<p class="g-font-size-18--xs">&#9755; Trucking Industry Dishonesty, Liars and Cheaters To Beware Of -  Some of the more 
+	<p class="g-font-size-18--xs">&#9755; <a href="subBlog/liarsInTruckingCompanies.cfm">Trucking Industry Dishonesty, Liars and Cheaters To Beware Of </a> -  Some of the more 
 	common sources of dishonesty in trucking. 
 	</p>
 	
-	<p class="g-font-size-18--xs">&#9755; Are You Willing to Go to Jail For Your Truck Driving Job? - As a professional driver, 
+	<p class="g-font-size-18--xs">&#9755; <a href="subBLog/jailForTruckDrivingJob.cfm">Are You Willing to Go to Jail For Your Truck Driving Job?</a> - As a professional driver, 
 	you have a lot of responsibility. With responsibility, comes liability. Be aware of your personal liability, in the event 
 	of an accident. 
 	</p>
 	
-	<p class="g-font-size-18--xs">&#9755; 5 Dirty Trucking Company Tricks You Should Know About - 5 tricks pulled by some trucking 
+	<p class="g-font-size-18--xs">&#9755; <a href="subBLog/tricksYouShouldKnowAbout.cfm">5 Dirty Trucking Company Tricks You Should Know About</a> - 5 tricks pulled by some trucking 
 	companies which truck drivers should beware of. 
 	</p>
 	
-	<p class="g-font-size-18--xs">&#9755; THE Dirtiest Trucking Company Trick Ever - This one takes the cake! It's the slimiest 
+	<p class="g-font-size-18--xs">&#9755; <a href="subBLog/dirtiestTruckingCompanyTrickEver.cfm">THE Dirtiest Trucking Company Trick Ever</a> - This one takes the cake! It's the slimiest 
 	trick we've ever heard of pulled by some carriers. 
 	</p>
 	
-	<p class="g-font-size-18--xs">&#9755; The Most Common Lies Dispatchers Tell Truckers  - If you've never heard of at least ONE 
+	<p class="g-font-size-18--xs">&#9755; <a href="subBLog/getAlongWithYourDispatcher.cfm">The Most Common Lies Dispatchers Tell Truckers</a>  - If you've never heard of at least ONE 
 	of these lies, you are definitely not a truck driver! 
 	</p>
 	
-	<p class="g-font-size-18--xs">&#9755; What You Need to Know About Forced Dispatch - Be sure to be well informed on a carrier's 
+	<p class="g-font-size-18--xs">&#9755; <a href="subBLog/knowAboutForcedDispatch.cfm">What You Need to Know About Forced Dispatch</a> - Be sure to be well informed on a carrier's 
 	dispatch system, before accepting a trucking job.
 	</p>
 	
-	<p class="g-font-size-18--xs">&#9755; 10 Deadly Dangers of a Truck Driving Job - The industry would rather not talk about the 
+	<p class="g-font-size-18--xs">&#9755; <a href="subBLog/deadlyDangersOfATruckDrivingJob.cfm">10 Deadly Dangers of a Truck Driving Job</a> - The industry would rather not talk about the 
 	potential dangers and risks of driving a big truck. Know before you get on board if the risks are worth it for you. 
 	</p>
 	
