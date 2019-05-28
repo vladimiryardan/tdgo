@@ -144,9 +144,33 @@
     being taken advantage of. Therefore they do nothing in response but take it.  
     <br><a href="blogs/darkSideOfTrucking.cfm">Read more</a>
     </p>
+    <!---THE DARKSIDE OF TRUCKING End--->
+    
+    <!---THE DARKSIDE OF TRUCKING --->
+    <p class="text-uppercase g-font-size-14--xs g-font-weight--700 g-color--primary g-letter-spacing--2 g-margin-b-25--xs hidden">
+    How Much Do Dry Van Owner Operators Make In 2018</p>
+    <h2 class="g-font-size-32--xs g-font-size-36--sm"><a href="blogs/dryVanOwnerOperatorsMakeIn2018.cfm">How Much Do Dry Van Owner Operators Make In 2018</a></h2>
+    <p>Are you a company driver looking to buy your own truck and become an owner operator? 
+    Are you curious about how much does an owner operator make? The answers may surprise you. 
+    Why do some dry van owner operators make a profit of $45,000 a year while others are making well over 
+    $150,000? We're going to hi-light the ins and outs of becoming an owner operator and how much money you 
+    can make if you own your own truck. 
+    <br><a href="blogs/dryVanOwnerOperatorsMakeIn2018.cfm">Read more</a>
+    </p>
+    <!---THE DARKSIDE OF TRUCKING End--->
   </div>
 
-
+	<!---Tips For Beginners To Find The Best Loads--->
+    <p class="text-uppercase g-font-size-14--xs g-font-weight--700 g-color--primary g-letter-spacing--2 g-margin-b-25--xs hidden">Tips For Beginners To Find The Best Loads</p>
+    <h2 class="g-font-size-32--xs g-font-size-36--sm"><a href="blogs/dryVanOwnerOperatorsMakeIn2018.cfm">Tips For Beginners To Find The Best Loads</a></h2>
+     <p>Ready to start using a DAT Load Board, but not sure on how to find the best loads for your truck? Look no further, 
+     we're going to give you some tips and tricks on how to find the best loads using DAT Power and/or DAT Truckers 
+     Edge. The same strategies apply to other load boards as well and are guaranteed to help you find the best loads 
+     for your Dry Van, Reefer and/or Flatbed. Get ready to read and learn Tips For Beginners To Find <b>The Best Loads 
+     Using DAT Load Board!</b>
+    <br><a href="blogs/dryVanOwnerOperatorsMakeIn2018.cfm">Read more</a>
+    </p>
+    <!---Tips For Beginners To Find The Best Loads End--->
 
 </div>
 <!-- End News -->

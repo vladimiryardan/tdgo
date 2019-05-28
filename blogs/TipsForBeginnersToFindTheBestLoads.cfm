@@ -25,7 +25,6 @@
 <link href="../css/style.css" rel="stylesheet" type="text/css"/>
 <link href="../css/global/global.css" rel="stylesheet" type="text/css"/>
 
-<link href="../css/tdgoStyle.css" rel="stylesheet" type="text/css"/>
 <!-- Favicon -->
 <link rel="shortcut icon" href="../img/favTDGO.png" type="image/x-icon">
 <link rel="apple-touch-icon" href="../img/apple-touch-icon.png">
@@ -79,11 +78,11 @@
 <div> 
   <!-- Image -->
 
-    <div class="g-fullheight--xs g-bg-position--center" style="background: url('../img/1920x1080/darksideoftrucking.jpg');">
+    <div class="g-fullheight--xs g-bg-position--center" style="background: url('../img/1920x1080/truckLoad.jpg');">
       <div class="container g-text-center--xs g-ver-center--xs">
         <div class="g-margin-b-30--xs">
-          <h2 class="g-font-size-32--xs g-font-size-45--sm g-font-size-60--md g-color--white">THE DARKSIDE OF TRUCKING</h2>
-          <p class="g-font-size-18--xs g-font-size-22--sm g-color--white-opacity">Industry Lies, Scams and Secrets</p>
+          <h2 class="g-font-size-32--xs g-font-size-45--sm g-font-size-60--md g-color--white">TIPS FOR BEGINNERS </h2>
+          <p class="g-font-size-18--xs g-font-size-22--sm g-color--white-opacity">To Find The Best Loads Using DAT Load Board</p>
         </div>     
     </div>
   
@@ -97,106 +96,98 @@
 <!-- News -->
 <div id="js__scroll-to-section5"  class="container g-padding-y-80--xs">
   <div class="g-text-left--lg">
-  	<!---There is a dark side of trucking --->
-    <p class="g-font-size-18--xs"><strong>There is a dark side of trucking. It is often brushed aside or not spoken about openly.</strong>
+  	<!---Tips For Beginners To Find The Best Loads Using DAT Load Board--->
+    <p class="g-font-size-18--xs"><strong>Tips For Beginners To Find The Best Loads Using DAT Load Board</strong>
 	</p>
-    <p class="g-font-size-18--xs">The trucking industry consists of a huge population of people. 
-    Within this population, the majority of the workers are truck drivers who have a stressful risky, 
-    often low paying job, live a transient lifestyle and thus are very susceptible to  health problems. 
+    <p class="g-font-size-18--xs">Ready to start using a DAT Load Board, but not sure on how to find the
+     best loads for your truck? Look no further, we’re going to give you some tips and tricks on how to 
+     find the best loads using DAT Power and/or DAT Truckers Edge. The same strategies apply to other load 
+     boards as well and are guaranteed to help you find the best loads for your Dry Van, Reefer and/or Flatbed. 
+     Get ready to read and learn Tips For Beginners To Find <b>The Best Loads Using DAT Load Board!</b> 
 	</p>
+	<!---Tips For Beginners To Find The Best Loads Using DAT Load Board End --->
+	<br>
+	<!---Make sure to define your search and double check that everything is correct.--->
+	<h3 class="g-font-size-21--xs g-font-size-25--sm">Make sure to define your search and double check that everything is correct.</h3>
 	
 	<p class="g-font-size-18--xs">
-	Some trucking companies and segments of the trucking industry freely take advantage of the truck 
-	driver population in various ways.
+		The first thing you're going to want to do is define your search. This may seem like a no brainer, 
+		but it's a step that a lot of people overlook. Make sure to double check EVERYTHING! Lots of people 
+		that are new to load boards forget to double check their search. This can cause major problems for 
+		you and for the brokers/clients that you work with. Double check the date, the city of origin and 
+		the destination. Many states have cities with the same names. There's nothing worse than booking a 
+		load, only to realize that the pickup date is actually for tomorrow. Mistakes like this should not 
+		happen.
 	</p>
+	<!---Make sure to define your search and double check that everything is correct. End --->
+	<br>
+	<!---It’s better to search multiple states in the destination box.--->
+	<h3 class="g-font-size-21--xs g-font-size-25--sm">It’s better to search multiple states in the destination box.</h3>
 	
-	<p class="g-font-size-18--xs">The truck driver is often intimidated by the system and unaware that 
-	they are being taken advantage of. Therefore they do nothing in response but take it.
+	<p class="g-font-size-18--xs">
+		Does the driver want to go to a specific state? This can greatly influence the types of loads that 
+		you'll be able to find. If this is the case then you'll have to write the state in the Destination 
+		section. We use this option, if the weekend is approaching and the driver has to get home. This is 
+		also a good option if you need to get to a great paying load. It's better to search multiple states 
+		at once. Just write the abbreviation for each state that you want.
 	</p>
+	<!---It’s better to search multiple states in the destination box. End --->
+	<br>
+	<!---Set an alarm!--->
+	<h3 class="g-font-size-21--xs g-font-size-25--sm">Set an alarm!</h3>
 	
-	<p class="g-font-size-18--xs">Learn how to recognize dishonesty in the trucking industry. 
+	<p class="g-font-size-18--xs">
+		DAT Load Board offers users an alarm feature which will sound off anytime a new load appears for your 
+		search. This is a great tool to use when the market is saturated and you can’t find any load for a specific 
+		area. Make sure to turn off the alarm after you’ve found the load. There’s nothing more annoying than the 
+		sound the alarm makes.
 	</p>
+	<!---Set an alarm! End --->
+	<br>
+	<!---Truck is in a saturated market and no good loads are available? Just organize results by Age. --->
+	<h3 class="g-font-size-21--xs g-font-size-25--sm">Truck is in a saturated market and no good loads are available? Just organize results by Age. </h3>
 	
-	<!---Recognizing the Dark Side of Trucking --->
-	<h3 class="g-font-size-21--xs g-font-size-25--sm">Recognizing the Dark Side of Trucking and How to Handle It</h3>
-	
-	<p class="g-font-size-18--xs">&#9755; <a href="subBlog/liarsInTruckingCompanies.cfm">Trucking 
-	Industry Dishonesty, Liars and Cheaters To Beware Of </a> -  Some of the more common sources
-	of dishonesty in trucking. 
+	<p class="g-font-size-18--xs">
+		This tip is great if you’re in a market with too many trucks and not enough loads. Here’s an example. 
+		Your truck is empty and ready to roll in Dallas, but you just can’t find him any load. You call on a 
+		load only to hear the famous words, “sorry, the load just got booked a second ago”. If you find yourself 
+		in this situation, then define your search according to the Age of the load. Just click Age in the top 
+		left corner of the page, and all the results will appear as soon as they come up. In saturated markets, 
+		good loads go fast. This gives you a fighting chance to be the first to jump on a load. Just remember, 
+		that if the market is too saturated, don’t try negotiating too much. You’ll find yourself without a load 
+		because you wanted to negotiate. This strategy works even better when you search by Age and you limit the 
+		DHO (Dead Head Origin) to around 80 miles. By bringing the radius down to 80 miles you’ll find the best 
+		loads that your driver can get to within 2 hours. 
 	</p>
+	<!---Truck is in a saturated market and no good loads are available? Just organize results by Age.  End--->
+	<br>
+	<!---Driver is getting unloaded later in the day? Find him a load in the morning, not later in the day. --->
+	<h3 class="g-font-size-21--xs g-font-size-25--sm">Driver is getting unloaded later in the day? Find him a load in the morning, not later in the day. </h3>
 	
-	<p class="g-font-size-18--xs">&#9755; <a href="subBLog/jailForTruckDrivingJob.cfm">Are You 
-	Willing to Go to Jail For Your Truck Driving Job?</a> - As a professional driver, 
-	you have a lot of responsibility. With responsibility, comes liability. Be aware of your 
-	personal liability, in the event of an accident. 
+	<p class="g-font-size-18--xs">
+		CA rookie mistake when it comes to truck dispatch is to have a driver that is getting unloaded in the 
+		afternoon and to wait until the afternoon comes around to find him a load. Don’t do it! You’re setting 
+		yourself up for failure if you work this way. A majority of the time, the best loads are posted at the 
+		beginning of the day when brokers get into the office, around 07:00 – 08:00 EST. There are plenty of 
+		loads that are posted early in the morning that have late pickup appointments, or open windows that can 
+		go into the night. If your driver is getting unloaded in the afternoon, make sure you get him a load in 
+		the morning, so that you respect his time and yours. 
 	</p>
+	<!---Driver is getting unloaded later in the day? Find him a load in the morning, not later in the day.  End --->
+	<br>
+	<!---Broker canceled a load? Don’t get caught up in any drama!--->
+	<h3 class="g-font-size-21--xs g-font-size-25--sm">Broker canceled a load? Don’t get caught up in any drama!</h3>
 	
-	<p class="g-font-size-18--xs">&#9755; <a href="subBLog/tricksYouShouldKnowAbout.cfm">
-	5 Dirty Trucking Company Tricks You Should Know About</a> - 5 tricks pulled by some trucking 
-	companies which truck drivers should beware of. 
+	<p class="g-font-size-18--xs">
+		What do you do when a broker cancels a load on you? You can cry a river, call the broker and cuss him out, 
+		or you can be a professional and realize that his is part of the game and get your driver a new load. Many 
+		beginners that start working as a truck dispatcher get caught up in the dramas that can go on with brokers. 
+		Take our advice, move on and don’t even think twice. If you feel that something is fishy, then you’re probably 
+		right. If you haven’t received a rate confirmation, then you are not on the load.
 	</p>
-	
-	<p class="g-font-size-18--xs">&#9755; <a href="subBLog/dirtiestTruckingCompanyTrickEver.cfm">
-	THE Dirtiest Trucking Company Trick Ever</a> - This one takes the cake! It's the slimiest 
-	trick we've ever heard of pulled by some carriers. 
-	</p>
-	
-	<p class="g-font-size-18--xs">&#9755; <a href="subBLog/getAlongWithYourDispatcher.cfm">
-	The Most Common Lies Dispatchers Tell Truckers</a>  - If you've never heard of at least ONE 
-	of these lies, you are definitely not a truck driver! 
-	</p>
-	
-	<p class="g-font-size-18--xs">&#9755; <a href="subBLog/knowAboutForcedDispatch.cfm">What You
-	Need to Know About Forced Dispatch</a> - Be sure to be well informed on a carrier's 
-	dispatch system, before accepting a trucking job.
-	</p>
-	
-	<p class="g-font-size-18--xs">&#9755; <a href="subBLog/deadlyDangersOfATruckDrivingJob.cfm">10
-	Deadly Dangers of a Truck Driving Job</a> - The industry would rather not talk about the 
-	potential dangers and risks of driving a big truck. Know before you get on board if the risks 
-	are worth it for you. 
-	</p>
-	
-	<p class="g-font-size-18--xs">&#9755; <a href="subBLog/tipsForHandlingHighRiskDeliveries.cfm">
-		How to Handle High Risk Deliveries</a> - There may be times when your employer sends you to a 
-	delivery location which is unsafe. Know how to handle the situation and protect yourself.
-	</p>
-	
-	<p class="g-font-size-18--xs">&#9755; <a href="subBLog/knowAboutDangerousTruckDeliveries.cfm">
-		10 of the Most Bizarre Situations I Experienced in My Trucking Career</a> - Some of my most 
-	dangerous delivery experiences.
-	</p>
-	
-	<p class="g-font-size-18--xs">&#9755; <a href="./everyTruckerShouldKnowAboutLumpers.cfm">
-	10 The Oldest Trucking Industry Scam: Lumpers</a> - Know how to handle a situation with a lumper, 
-	should you ever encounter one in your driving career.
-	</p>
-	
-	<p class="g-font-size-18--xs">&#9755; <a href="subBLog/knowAboutDepressionInTruckers.cfm">
-	10 What You Need to Know About Depression in Truck Drivers</a> - Truck drivers can suffer from 
-	depression due to the nature of the job. Being away from home for long periods, excess stress and 
-	worry and insufficient mental breaks from the job. Learn how to recognize depression symptoms and 
-	how to handle the condition.
-	</p>
-	
-	<p class="g-font-size-18--xs">&#9755; <a href="subBLog/truckDriverShortage.cfm">The Truck Driver Shortage 
-	-</a> Is the so-called truck driver shortage but an industry scam to 
-	lure new drivers into an industry with plenty of qualified drivers?
-	</p>
-	
-	<p class="g-font-size-18--xs">&#9755; <a href="subBLog/factsDistortedForTheSakeOfProfit.cfm">Trucking 
-	Industry Facts Distorted For the Sake of Profit</a> - How some 
-	companies attempt to profit by stomping on the trucking industry. We're an easy target.
-	</p>
-	
-	<p class="g-font-size-18--xs">&#9755; <a href="subBLog/badTruckDrivers.cfm">Bad Truck Drivers</a>
-	- What They Are Doing + How To Fix It - As professionals, we need to be aware of the dangerous truck drivers 
-	in our industry and be part of the solution, not part of the problem.
-	</p>
-	<!---Recognizing the Dark Side of Trucking End --->
-	
-	<!---There is a dark side of trucking End --->
-	<h6 class="g-font-size-8--xs g-font-size-12--sm uppercase">Source: www.smart-trucking.com</h6>
+	<!---Broker canceled a load? Don’t get caught up in any drama! End --->
+	<br>
+	<h6 class="g-font-size-8--xs g-font-size-12--sm uppercase">Source: www.ninjadispatch.com</h6>
   </div>
 </div>
 <!-- End blog -->

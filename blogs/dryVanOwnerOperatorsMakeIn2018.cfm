@@ -25,7 +25,6 @@
 <link href="../css/style.css" rel="stylesheet" type="text/css"/>
 <link href="../css/global/global.css" rel="stylesheet" type="text/css"/>
 
-<link href="../css/tdgoStyle.css" rel="stylesheet" type="text/css"/>
 <!-- Favicon -->
 <link rel="shortcut icon" href="../img/favTDGO.png" type="image/x-icon">
 <link rel="apple-touch-icon" href="../img/apple-touch-icon.png">
@@ -79,11 +78,11 @@
 <div> 
   <!-- Image -->
 
-    <div class="g-fullheight--xs g-bg-position--center" style="background: url('../img/1920x1080/darksideoftrucking.jpg');">
+    <div class="g-fullheight--xs g-bg-position--center" style="background: url('../img/1920x1080/Dryvan.jpg');">
       <div class="container g-text-center--xs g-ver-center--xs">
         <div class="g-margin-b-30--xs">
-          <h2 class="g-font-size-32--xs g-font-size-45--sm g-font-size-60--md g-color--white">THE DARKSIDE OF TRUCKING</h2>
-          <p class="g-font-size-18--xs g-font-size-22--sm g-color--white-opacity">Industry Lies, Scams and Secrets</p>
+          <h2 class="g-font-size-32--xs g-font-size-45--sm g-font-size-60--md g-color--white">DRY VAN OWNER OPERATORS</h2>
+          <p class="g-font-size-18--xs g-font-size-22--sm g-color--white-opacity">How Much They Make In 2018</p>
         </div>     
     </div>
   
@@ -97,106 +96,91 @@
 <!-- News -->
 <div id="js__scroll-to-section5"  class="container g-padding-y-80--xs">
   <div class="g-text-left--lg">
-  	<!---There is a dark side of trucking --->
-    <p class="g-font-size-18--xs"><strong>There is a dark side of trucking. It is often brushed aside or not spoken about openly.</strong>
+  	<!---Things You Should Know About Lumpers --->
+    <p class="g-font-size-18--xs"><strong>How Much Do Dry Van Owner Operators Make In 2018</strong>
 	</p>
-    <p class="g-font-size-18--xs">The trucking industry consists of a huge population of people. 
-    Within this population, the majority of the workers are truck drivers who have a stressful risky, 
-    often low paying job, live a transient lifestyle and thus are very susceptible to  health problems. 
+    <p class="g-font-size-18--xs">Are you a company driver looking to buy your own truck and become 
+    an owner operator? Are you curious about how much does an owner operator make? The answers may 
+    surprise you. Why do some dry van owner operators make a profit of $45,000 a year while others 
+    are making well over $150,000? We're going to hi-light the ins and outs of becoming an owner 
+    operator and how much money you can make if you own your own truck. 
+	</p>
+	<!---Things You Should Know About Lumpers End --->
+	<br>
+	<!---How To Become An Owner Operator--->
+	<h3 class="g-font-size-21--xs g-font-size-25--sm">How To Become An Owner Operator</h3>
+	
+	<p class="g-font-size-18--xs">
+		How much an owner operator makes depends on how they've set up their business. There are 2 ways that an owner operator can work. 
 	</p>
 	
 	<p class="g-font-size-18--xs">
-	Some trucking companies and segments of the trucking industry freely take advantage of the truck 
-	driver population in various ways.
+		1. Operating under someone else’s authority. Expect to make anywhere from $45,000 - $100,000
 	</p>
 	
-	<p class="g-font-size-18--xs">The truck driver is often intimidated by the system and unaware that 
-	they are being taken advantage of. Therefore they do nothing in response but take it.
+	<p class="g-font-size-18--xs">
+		2. Operating under their own authority. Expect to make anywhere from $55,000 - $150,000.
 	</p>
 	
-	<p class="g-font-size-18--xs">Learn how to recognize dishonesty in the trucking industry. 
+	<p class="g-font-size-18--xs">
+		Let’s talk about working under someone else's authority first. <b>Even Donal Trump agrees it's good to become an owner operator!</b>  
+	</p>
+	<!---How To Become An Owner Operator End --->
+	<br>
+	<!---Owner Operator Under Another Company’s MC Authority --->
+	<h3 class="g-font-size-21--xs g-font-size-25--sm">Owner Operator Under Another Company's MC Authority</h3>
+	
+	<p class="g-font-size-18--xs">
+		This has its advantages and disadvantages. Advantages Advantages are that you can find 
+		yourself a carrier to work with that has amazing connections and a great network of customers, 
+		clients and brokers. This will help you immensely, you'll no longer have to look for shippers 
+		or clients. You’ll be hauling top paying loads and will have access to a huge amount of resources. 
+		Often times carriers will provide you with a dispatcher and do your invoicing for you as well. 
+		Disadvantages The disadvantage to this is that the carrier is going to take a large percentage 
+		for helping you book these loads. High Fees for Booking Loads! Carrier companies that haul expedited 
+		loads or auto parts on average charge anywhere from 20% - 30% of the gross load payment. This means 
+		that you own your own truck, but technically, you're not the boss. You can think of yourself as a 
+		contracted employee of a company. Limited Growth Growing your company is going to be a lot harder 
+		if you work under someone else's authority. The amount of money you make working for a carrier varies 
+		greatly. It depends on the carrier company you work for. Make sure you do your research. 
+	</p>
+	<!---Owner Operator Under Another Company’s MC Authority End --->
+	<br>
+	<!---Owner Operator Working With Own Authority MC Number--->
+	<h3 class="g-font-size-21--xs g-font-size-25--sm">Owner Operator Working With Own Authority MC Number</h3>
+	
+	<p class="g-font-size-18--xs">
+		Now let's talk about working as a dry van owner operator under your own authority. This also comes with 
+		its own advantages and disadvantages. Advantages The major advantage of operating under your own authority 
+		is that you are 100% your own boss. You’ve opened up your own company, you can grow it as large as you want, 
+		or keep it small and comfortable.  Very Low Fees For Booking Loads! When you own your own MC, your percentage 
+		you pay goes down significantly!
 	</p>
 	
-	<!---Recognizing the Dark Side of Trucking --->
-	<h3 class="g-font-size-21--xs g-font-size-25--sm">Recognizing the Dark Side of Trucking and How to Handle It</h3>
-	
-	<p class="g-font-size-18--xs">&#9755; <a href="subBlog/liarsInTruckingCompanies.cfm">Trucking 
-	Industry Dishonesty, Liars and Cheaters To Beware Of </a> -  Some of the more common sources
-	of dishonesty in trucking. 
+	<p class="g-font-size-18--xs">
+		Opportunity For Growth Your company can grow and expand exponentially when you operate under your own MC. 
+		You can buy more trucks, hire more drivers and watch profits increase!  Disadvantages The disadvantage to 
+		operating under your own MC Authority is that you will have to start from scratch. You won’t have a carrier 
+		with experience to help you out, because you are now that carrier. You will have to find out how to book the 
+		best loads using load boards. One can look at this as a disadvantage, or as a hurdle you have to overcome as 
+		an entrepreneur. You'll  have to work much harder, however your success will be your own and you will have 
+		unlimited earning potential!
 	</p>
+	<!---Owner Operator Working With Own Authority MC Number End --->
+	<br>
+	<!---Conclusion: How Much Does An Owner Operator Make?--->
+	<h3 class="g-font-size-21--xs g-font-size-25--sm">Conclusion: How Much Does An Owner Operator Make?</h3>
 	
-	<p class="g-font-size-18--xs">&#9755; <a href="subBLog/jailForTruckDrivingJob.cfm">Are You 
-	Willing to Go to Jail For Your Truck Driving Job?</a> - As a professional driver, 
-	you have a lot of responsibility. With responsibility, comes liability. Be aware of your 
-	personal liability, in the event of an accident. 
+	<p class="g-font-size-18--xs">
+		How much you can make as an owner operator is entirely up to you and how you want to set up your 
+		business. As you can see in the article the profit per year can be anywhere from $45,000 and up! 
+		Working under a carriers' MC Authority number you'll have access to great accounts without having 
+		to do extra work like invoicing and dispatching. Working under your own MC Authority you’ll be able 
+		to grow your business as much as you want!
 	</p>
-	
-	<p class="g-font-size-18--xs">&#9755; <a href="subBLog/tricksYouShouldKnowAbout.cfm">
-	5 Dirty Trucking Company Tricks You Should Know About</a> - 5 tricks pulled by some trucking 
-	companies which truck drivers should beware of. 
-	</p>
-	
-	<p class="g-font-size-18--xs">&#9755; <a href="subBLog/dirtiestTruckingCompanyTrickEver.cfm">
-	THE Dirtiest Trucking Company Trick Ever</a> - This one takes the cake! It's the slimiest 
-	trick we've ever heard of pulled by some carriers. 
-	</p>
-	
-	<p class="g-font-size-18--xs">&#9755; <a href="subBLog/getAlongWithYourDispatcher.cfm">
-	The Most Common Lies Dispatchers Tell Truckers</a>  - If you've never heard of at least ONE 
-	of these lies, you are definitely not a truck driver! 
-	</p>
-	
-	<p class="g-font-size-18--xs">&#9755; <a href="subBLog/knowAboutForcedDispatch.cfm">What You
-	Need to Know About Forced Dispatch</a> - Be sure to be well informed on a carrier's 
-	dispatch system, before accepting a trucking job.
-	</p>
-	
-	<p class="g-font-size-18--xs">&#9755; <a href="subBLog/deadlyDangersOfATruckDrivingJob.cfm">10
-	Deadly Dangers of a Truck Driving Job</a> - The industry would rather not talk about the 
-	potential dangers and risks of driving a big truck. Know before you get on board if the risks 
-	are worth it for you. 
-	</p>
-	
-	<p class="g-font-size-18--xs">&#9755; <a href="subBLog/tipsForHandlingHighRiskDeliveries.cfm">
-		How to Handle High Risk Deliveries</a> - There may be times when your employer sends you to a 
-	delivery location which is unsafe. Know how to handle the situation and protect yourself.
-	</p>
-	
-	<p class="g-font-size-18--xs">&#9755; <a href="subBLog/knowAboutDangerousTruckDeliveries.cfm">
-		10 of the Most Bizarre Situations I Experienced in My Trucking Career</a> - Some of my most 
-	dangerous delivery experiences.
-	</p>
-	
-	<p class="g-font-size-18--xs">&#9755; <a href="./everyTruckerShouldKnowAboutLumpers.cfm">
-	10 The Oldest Trucking Industry Scam: Lumpers</a> - Know how to handle a situation with a lumper, 
-	should you ever encounter one in your driving career.
-	</p>
-	
-	<p class="g-font-size-18--xs">&#9755; <a href="subBLog/knowAboutDepressionInTruckers.cfm">
-	10 What You Need to Know About Depression in Truck Drivers</a> - Truck drivers can suffer from 
-	depression due to the nature of the job. Being away from home for long periods, excess stress and 
-	worry and insufficient mental breaks from the job. Learn how to recognize depression symptoms and 
-	how to handle the condition.
-	</p>
-	
-	<p class="g-font-size-18--xs">&#9755; <a href="subBLog/truckDriverShortage.cfm">The Truck Driver Shortage 
-	-</a> Is the so-called truck driver shortage but an industry scam to 
-	lure new drivers into an industry with plenty of qualified drivers?
-	</p>
-	
-	<p class="g-font-size-18--xs">&#9755; <a href="subBLog/factsDistortedForTheSakeOfProfit.cfm">Trucking 
-	Industry Facts Distorted For the Sake of Profit</a> - How some 
-	companies attempt to profit by stomping on the trucking industry. We're an easy target.
-	</p>
-	
-	<p class="g-font-size-18--xs">&#9755; <a href="subBLog/badTruckDrivers.cfm">Bad Truck Drivers</a>
-	- What They Are Doing + How To Fix It - As professionals, we need to be aware of the dangerous truck drivers 
-	in our industry and be part of the solution, not part of the problem.
-	</p>
-	<!---Recognizing the Dark Side of Trucking End --->
-	
-	<!---There is a dark side of trucking End --->
-	<h6 class="g-font-size-8--xs g-font-size-12--sm uppercase">Source: www.smart-trucking.com</h6>
+	<!---Conclusion: How Much Does An Owner Operator Make? End--->
+	<br>
+	<h6 class="g-font-size-8--xs g-font-size-12--sm uppercase">Source: www.ninjadispatch.com</h6>
   </div>
 </div>
 <!-- End blog -->
