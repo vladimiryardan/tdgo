@@ -25,11 +25,56 @@
 <link href="css/style.css" rel="stylesheet" type="text/css"/>
 <link href="css/global/global.css" rel="stylesheet" type="text/css"/>
 
+<link href="css/tdgoStyle.css" rel="stylesheet" type="text/css"/>
 <!-- Favicon -->
 <link rel="shortcut icon" href="img/favTDGO.png" type="image/x-icon">
 <link rel="apple-touch-icon" href="img/apple-touch-icon.png">
 </head>
 <!-- End Head -->
+
+<!---<!-- Send Mail -->
+<cfif mode is "sendmail" >
+
+	<cftry>
+    	<!--- send an email to the admin --->
+		<cfmail 
+				from="#application.mail.user#" 
+				subject="#form.subject#" 
+				to="#application.mail.user#"
+				type="html">
+				
+				Name: #form.name#<br>
+				Name: #form.email#<br>
+				Message: #form.message#<br>
+				Subject: #form.subject#<br>
+		    
+		</cfmail>    
+    <cfcatch type="Any" >
+    </cfcatch>
+    </cftry>
+
+
+	<!--- send a copy to the client --->
+	<cftry>
+    	<cfmail 
+			from="#application.mail.user#" 
+			subject="We got your message for Truckdispatchgo.com" 
+			to="#form.email#"
+			type="html">
+			
+				We are checking your message. Thank you!<br>
+				Message: #form.message#<br>			
+		    
+		</cfmail>    
+    <cfcatch type="Any" >
+    </cfcatch>
+    </cftry>
+
+	<!---#############CFMAIL ENDS############--->
+	
+	<cflocation url="inputContactSuccess.cfm" addtoken="false" >
+	
+</cfif>--->
 
 <!-- Body -->
 <body>
@@ -170,7 +215,7 @@
           <li><i class="g-font-size-12--xs g-color--primary g-margin-r-10--xs ti-check"></i>Our dispatchers are well aware of the current market price of loads</li>
           <li><i class="g-font-size-12--xs g-color--primary g-margin-r-10--xs ti-check"></i>which makes them a valuable asset when it comes to bargaining for the best price</li>
         </ul>
-        <ul class="list-unstyled col-xs-2 g-full-width--xs g-ul-li-tb-5--xs g-margin-b-20--xs g-margin-b-0--sm">
+        <ul class="list-unstyled col-xs-4 g-full-width--xs g-ul-li-tb-5--xs g-margin-b-20--xs g-margin-b-0--sm">
           <li>
             <p class="text-uppercase g-font-size-14--xs g-font-weight--700 g-color--primary g-letter-spacing--2 g-margin-b-15--xs">PACKETS AND PAPERWORK</p>
           </li>
@@ -178,7 +223,7 @@
           <li><i class="g-font-size-12--xs g-color--primary g-margin-r-10--xs ti-check"></i>Our service is dedicated </li>
           <li><i class="g-font-size-12--xs g-color--primary g-margin-r-10--xs ti-check"></i>We make sure that we gather everything needed </li>
         </ul>
-        <ul class="list-unstyled col-xs-2 g-full-width--xs g-ul-li-tb-5--xs g-margin-b-20--xs g-margin-b-0--sm">
+        <ul class="list-unstyled col-xs-4 g-full-width--xs g-ul-li-tb-5--xs g-margin-b-20--xs g-margin-b-0--sm">
           <li>
             <p class="text-uppercase g-font-size-14--xs g-font-weight--700 g-color--primary g-letter-spacing--2 g-margin-b-15--xs">CARRIER SUPPORT</p>
           </li>
@@ -206,7 +251,7 @@
           <div class="g-margin-b-30--xs"> <span class="g-display-inline-block--xs g-width-100--xs g-height-100--xs g-font-size-38--xs g-color--primary g-bg-color--white g-box-shadow__dark-lightest-v4 g-padding-x-20--xs g-padding-y-20--xs g-radius--circle">01</span> </div>
           <div class="g-padding-x-20--xs">
             <h3 class="g-font-size-18--xs g-color--white">Provide Your Information</h3>
-            <p class="g-color--white-opacity">Signing up is easy. Before we can dispatch you, we'll need a signed Dispatch Agreement, accompanied by a Carrier Profile Sheet. Your dedicated dispatcher will assess your preference and plan out your freight lanes and schedule under your consent.</p>
+            <p class="g-font-size-16--xs g-color--white-opacity">Signing up is easy. Before we can dispatch you, we'll need a signed Dispatch Agreement, accompanied by a Carrier Profile Sheet. Your dedicated dispatcher will assess your preference and plan out your freight lanes and schedule under your consent.</p>
           </div>
         </div>
       </li>
@@ -218,7 +263,7 @@
           <div class="g-margin-b-30--xs"> <span class="g-display-inline-block--xs g-width-100--xs g-height-100--xs g-font-size-38--xs g-color--primary g-bg-color--white g-box-shadow__dark-lightest-v4 g-padding-x-20--xs g-padding-y-20--xs g-radius--circle">02</span> </div>
           <div class="g-padding-x-20--xs">
             <h3 class="g-font-size-18--xs g-color--white">Complete Your Documents</h3>
-            <p class="g-color--white-opacity">Once we've received your completed forms, we can start giving you load options to choose from on a daily basis. Our goal is to keep you moving. We'll make sure that your routes will be maximized and efficient.</p>
+            <p class="g-font-size-16--xs g-color--white-opacity">Once we've received your completed forms, we can start giving you load options to choose from on a daily basis. Our goal is to keep you moving. We'll make sure that your routes will be maximized and efficient.</p>
           </div>
         </div>
       </li>
@@ -230,7 +275,7 @@
           <div class="g-margin-b-30--xs"> <span class="g-display-inline-block--xs g-width-100--xs g-height-100--xs g-font-size-38--xs g-color--primary g-bg-color--white g-box-shadow__dark-lightest-v4 g-padding-x-20--xs g-padding-y-20--xs g-radius--circle">03</span> </div>
           <div class="g-padding-x-20--xs">
             <h3 class="g-font-size-18--xs g-color--white">Transporting Your Load</h3>
-            <p class="g-color--white-opacity">After transporting the load successfully, we make sure that you get paid. There is also an option to receive your income immediately through our partnered factoring company.</p>
+            <p class="g-font-size-16--xs g-color--white-opacity">After transporting the load successfully, we make sure that you get paid. There is also an option to receive your income immediately through our partnered factoring company.</p>
           </div>
         </div>
       </li>
@@ -242,7 +287,7 @@
           <div class="g-margin-b-30--xs"> <span class="g-display-inline-block--xs g-width-100--xs g-height-100--xs g-font-size-38--xs g-color--primary g-bg-color--white g-box-shadow__dark-lightest-v4 g-padding-x-20--xs g-padding-y-20--xs g-radius--circle">04</span> </div>
           <div class="g-padding-x-20--xs">
             <h3 class="g-font-size-18--xs g-color--white">Real-time Updates</h3>
-            <p class="g-color--white-opacity">We will keep you informed about the progress of your application till an outcome is achieved.</p>
+            <p class="g-font-size-16--xs g-color--white-opacity">We will keep you informed about the progress of your application till an outcome is achieved.</p>
           </div>
         </div>
       </li>
@@ -261,10 +306,10 @@
 </div>
 <!-- Team -->
 <div class="row g-row-col--0">
-  <div class="col-md-4 col-xs-6 g-full-width--xs">
+  <div class="col-md-2 col-xs-6 g-full-width--xs">
    
       <!-- Team -->
-      <div class="s-team-v1"> <img class="img-responsive g-width-100-percent--xs" src="img/400x400/truck14.png" alt="Image">
+      <div class="s-team-v1"> <img class="img-responsive g-width-100-percent--xs" src="img/400x400/truck01.jpg" alt="Image">
         <div class="g-text-center--xs g-bg-color--white g-padding-x-30--xs g-padding-y-40--xs">
           <h2 class="g-font-size-18--xs g-margin-b-5--xs">Dry Van</h2>
           <span class="g-font-size-15--xs g-color--text"><i></i></span> </div>
@@ -272,38 +317,74 @@
       <!-- End Team --> 
     
   </div>
-  <div class="col-md-4 col-xs-6 g-full-width--xs">
+  <div class="col-md-2 col-xs-6 g-full-width--xs">
     
       <!-- Team -->
-      <div class="s-team-v1"> <img class="img-responsive g-width-100-percent--xs" src="img/400x400/truck12.png" alt="Image">
+      <div class="s-team-v1"> <img class="img-responsive g-width-100-percent--xs" src="img/400x400/truck02.jpg" alt="Image">
         <div class="g-text-center--xs g-bg-color--white g-padding-x-30--xs g-padding-y-40--xs">
-          <h3 class="g-font-size-18--xs g-margin-b-5--xs">Flat Bed</h3>
-          <span class="g-font-size-15--xs g-color--text"><i><!---Psafdasdf---></i></span> </div>
+          <h3 class="g-font-size-18--xs g-margin-b-5--xs">Reefer</h3>
+        </div>
       </div>
       <!-- End Team --> 
    
   </div>
-  <div class="col-md-4 col-xs-6 g-full-width--xs">
+  
+  <div class="col-md-2 col-xs-6 g-full-width--xs">
    
       <!-- Team -->
-      <div class="s-team-v1"> <img class="img-responsive g-width-100-percent--xs" src="img/400x400/truck11.png" alt="Image">
+      <div class="s-team-v1"> <img class="img-responsive g-width-100-percent--xs" src="img/400x400/truck06.jpg" alt="Image">
         <div class="g-text-center--xs g-bg-color--white g-padding-x-30--xs g-padding-y-40--xs">
-          <h4 class="g-font-size-18--xs g-margin-b-5--xs">Reefer</h4>
-          <span class="g-font-size-15--xs g-color--text"><i><!---Client Specialist---></i></span> </div>
+          <h4 class="g-font-size-18--xs g-margin-b-5--xs">Auto Haulers</h4>
+        </div>
       </div>
       <!-- End Team --> 
    
   </div>
-  <div class="col-md-3 col-xs-6 g-full-width--xs hidden">
+  
+  <div class="col-md-2 col-xs-6 g-full-width--xs">
+   
+      <!-- Team -->
+      <div class="s-team-v1"> <img class="img-responsive g-width-100-percent--xs" src="img/400x400/truck04.jpg" alt="Image">
+        <div class="g-text-center--xs g-bg-color--white g-padding-x-30--xs g-padding-y-40--xs">
+          <h4 class="g-font-size-18--xs g-margin-b-5--xs">Flat Bed</h4>
+        </div>
+      </div>
+      <!-- End Team --> 
+   
+  </div>
+  <div class="col-md-2 col-xs-6 g-full-width--xs hidden">
     
       <!-- Team -->
       <div class="s-team-v1"> <img class="img-responsive g-width-80-percent--xs" src="img/400x400/truck14.png" style="border-radius:50%; margin:20px 20px 20px 20px" alt="Image">
         <div class="g-text-center--xs g-bg-color--white g-padding-x-30--xs g-padding-y-40--xs">
           <h4 class="g-font-size-18--xs g-margin-b-5--xs">Rizelle Cabantac</h4>
-          <span class="g-font-size-15--xs g-color--text"><i><!---Client Specialist---></i></span> </div>
+        </div>
       </div>
       <!-- End Team --> 
     
+  </div>
+  <div class="col-md-2 col-xs-6 g-full-width--xs trucksM">
+   
+      <!-- Team -->
+      <div class="s-team-v1"> <img class="img-responsive g-width-100-percent--xs" src="img/400x400/truck03.jpg" alt="Image">
+        <div class="g-text-center--xs g-bg-color--white g-padding-x-30--xs g-padding-y-40--xs">
+          <h4 class="g-font-size-18--xs g-margin-b-5--xs">Power Only</h4>
+        </div>
+      </div>
+      <!-- End Team --> 
+   
+  </div>
+  
+  <div class="col-md-2 col-xs-6 g-full-width--xs trucksM">
+   
+      <!-- Team -->
+      <div class="s-team-v1"> <img class="img-responsive g-width-100-percent--xs" src="img/400x400/truck05.jpg" alt="Image">
+        <div class="g-text-center--xs g-bg-color--white g-padding-x-30--xs g-padding-y-40--xs">
+          <h4 class="g-font-size-18--xs g-margin-b-5--xs">Hoppers</h4>
+        </div>
+      </div>
+      <!-- End Team --> 
+   
   </div>
 </div>
 <!-- End Team -->
@@ -318,18 +399,14 @@
     <p class="text-uppercase g-font-size-14--xs g-font-weight--700 g-color--primary g-letter-spacing--2 g-margin-b-25--xs hidden">Meet the Team</p>
     
     <br>
-    <p>Truck Dispatch GO is team of experienced call center agents that mainly focuses in the logistics and dispatching industry. This already gives proof that our telecommunications experience is superior in this line of business. We are a collective of skillful independent dispatchers that have reached optimal efficiency by working as a team.</p>
+    <p class="g-font-size-16--xs">Truck Dispatch GO is team of experienced call center agents that mainly focuses in the logistics and dispatching industry. This already gives proof that our telecommunications experience is superior in this line of business. We are a collective of skillful independent dispatchers that have reached optimal efficiency by working as a team.</p>
   
-  		<p>Being in the trucking industry, carriers or truck drivers would mostly be on the road, and it is not always possible to reach out via phone. We can provide different channels of support, like email, chat, SMS and other applicable avenues of communication.</p>
-        <p>We can help you find profitable and high-dollar freight, find loads that you would want to haul and towards the places/routes that you would want to go. </p>
-        <p>What sets us apart are our outstanding personnel who are always up to the task in handling challenging responsibilities and our team's passion towards excellence.</p>
+  		<p class="g-font-size-16--xs">Being in the trucking industry, carriers or truck drivers would mostly be on the road, and it is not always possible to reach out via phone. We can provide different channels of support, like email, chat, SMS and other applicable avenues of communication.</p>
+        <p class="g-font-size-16--xs">We can help you find profitable and high-dollar freight, find loads that you would want to haul and towards the places/routes that you would want to go. </p>
+        <p class="g-font-size-16--xs">What sets us apart are our outstanding personnel who are always up to the task in handling challenging responsibilities and our team's passion towards excellence.</p>
      
   </div>
   <div class="row g-margin-b-10--xs g-margin-t-100--lg">
-    
-   <!--- <div class="col-md-6 g-margin-b-60--xs g-margin-b-0--lg">
-      <!---<iframe width="100%" height="310px" src="https://www.youtube.com/embed/a_3VOkhQBmM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>--->
-    </div>--->
   </div>
 </div>
 <!-- End News -->
@@ -362,6 +439,7 @@
           </div>
         </div>
       </div>
+
       <form class="center-block g-width-500--sm g-width-550--md">
         <div class="g-margin-b-30--xs">
           <input type="text" class="form-control s-form-v3__input" placeholder="* Name">
@@ -382,7 +460,7 @@
         </div>
       </form>
     </div>
-    <img class="s-mockup-v2" src="img/mockups/items-01.png" alt="Mockup Image"> </div>
+    <img class="s-mockup-v2" src="img/mockups/pencil-01.png" alt="Mockup Image"> </div>
 </div>
 <!-- End Form --> 
 <!--========== END PAGE CONTENT ==========--> 
@@ -425,14 +503,14 @@
   <!-- End Links --> 
   
   <!-- Copyright -->
- <!--- <div class="container g-padding-y-50--xs">
+ <div class="container g-padding-y-50--xs">
     <div class="row">
-      <div class="col-xs-6"> <a href="index.html"> <img class="g-width-100--xs g-height-auto--xs" src="img/logo-white.png" alt="Megakit Logo"> </a> </div>
+      <div class="col-xs-6"> <a href="index.html"> <img class="g-width-100--xs g-height-auto--xs" src="img/testLogo.png" alt="TDGO Logo"> </a> </div>
       <div class="col-xs-6 g-text-right--xs">
-        <p class="g-font-size-14--xs g-margin-b-0--xs g-color--white-opacity-light"><a href="index.html/">AJOC IMMIGRATION CONSULTANCY SERVICES</a> Created by: <a href="http://www.onevoix.com/">OneVoix</a></p>
+        <p class="g-font-size-14--xs g-margin-b-0--xs g-color--white-opacity-light"><a href="index.html/">TRUCK DISPATCH GO</a> Created by: <a href="http://www.truckdispatchgo.com/">Truck Dispatch Go</a></p>
       </div>
     </div>
-  </div>--->
+  </div>
   <!-- End Copyright --> 
 </footer>
 <!--========== END FOOTER ==========--> 
