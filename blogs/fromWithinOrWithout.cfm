@@ -74,114 +74,115 @@
 </header>
 <!--========== END HEADER V2 ==========--> 
 
-<!--========== SWIPER SLIDER ==========--> 
-<!--========== SWIPER SLIDER ==========-->
+
 <div> 
   <!-- Image -->
 
-    <div class="g-fullheight--xs g-bg-position--center" style="background: url('../img/1920x1080/Dryvan.jpg');">
+    <div class="g-fullheight--xs g-bg-position--center" style="background: url('../img/1920x1080/withinOrWithout.jpg');">
       <div class="container g-text-center--xs g-ver-center--xs">
         <div class="g-margin-b-30--xs">
-          <h2 class="g-font-size-32--xs g-font-size-45--sm g-font-size-60--md g-color--white">DRY VAN OWNER OPERATORS</h2>
-          <p class="g-font-size-18--xs g-font-size-22--sm g-color--white-opacity">How Much They Make In 2018</p>
+          <h2 class="g-font-size-32--xs g-font-size-45--sm g-font-size-60--md g-color--white uppercase">From within or without?</h2>
+          <p class="g-font-size-18--xs g-font-size-22--sm g-color--white-opacity">Pressure To Run Over Hours In The Wake Of The ELD Mandate</p>
         </div>     
     </div>
   
   <!--Image --> 
   
 </div>
-<!--========== END SWIPER SLIDER ==========--> 
-
 <!--========== PAGE CONTENT ==========--> 
 
 <!-- News -->
 <div id="js__scroll-to-section5"  class="container g-padding-y-80--xs">
   <div class="g-text-left--lg">
-  	<!---Things You Should Know About Lumpers --->
-    <p class="g-font-size-18--xs"><strong>How Much Do Dry Van Owner Operators Make In 2018</strong>
+  	<!---From within or without? — pressure to run over hours in the wake of the ELD mandate--->
+    <p class="g-font-size-18--xs"><strong>From within or without? — pressure to run over hours in the wake of the ELD mandate</strong>
 	</p>
-    <p class="g-font-size-18--xs">Are you a company driver looking to buy your own truck and become 
-    an owner operator? Are you curious about how much does an owner operator make? The answers may 
-    surprise you. Why do some dry van owner operators make a profit of $45,000 a year while others 
-    are making well over $150,000? We're going to hi-light the ins and outs of becoming an owner 
-    operator and how much money you can make if you own your own truck. 
+    <p class="g-font-size-18--xs">There’s been a mighty strong interest in the poll that ran here at Overdrive earlier this week, 
+    something of a follow-up about pressure from whatever external quarter it comes to run counter to the code that so many longtime 
+    truck drivers operate by — the very simple and sensibly safe drive when rested, sleep when tired. The poll question asks, 
+    specifically, about situations in which violations of that code may not be so cut and dried but what is abundantly clear is 
+    other regulatory violations would be the result of caving to wherever the pressure is coming from, i.e. a shipper/receiver, 
+    broker or carrier operations. 
 	</p>
-	<!---Things You Should Know About Lumpers End --->
+	
+	<p class="g-font-size-18--xs">
+	As was also shown in early results from our polling on the issue of detention at shippers and receivers since the electronic 
+	logging device mandate, as of this morning, about half of readers see external pressure to violate the hours of service rules 
+	having risen since December 2017 when the mandate came down. If that can be construed as remotely close to an accurate reflection 
+	of the state of play along the supply chain when it comes to hours, it might represent yet another hoped-for result of mandated 
+	ELDs yet to materialize. That hope: that an increase in necessary cooperation among parties (whether between drivers and their 
+	employing carriers and/or shippers and brokers), boost of a sort of we’re-in-this-together sense in planning and partnerships, 
+	could potentially release owner-ops and drivers from assumption of so much of the risk inherent in hours rules violations.
+	</p>
+	
+	<p class="g-font-size-18--xs">While actual hours of service violations recorded during inspections are way down since the mandate 
+	for obvious reasons, as we’ve noted in prior reporting, those violations that can actually get you put out of service and bring a 
+	hefty ticket … well, let’s just say that unless the back office is actively involved in editorial efforts in an AOBRD system, 
+	taking on such a risk in any eight-day period with a chance of inspection has grown much more risky.
+	</p>
+	
+	<p class="g-font-size-18--xs">Hence, perhaps, what increased pressure that exists. Drivers face increased risks, push back against 
+	pressure to violate, and that’s met with one of those equal and opposite reactions quite scientifically, as it were. 
+	</p>
+	
+	<p class="g-font-size-18--xs">Yet not everyone agrees that external pressures to violate the regs are being truly felt, as M.R. 
+	Phillips commented under the poll: “The pressure I feel from the ELD is not from management. The pressure I feel is from me, the 
+	driver.”
+	</p>
+	
+	<p class="g-font-size-18--xs">The tick, tick, ticking of the clock, given the nature of the 14-hour on-duty provision of the hours 
+	of service, if one can extrapolate.
+	</p>
+	
+	<p class="g-font-size-18--xs"><b>Paul Bazyldo</b> underscored this with his comment under the poll: “I have long-term relationships with 
+	the brokers and customers I deal with. They know better than to even ask me to run something against the HOS regulations. In fact, 
+	most even insist that I don’t run in violation. They know if something were to happen, they too could face legal repercussion. We 
+	have a mutual respect for each other, that has been built over a number of years.” 
+	</p>
+	
+	<p class="g-font-size-18--xs">Increased pressure, largely, he and others noted, isn’t coming from external living and breathing 
+	sources, necessarily, but rather more logically stems from inside, a response to the big stew of individual haulers dealing with 
+	a new technology and a lack of flexibility inherent in the rules the tech helps record.
+	</p>
+	
+	<p class="g-font-size-18--xs">Here at MATS over the past day or so I’ve had conversations with drivers involved with some of the 
+	slow-roll events attempting to build toward a shutdown protest in April. Some of them half-expect the FMCSA to reintroduce some 
+	flexibility with a rulemaking during the proceedings here — DOT Secretary Elaine Chao’s appearance and “keynote” speech on Friday 
+	might well underscore that, given it’s not exactly normal for this show.
+	</p>
+	
+	<p class="g-font-size-18--xs">Other operators, at once, in more than one conversation yesterday (though a minority for sure) pushed 
+	back against the flexibility conventional wisdom. Don’t give me more flexibility. Flexibility = more capacity = reduced rates. 
+	</p>
+	
+	<p class="g-font-size-18--xs">For those who are experiencing external pressure, too, there is of course an avenue for that opened up 
+	in tandem with the electronic logging device mandate itself, and some drivers are using it to effect. That would be the whistleblower 
+	protections put it by the FMCSA’s  so-called “Coercion Rule,” which is more of an anti-coercion rule. I wrote about just how to blow 
+	the whistle on problem supply chain actors when it comes to pressures to violate regs in this post from last year.
+	</p>
+	
+	<p class="g-font-size-18--xs">Going so far as to report a carrier, shipper/receiver or broker often, however, isn’t necessary, as one 
+	trucker put it to me this week:
+	</p>
+	
+	<p class="g-font-size-18--xs">“I have a very simple technique on the very rare occasions I get pressure” to violate hours, this trucker 
+	said. “I simply ask, “How do you spell your last name? I want to get it right in the National Consumer Complaint Database complaint to 
+	FMCSA, and the email to our director of safety.” 
+	</p>
+	
+	<p class="g-font-size-18--xs">Only once, he said, did the conversation then progress to: “Do you think you’ll be fired before or after 
+	the FMCSA starts the investigation of the complaint.”
+	</p>
+	
+	<p class="g-font-size-18--xs">A little food for thought, as it were. 
+	</p>
+	
+	<p class="g-font-size-18--xs">In any case, as the show opens today in Louisville for those in attendance, expect plenty lively discussion 
+	in the seminar rooms and parking lots and around exhibit booths at MATS. 
+	</p>
+	<!---From within or without? — pressure to run over hours in the wake of the ELD mandate End --->
 	<br>
-	<!---How To Become An Owner Operator--->
-	<h3 class="g-font-size-21--xs g-font-size-25--sm">How To Become An Owner Operator</h3>
-	
-	<p class="g-font-size-18--xs">
-		How much an owner operator makes depends on how they've set up their business. There are 2 ways that an owner operator can work. 
-	</p>
-	
-	<p class="g-font-size-18--xs">
-		1. Operating under someone else’s authority. Expect to make anywhere from $45,000 - $100,000
-	</p>
-	
-	<p class="g-font-size-18--xs">
-		2. Operating under their own authority. Expect to make anywhere from $55,000 - $150,000.
-	</p>
-	
-	<p class="g-font-size-18--xs">
-		Let’s talk about working under someone else's authority first. <b>Even Donal Trump agrees it's good to become an owner operator!</b>  
-	</p>
-	<!---How To Become An Owner Operator End --->
-	<br>
-	<!---Owner Operator Under Another Company’s MC Authority --->
-	<h3 class="g-font-size-21--xs g-font-size-25--sm">Owner Operator Under Another Company's MC Authority</h3>
-	
-	<p class="g-font-size-18--xs">
-		This has its advantages and disadvantages. Advantages Advantages are that you can find 
-		yourself a carrier to work with that has amazing connections and a great network of customers, 
-		clients and brokers. This will help you immensely, you'll no longer have to look for shippers 
-		or clients. You’ll be hauling top paying loads and will have access to a huge amount of resources. 
-		Often times carriers will provide you with a dispatcher and do your invoicing for you as well. 
-		Disadvantages The disadvantage to this is that the carrier is going to take a large percentage 
-		for helping you book these loads. High Fees for Booking Loads! Carrier companies that haul expedited 
-		loads or auto parts on average charge anywhere from 20% - 30% of the gross load payment. This means 
-		that you own your own truck, but technically, you're not the boss. You can think of yourself as a 
-		contracted employee of a company. Limited Growth Growing your company is going to be a lot harder 
-		if you work under someone else's authority. The amount of money you make working for a carrier varies 
-		greatly. It depends on the carrier company you work for. Make sure you do your research. 
-	</p>
-	<!---Owner Operator Under Another Company’s MC Authority End --->
-	<br>
-	<!---Owner Operator Working With Own Authority MC Number--->
-	<h3 class="g-font-size-21--xs g-font-size-25--sm">Owner Operator Working With Own Authority MC Number</h3>
-	
-	<p class="g-font-size-18--xs">
-		Now let's talk about working as a dry van owner operator under your own authority. This also comes with 
-		its own advantages and disadvantages. Advantages The major advantage of operating under your own authority 
-		is that you are 100% your own boss. You’ve opened up your own company, you can grow it as large as you want, 
-		or keep it small and comfortable.  Very Low Fees For Booking Loads! When you own your own MC, your percentage 
-		you pay goes down significantly!
-	</p>
-	
-	<p class="g-font-size-18--xs">
-		Opportunity For Growth Your company can grow and expand exponentially when you operate under your own MC. 
-		You can buy more trucks, hire more drivers and watch profits increase!  Disadvantages The disadvantage to 
-		operating under your own MC Authority is that you will have to start from scratch. You won’t have a carrier 
-		with experience to help you out, because you are now that carrier. You will have to find out how to book the 
-		best loads using load boards. One can look at this as a disadvantage, or as a hurdle you have to overcome as 
-		an entrepreneur. You'll  have to work much harder, however your success will be your own and you will have 
-		unlimited earning potential!
-	</p>
-	<!---Owner Operator Working With Own Authority MC Number End --->
-	<br>
-	<!---Conclusion: How Much Does An Owner Operator Make?--->
-	<h3 class="g-font-size-21--xs g-font-size-25--sm">Conclusion: How Much Does An Owner Operator Make?</h3>
-	
-	<p class="g-font-size-18--xs">
-		How much you can make as an owner operator is entirely up to you and how you want to set up your 
-		business. As you can see in the article the profit per year can be anywhere from $45,000 and up! 
-		Working under a carriers' MC Authority number you'll have access to great accounts without having 
-		to do extra work like invoicing and dispatching. Working under your own MC Authority you’ll be able 
-		to grow your business as much as you want!
-	</p>
-	<!---Conclusion: How Much Does An Owner Operator Make? End--->
-	<br>
-	<h6 class="g-font-size-8--xs g-font-size-12--sm uppercase">Source: www.ninjadispatch.com</h6>
+	<h6 class="g-font-size-8--xs g-font-size-12--sm uppercase">Source: www.smart-trucking.com</h6>
   </div>
 </div>
 <!-- End blog -->

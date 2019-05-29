@@ -79,11 +79,11 @@
 <div> 
   <!-- Image -->
 
-    <div class="g-fullheight--xs g-bg-position--center" style="background: url('../img/1920x1080/Dryvan.jpg');">
+    <div class="g-fullheight--xs g-bg-position--center" style="background: url('../img/1920x1080/overdryve.jpg');">
       <div class="container g-text-center--xs g-ver-center--xs">
         <div class="g-margin-b-30--xs">
-          <h2 class="g-font-size-32--xs g-font-size-45--sm g-font-size-60--md g-color--white">DRY VAN OWNER OPERATORS</h2>
-          <p class="g-font-size-18--xs g-font-size-22--sm g-color--white-opacity">How Much They Make In 2018</p>
+          <h2 class="g-font-size-32--xs g-font-size-45--sm g-font-size-60--md g-color--white uppercase">OverDryve Pro 8</h2>
+          <p class="g-font-size-18--xs g-font-size-22--sm g-color--white-opacity">Built For Professional Drivers</p>
         </div>     
     </div>
   
@@ -97,91 +97,41 @@
 <!-- News -->
 <div id="js__scroll-to-section5"  class="container g-padding-y-80--xs">
   <div class="g-text-left--lg">
-  	<!---Things You Should Know About Lumpers --->
-    <p class="g-font-size-18--xs"><strong>How Much Do Dry Van Owner Operators Make In 2018</strong>
+  	<!---OverDryve Pro 8 built for professional drivers--->
+    <p class="g-font-size-18--xs"><strong>OverDryve Pro 8 built for professional drivers</strong>
 	</p>
-    <p class="g-font-size-18--xs">Are you a company driver looking to buy your own truck and become 
-    an owner operator? Are you curious about how much does an owner operator make? The answers may 
-    surprise you. Why do some dry van owner operators make a profit of $45,000 a year while others 
-    are making well over $150,000? We're going to hi-light the ins and outs of becoming an owner 
-    operator and how much money you can make if you own your own truck. 
+    <p class="g-font-size-18--xs">Rand McNally traces its roots to a Chicago print shop that opened in 1856. 
+    The company published its first road map, the New Automobile Road Map of New York City & Vicinity, in 1904.
 	</p>
-	<!---Things You Should Know About Lumpers End --->
+	
+	<p class="g-font-size-18--xs">
+	Since then, Rand McNally has become synonymous with helping truckers and other travelers get where they want 
+	to go, not just on paper with maps and their ever-popular atlases, but also electronically.
+	</p>
+	
+	<p class="g-font-size-18--xs">The company's OverDryve Pro 8 is an all-in-one dashboard device that remains true 
+	to Rand McNally's legacy. The OverDryve Pro 8 comes loaded with the sort of navigation tools needed by professional 
+	drivers. It's also equipped to provide essential trucking business tools, as well as ones to keep a driver connected 
+	and entertained.     
+	</p>
+	
+	<p class="g-font-size-18--xs">With the OverDryve Pro 8, you can receive real-time updates about the weather, traffic, 
+	and fuel prices specific to your route. It also provides advanced lane guidance, toll costs, warnings, fuel logs, and 
+	points of interest including truck stops and parking. All are displayed on an 8-inch screen.
+	</p>
+	
+	<p class="g-font-size-18--xs">The built-in Rand McNally DriverConnect app allows you to log your duty hours. OverDryve 
+	Pro 8 is ELD-ready, allowing you to simply connect the app to the ELD 50 or DC 200 device for a complete electronic 
+	logging solution.
+	</p>
+	
+	<p class="g-font-size-18--xs">It's also set up so you can make and receive calls and send texts hands-free, and the 
+	OverDryve Pro includes a dash cam to record the road ahead.
+	</p>
+	
+	<!---OverDryve Pro 8 built for professional drivers End --->
 	<br>
-	<!---How To Become An Owner Operator--->
-	<h3 class="g-font-size-21--xs g-font-size-25--sm">How To Become An Owner Operator</h3>
-	
-	<p class="g-font-size-18--xs">
-		How much an owner operator makes depends on how they've set up their business. There are 2 ways that an owner operator can work. 
-	</p>
-	
-	<p class="g-font-size-18--xs">
-		1. Operating under someone else’s authority. Expect to make anywhere from $45,000 - $100,000
-	</p>
-	
-	<p class="g-font-size-18--xs">
-		2. Operating under their own authority. Expect to make anywhere from $55,000 - $150,000.
-	</p>
-	
-	<p class="g-font-size-18--xs">
-		Let’s talk about working under someone else's authority first. <b>Even Donal Trump agrees it's good to become an owner operator!</b>  
-	</p>
-	<!---How To Become An Owner Operator End --->
-	<br>
-	<!---Owner Operator Under Another Company’s MC Authority --->
-	<h3 class="g-font-size-21--xs g-font-size-25--sm">Owner Operator Under Another Company's MC Authority</h3>
-	
-	<p class="g-font-size-18--xs">
-		This has its advantages and disadvantages. Advantages Advantages are that you can find 
-		yourself a carrier to work with that has amazing connections and a great network of customers, 
-		clients and brokers. This will help you immensely, you'll no longer have to look for shippers 
-		or clients. You’ll be hauling top paying loads and will have access to a huge amount of resources. 
-		Often times carriers will provide you with a dispatcher and do your invoicing for you as well. 
-		Disadvantages The disadvantage to this is that the carrier is going to take a large percentage 
-		for helping you book these loads. High Fees for Booking Loads! Carrier companies that haul expedited 
-		loads or auto parts on average charge anywhere from 20% - 30% of the gross load payment. This means 
-		that you own your own truck, but technically, you're not the boss. You can think of yourself as a 
-		contracted employee of a company. Limited Growth Growing your company is going to be a lot harder 
-		if you work under someone else's authority. The amount of money you make working for a carrier varies 
-		greatly. It depends on the carrier company you work for. Make sure you do your research. 
-	</p>
-	<!---Owner Operator Under Another Company’s MC Authority End --->
-	<br>
-	<!---Owner Operator Working With Own Authority MC Number--->
-	<h3 class="g-font-size-21--xs g-font-size-25--sm">Owner Operator Working With Own Authority MC Number</h3>
-	
-	<p class="g-font-size-18--xs">
-		Now let's talk about working as a dry van owner operator under your own authority. This also comes with 
-		its own advantages and disadvantages. Advantages The major advantage of operating under your own authority 
-		is that you are 100% your own boss. You’ve opened up your own company, you can grow it as large as you want, 
-		or keep it small and comfortable.  Very Low Fees For Booking Loads! When you own your own MC, your percentage 
-		you pay goes down significantly!
-	</p>
-	
-	<p class="g-font-size-18--xs">
-		Opportunity For Growth Your company can grow and expand exponentially when you operate under your own MC. 
-		You can buy more trucks, hire more drivers and watch profits increase!  Disadvantages The disadvantage to 
-		operating under your own MC Authority is that you will have to start from scratch. You won’t have a carrier 
-		with experience to help you out, because you are now that carrier. You will have to find out how to book the 
-		best loads using load boards. One can look at this as a disadvantage, or as a hurdle you have to overcome as 
-		an entrepreneur. You'll  have to work much harder, however your success will be your own and you will have 
-		unlimited earning potential!
-	</p>
-	<!---Owner Operator Working With Own Authority MC Number End --->
-	<br>
-	<!---Conclusion: How Much Does An Owner Operator Make?--->
-	<h3 class="g-font-size-21--xs g-font-size-25--sm">Conclusion: How Much Does An Owner Operator Make?</h3>
-	
-	<p class="g-font-size-18--xs">
-		How much you can make as an owner operator is entirely up to you and how you want to set up your 
-		business. As you can see in the article the profit per year can be anywhere from $45,000 and up! 
-		Working under a carriers' MC Authority number you'll have access to great accounts without having 
-		to do extra work like invoicing and dispatching. Working under your own MC Authority you’ll be able 
-		to grow your business as much as you want!
-	</p>
-	<!---Conclusion: How Much Does An Owner Operator Make? End--->
-	<br>
-	<h6 class="g-font-size-8--xs g-font-size-12--sm uppercase">Source: www.ninjadispatch.com</h6>
+	<h6 class="g-font-size-8--xs g-font-size-12--sm uppercase">Source: www.smart-trucking.com</h6>
   </div>
 </div>
 <!-- End blog -->

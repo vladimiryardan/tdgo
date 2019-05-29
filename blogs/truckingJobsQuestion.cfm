@@ -74,215 +74,351 @@
 </header>
 <!--========== END HEADER V2 ==========--> 
 
-<!--========== SWIPER SLIDER ==========--> 
-<!--========== SWIPER SLIDER ==========-->
 <div> 
   <!-- Image -->
 
-    <div class="g-fullheight--xs g-bg-position--center" style="background: url('../img/1920x1080/aboutLumpers.jpg');">
+    <div class="g-fullheight--xs g-bg-position--center" style="background: url('../img/1920x1080/truckingQuestion.jpg');">
       <div class="container g-text-center--xs g-ver-center--xs">
         <div class="g-margin-b-30--xs">
-          <h2 class="g-font-size-32--xs g-font-size-45--sm g-font-size-60--md g-color--white">TRUCKERS BEWARE</h2>
-          <p class="g-font-size-18--xs g-font-size-22--sm g-color--white-opacity">Things Every Trucker Should Know About Lumpers</p>
+          <h2 class="g-font-size-32--xs g-font-size-45--sm g-font-size-60--md g-color--white">THE OFFICIAL 2019 CDL TRUCKING JOBS QUESTION</h2>
+          <p class="g-font-size-18--xs g-font-size-22--sm g-color--white-opacity">Answer Reference Guide </p>
         </div>     
     </div>
   
   <!--Image --> 
   
 </div>
-<!--========== END SWIPER SLIDER ==========--> 
 
 <!--========== PAGE CONTENT ==========--> 
 
-<!-- News -->
 <div id="js__scroll-to-section5"  class="container g-padding-y-80--xs">
   <div class="g-text-left--lg">
   	<!---Things You Should Know About Lumpers --->
-    <p class="g-font-size-18--xs"><strong>Things You Should Know About Lumpers</strong>
+    <p class="g-font-size-18--xs"><strong>The Official 2019 CDL Trucking Jobs QuestionAnswer Reference Guide</strong>
 	</p>
-    <p class="g-font-size-18--xs">Lumping is a service charge that is sometimes used, most commonly, by big grocery store chains. 
+    <p class="g-font-size-18--xs">If you're looking for answers to questions about CDL trucking jobs, you've landed at the right place. 
 	</p>
 	
 	<p class="g-font-size-18--xs">
-		Basically, lumping is when a third-party unloads your freight delivery for you, whether it is stated as part of your job or 
-		not. Big grocery chains like lumper services. It saves them millions of dollars in staff and labour annually. 
+		Hey, we know what it's like to try to find reliable information, with the limited amount of time 
+		of spare time you have as a professional truck driver. 
 	</p>
-	
-	<p class="g-font-size-18--xs">Grocery chains are more than happy to allow lumper services in their freight delivery docks for this 
-	reason. However, lumping is mostly considered a scam that these chains brush off to the trucking companies. But in the end, it's 
-	important that the truck driver, not get stuck with the lumping bill. 
-	</p>
-	
-	<p class="g-font-size-18--xs">It can be a confusing process, so be aware of this. 
-	</p>
-	
 	<!---Things You Should Know About Lumpers End --->
 	<br>
-	<!---Is Lumping Service Legal? --->
-	<h3 class="g-font-size-21--xs g-font-size-25--sm">Is Lumping Service Legal?</h3>
+	<!---Trucking Jobs Questions Answered--->
+	<h3 class="g-font-size-21--xs g-font-size-25--sm">Trucking Jobs Questions Answered</h3>
 	
 	<p class="g-font-size-18--xs">
-		Lumping as a service is not illegal. However, many consider lumpers to be one of the biggest, oldest scams in the trucking industry.
+		We are a trusted source of information about CDL truck driving jobs.
 	</p>
 	
 	<p class="g-font-size-18--xs">
-		Section 15, Chapter 49, Paragraph 141-03 of the Motor Carrier Act speaks about lumping. It explains when it is considered a legal 
-		practice, and when it is considered an illegal practice.
+		So, if you're looking to nail a good driving job, we are going to help you do just that.
 	</p>
 	
 	<p class="g-font-size-18--xs">
-		For example, it is not illegal for a big grocery chain to allow a third-party company (lumpers) to unload their freight at their dock. 
+		We'll provide answers to questions many other professional drivers just like you, are asking too!
 	</p>
-	
-	<p class="g-font-size-18--xs">
-		Where this practice becomes illegal and where truck drivers have the most trouble, is when the driver pays for the lumping charge and 
-		is NOT reimbursed.  
-	</p>
-	
-	<p class="g-font-size-18--xs">
-		This is when the law truly has been broken.
-	</p>
-	
-	<p class="g-font-size-18--xs">
-		It is also common for the lumpers performing the lumping service to not declare their income to the IRS. Obviously, this is an illegal practice.
-	</p>	
-	
-	<!---Is Lumping Service Legal? End --->
+	<!---Trucking Jobs Questions Answered End --->
 	<br>
-	<!---Why is Lumping Considered a Scam? --->
-	<h3 class="g-font-size-21--xs g-font-size-25--sm">Why is Lumping Considered a Scam?</h3>
+	<!---How Much Do Trucking Jobs Pay?--->
+	<h3 class="g-font-size-21--xs g-font-size-25--sm">How Much Do Trucking Jobs Pay?</h3>
 	
 	<p class="g-font-size-18--xs">
-		Of course, not all lumper services are necessarily a scam. However, lumping does have a very bad reputation.
+		The rate of pay for CDL driving jobs varies. There's as many different pay packages for trucking jobs as there are trucking companies.
 	</p>
 	
 	<p class="g-font-size-18--xs">
-		Say a driver accepts a load with freight stacked 5 blocks, 4 high. When arriving at the receiver, the receiver 
-		will want the freight stacked 4 blocks, 5 high. They then expect the driver to re-stack, or have the driver pay 
-		the lumper to re-stack the freight! 
+		However, you should know there are some niches in trucking which pay more than others. 
 	</p>
 	
 	<p class="g-font-size-18--xs">
-		This matter is clearly between the shipper and the receiver. It should be of no concern whatsoever to the driver. 
-		If the warehouse wants the product stacked to a particular height, it is their duty to communicate this information 
-		to the shipper. It should be in no way up to the driver to pay for the freight to be res-tacked using a lumping service
+		There is an extensive range of driver pay:
+		<ul class="g-font-size-18--xs">
+			<li >
+				<strong>In Canada</strong>, expect anywhere from .35/mile - .55 /mile for driving jobs.
+			</li>
+			<li >
+				<strong>In the U.S.,</strong> pay rates start around .25/ mile and up
+			</li>
+		</ul>
 	</p>
 	
 	<p class="g-font-size-18--xs">
-		Truck drivers should not be involved in warehousing issues. Truck drivers are hired to drive, not rearrange and unload freight. 
-		This is textbook racketeering – creating a solution to a problem that shouldn't have existed in the first place.
+		Most trucking jobs in Canada and the U.S. are paid by the mile.  In addition to the base mileage rate, 
+		there's can be compensation pay for drops and pickups, border crossing pay, layovers and waiting time pay.
 	</p>
-	<!---Why is Lumping Considered a Scam? End --->
+	<p class="g-font-size-18--xs">
+		Paid mileage rate for trucking jobs will sometimes increase with experience and company loyalty.
+	</p>
+	<p class="g-font-size-18--xs">
+		A trucker's salary starts somewhere around $32,000 annually and ranges up to $60,000+.  On average, a trucker 
+		in North America makes about $35,000 to $45,000 per year, although this varies greatly, from state to state 
+		and province to province.
+	</p>
+	<p class="g-font-size-18--xs">
+		When investigating a driving position, find out the average number of miles you can expect month and what you 
+		should expect to earn.
+	</p>
+	<p class="g-font-size-18--xs">
+		Then do the math. Will you be paid well and fairly compensated for your work? Be sure you understand their pay 
+		package.
+	</p>
+	<p class="g-font-size-18--xs">
+		Does it pay enough to compensate you for your labour and the fact you'll be away from home? Remember to budget 
+		for your meals and other expenses while on the road.
+	</p>
+	<!---How Much Do Trucking Jobs Pay? End --->
 	<br>
-	<!---Dealing With Lumpers For Company Truck Drivers --->
-	<h3 class="g-font-size-21--xs g-font-size-25--sm">Dealing With Lumpers For Company Truck Drivers</h3>
+	<!---But What Are the High Paying Driving Jobs?--->
+	<h3 class="g-font-size-21--xs g-font-size-25--sm">But What Are the High Paying Driving Jobs?</h3>
 	
 	<p class="g-font-size-18--xs">
-		One of the first things a driver should establish when he signs up with a particular carrier is whether or not they are required 
-		to unload freight. 
+		If you have some good solid driving experience under your belt and have a clean driving record, you may wish 
+		to go after one of the best paying trucking jobs in the industry!
 	</p>
-	
-	<p class="g-font-size-18--xs">
-		Many trucking companies and load brokers will tell drivers that the cost of lumping fees is built into the freight rate.  
-	</p>
-	
-	<p class="g-font-size-18--xs">
-		The driver should ALWAYS be paid by the company to unload the freight, whether the trucking company is paid for it or not. 
-	</p>
-	
-	<p class="g-font-size-18--xs">
-		The law is broken when the driver is not reimbursed the lumping fee.
-	</p>
-	
-	<!---Dealing With Lumpers For Company Truck Drivers End --->
+	<!---But What Are the High Paying Driving Jobs? End --->
 	<br>
-	<!---Tips for Owner-Operators Dealing With Lumpers --->
-	<h3 class="g-font-size-21--xs g-font-size-25--sm">Tips for Owner-Operators Dealing With Lumpers</h3>
+	<!---How Much Can an Owner Operator Make?--->
+	<h3 class="g-font-size-21--xs g-font-size-25--sm">How Much Can an Owner Operator Make?</h3>
 	
 	<p class="g-font-size-18--xs">
-		As soon as you sign up with a trucking company, be sure that your contractual agreement sets out how lumpers will be handled by the carrier. 
+		The rate of pay for owner operator trucking jobs varies a great deal.
 	</p>
 	
 	<p class="g-font-size-18--xs">
-		Owner-operators should not be expected to pay for unexpected lumping fees. 
+		Pay depends on the commodity being hauled,  the contractual rate the carrier offers, the location, 
+		your experience and most of all, how well you manage your owner operator trucking business.
 	</p>
 	
 	<p class="g-font-size-18--xs">
-		In the event, the operator does pay for the lumping fee, be certain to obtain a proper receipt which clearly states the details, 
-		including the date and cost.
+		Carriers normally offer mileage rates, with paid picks and drops, and various other perks. Some 
+		cover bridge and road tolls, while others don't. Some pay waiting time and layovers, others don't.
 	</p>
 	
 	<p class="g-font-size-18--xs">
-		It's always best to have this as part of the contract, or the trucking company may very well stick the owner operator with the costs, 
-		without hope of reimbursement. 
+		There's liability insurance, buy down deductible insurance and hold back costs to consider.
 	</p>
 	
 	<p class="g-font-size-18--xs">
-		So, remember when you are hired as a driver, who is paying for the lumper fees. Hold them to the agreement. Get a copy of this agreement 
-		to use just in case you are faced with this issue later on.
+		Shop around and sharpen your pencil. Compare pay packages. Be sure you're going to turn a profit.
 	</p>
 	
-	<!---Tips for Owner-Operators Dealing With Lumpers End--->
+	<p class="g-font-size-18--xs">
+		Working for a good trucking company is half the battle.
+	</p>
+	<!---How Much Can an Owner Operator Make? End--->
 	<br>
-	<!---Understanding Lumper Services for Canadian Truck Drivers --->
-	<h3 class="g-font-size-21--xs g-font-size-25--sm">Understanding Lumper Services for Canadian Truck Drivers</h3>
+	<!---Are Truck Driving Jobs in Demand?--->
+	<h3 class="g-font-size-21--xs g-font-size-25--sm">Are Truck Driving Jobs in Demand?</h3>
 	
 	<p class="g-font-size-18--xs">
-		Canadian drivers are actually not allowed to unload a truck in the U.S. This is taking work away from Americans and is not 
-		allowed in the U.S. because it is considered a violation of immigration laws. 
+		Yes, qualified truck drivers are in demand in North America.
 	</p>
 	
 	<p class="g-font-size-18--xs">
-		If you're dealing with conflict at the drop off site, don't hesitate to call the local sheriff's department. The sheriff should 
-		appear on the scene and straighten out any lumper or cargo disputes.
+		There are plenty of trucking jobs to be had, but the key to a successful driving career, is to secure 
+		one that is to your liking, whether it be regional or OTR work, city or highway driving, team or solo, 
+		flatbed, reefer, tanker, general freight or heavy haul trucking, you're bound to have preferences.
 	</p>
-	<!---Understanding Lumper Services for Canadian Truck Drivers End --->
+	<!---Are Truck Driving Jobs in Demand? End --->
 	<br>
-	<!---Negotiating Lumper Fees --->
-	<h3 class="g-font-size-21--xs g-font-size-25--sm">Negotiating Lumper Fees</h3>
+	<!---How Many Trucking Jobs Will Be Lost to Automation?--->
+	<h3 class="g-font-size-21--xs g-font-size-25--sm">How Many Trucking Jobs Will Be Lost to Automation?</h3>
 	
 	<p class="g-font-size-18--xs">
-		Sometimes you have the option to use a lumper or lumping service or unload the freight yourself. If you can, negotiate lumping 
-		rates down or put a time limit on how quickly they need to get your skids pulled. If they can't do the job faster than you, then 
-		don't pay them to do it.
+		Drivers nowadays are getting worried about automation or autonomous trucks taking over the trucking 
+		industry and hence they would be without a job.
 	</p>
 	
 	<p class="g-font-size-18--xs">
-		Consider whether their fee is worth it to you. Sometimes it can be, if they do a good job. However, it can be a risk. The whole 
-		point is to save you time or to give you a chance to rest while the heavy labor is done.
+		Yes, the industry is investigating and experimenting with driverless trucks.
 	</p>
 	
-	<!---Negotiating Lumper Fees End --->
+	<p class="g-font-size-18--xs">
+		However, the autonomous truck concept has a long way to go before it gets close to perfection to the 
+		point the idea will take over the industry.
+	</p>
+	
+	<p class="g-font-size-18--xs">
+		Rest your mind. No need to worry about a robot taking your truck driving job any time soon.
+	</p>
+	
+	<!---How Many Trucking Jobs Will Be Lost to Automation? End --->
 	<br>
-	<!---Why Does Lumping Still Exist At All?  --->
-	<h3 class="g-font-size-21--xs g-font-size-25--sm">Why Does Lumping Still Exist At All? </h3>
+	<!---Should I Become an Owner Operator or a Company Driver?--->
+	<h3 class="g-font-size-21--xs g-font-size-25--sm">Should I Become an Owner Operator or a Company Driver?</h3>
 	
 	<p class="g-font-size-18--xs">
-		Good question. The years of issues with lumping is on the books. However, these matters are not often enforced. It is not uncommon 
-		for large grocery chains to be aware of the illegal practices of their lumping service and yet do nothing to make adjustments to 
-		their system.
+		I can't decide if I should drive a company truck or buy my own rig and start off being an owner operator?
 	</p>
 	
 	<p class="g-font-size-18--xs">
-		Don't fund the shipper's efforts to have HIS freight unloaded by you for <strong>FREE!</strong>
+		There are ups and downs to being a company driver or an owner operator.
+	</p>
+	<!---Should I Become an Owner Operator or a Company Driver? End --->
+	<br>
+	<!---The Company Driver--->
+	<h3 class="g-font-size-21--xs g-font-size-25--sm">The Company Driver</h3>
+	
+	<p class="g-font-size-18--xs">
+		Some truckers are satisfied with company driving jobs for their entire career.
 	</p>
 	
 	<p class="g-font-size-18--xs">
-		Luckily, lumping is far less common than it once was. With so many problems with the service in the past, it has faded away, 
-		with the exception of some larger grocery chain conglomerates.
+		&#10004; Being a company driver doesn't come with the extra worries and stress, faced by the owner operator - 
+		truck maintenance and repair, overweight issues, fines, truck payments etc.
 	</p>
 	
 	<p class="g-font-size-18--xs">
-		Just watch your back and make sure that you have a contract to back you up just in case you get stuck with a lumping fee that you 
-		have no responsibility to pay!
+		&#10004; However, some truckers don't like driving company equipment, and would much rather be driving a truck 
+		more to their liking.
 	</p>
 	
 	<p class="g-font-size-18--xs">
-		<strong>WATCH THE VIDEO VERSION OF THIS ARTICLE</strong>
+		&#10004; Some are satisfied to drive whatever they're given. Many truckers who start out as a driver, try their 
+		hand at being an owner operator. Sadly, not all are successful.
 	</p>
-	<iframe src="https://www.youtube.com/embed/mmuxqF26ksM" width="420" height="315"></iframe>
-	<!---Why Does Lumping Still Exist At All? End --->
-	<!---Things You Should Know About Lumpers End --->
+	
+	<p class="g-font-size-18--xs">
+		&#10004; The profit margin can be lucrative, if you manage your business wisely. If money management and truck 
+		worries aren't your thing, stick to being a driver, and leave the worries up to the carrier!
+	</p>
+	
+	<p class="g-font-size-18--xs">
+		&#10004; As a company driver, the money you earn is yours and doesn't belong to the tax man or the bank!
+	</p>
+	
+	<!---The Company Driver End --->
+	<br>
+	<!---The Owner Operator--->
+	<h3 class="g-font-size-21--xs g-font-size-25--sm">The Owner Operator</h3>
+	
+	<p class="g-font-size-18--xs">
+		Many truckers dream about owning their own rig. There's loads of perks for owner operators 
+		if you manage your business wisely.
+	</p>
+	
+	<p class="g-font-size-18--xs">
+		&#10004; But, there's loads of responsibilities that go along with owning your own truck - 
+		truck payments, fuel costs, replacing equipment, escalating truck expenses, insurance rates, 
+		maintenance(which takes money and time) and sometimes struggling to be paid by a carrier or a 
+		customer.
+	</p>
+	
+	<p class="g-font-size-18--xs">
+		&#10004; If you decide at some point that you're not satisfied with the deal you've made with 
+		a carrier, it's not just a simple matter of leaving a carrier you've leased on with, and signing 
+		on with another. Chances are you are under a stringent contractual agreement and the company has 
+		a hefty hold-back fund of yours.
+	</p>
+	
+	<p class="g-font-size-18--xs">
+		&#10004; It's expensive to jump from carrier to carrier as an owner operator.
+	</p>
+	
+	<p class="g-font-size-18--xs">
+		Do some careful thinking and research before accepting just any driving job.
+	</p>
+	
+	<p class="g-font-size-18--xs">
+		It costs money to leave one job and start another. It's also a waste of time and energy. 
+		It can also affect your driving record adversely, so be sure to 'look before you leap'.
+	</p>
+	<!---The Owner Operator End--->
+	<br>
+	<!---Trucking Jobs With Training – Paid CDL Training--->
+	<h3 class="g-font-size-21--xs g-font-size-25--sm">Trucking Jobs With Training - Paid CDL Training</h3>
+	
+	<p class="g-font-size-18--xs">
+		In the U.S., one of the options available to get a CDL, is to sign up to a trucking company 
+		which offers truck driver training to obtain a CDL, with a job after completing the training 
+		program.
+	</p>
+
+	<p class="g-font-size-18--xs">
+		These company sponsored training programs are hugely popular because they require very little 
+		or no money to get into the program.
+		<ul class="g-font-size-18--xs">
+			<li >
+				Little or no money down to get into the program
+			</li>
+			<li >
+				there's a driving job after training
+			</li>
+		</ul>
+	</p>
+	
+	<p class="g-font-size-18--xs">
+		In contrast, private truck driving schools have tuition fees which make them financially out of 
+		reach for many drivers. Having a job waiting for you after completing training, is a big perk!
+	</p>
+	<!---Trucking Jobs With Training – Paid CDL Training End --->
+	<br>
+	<!---How to Find Truck Driving Jobs For Felonsg--->
+	<h3 class="g-font-size-21--xs g-font-size-25--sm">How to Find Truck Driving Jobs For Felons</h3>
+	
+	<p class="g-font-size-18--xs">
+		If you have a felony, don't despair. There is hope you can secure a professional driving job. 
+		We offer leads to trucking companies which hire felons and some tips to help you in your search 
+		for a trucking job.
+	</p>
+	<!---How to Find Truck Driving Jobs For Felons End--->
+	<br>
+	<!---Truck Driving Jobs With No Experience--->
+	<h3 class="g-font-size-21--xs g-font-size-25--sm">Truck Driving Jobs With No Experience</h3>
+	
+	<p class="g-font-size-18--xs">
+		One of the most frustrating situations new truck drivers can face, is not being able to 
+		secure a driving job after getting their CDL.
+	</p>
+	
+	<p class="g-font-size-18--xs">
+		If you've obtained your commercial driver's license on your own, not with a private CDL 
+		school or a company sponsored training program, you may very well find yourself in this 
+		predicament.
+	</p>
+	
+	<p class="g-font-size-18--xs">
+		Trucking companies (as dictated by their insurance company) want drivers with experience.
+	</p>
+	<!---Truck Driving Jobs With No Experience End--->
+	<br>
+	<!---Who Are the Best Trucking Companies to Work For in the U.S.?--->
+	<h3 class="g-font-size-21--xs g-font-size-25--sm">Who Are the Best Trucking Companies to Work For in the U.S.?</h3>
+	
+	<p class="g-font-size-18--xs">
+		Without a doubt, this is the most frequently asked question about truck driving jobs!We've 
+		gathered together a list of the trucking companies we've personally researched, questioned 
+		and surveyed, which we feel are worthy of checking out further for a CDL driving job.
+	</p>
+	
+	<p class="g-font-size-18--xs">
+		You'll find trucking companies which we recommend for investigation for
+	</p>
+	
+	<p class="g-font-size-18--xs">
+		&#10004; New Drivers
+		<br>
+		&#10004; OTR Jobs
+		<br>
+		&#10004;  Companies For Training + a Job
+		<br>
+		&#10004; Best Paying Trucking Companies
+		<br>
+		&#10004; All Around Good Carriers to Check Out
+	</p>
+	<!---Who Are the Best Trucking Companies to Work For in the U.S.? End--->
+	<br>
+	<!---Truck Driving Jobs in Canada--->
+	<h3 class="g-font-size-21--xs g-font-size-25--sm">Truck Driving Jobs in Canada</h3>
+	
+	<p class="g-font-size-18--xs">
+		With the introduction of mandatory driver training in Canada, fewer candidates are entering the 
+		industry.If you're a driver who is F.A.S.T. approved with a good driving record, you have excellent 
+		opportunities to secure a good paying truck driving job in the niche of your choice, in Canada.
+	</p>
+	<!---Truck Driving Jobs in Canada End--->
 	<h6 class="g-font-size-8--xs g-font-size-12--sm uppercase">Source: www.smart-trucking.com</h6>
   </div>
 </div>

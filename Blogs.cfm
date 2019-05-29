@@ -162,16 +162,80 @@
 
 	<!---Tips For Beginners To Find The Best Loads--->
     <p class="text-uppercase g-font-size-14--xs g-font-weight--700 g-color--primary g-letter-spacing--2 g-margin-b-25--xs hidden">Tips For Beginners To Find The Best Loads</p>
-    <h2 class="g-font-size-32--xs g-font-size-36--sm"><a href="blogs/dryVanOwnerOperatorsMakeIn2018.cfm">Tips For Beginners To Find The Best Loads</a></h2>
-     <p>Ready to start using a DAT Load Board, but not sure on how to find the best loads for your truck? Look no further, 
-     we're going to give you some tips and tricks on how to find the best loads using DAT Power and/or DAT Truckers 
-     Edge. The same strategies apply to other load boards as well and are guaranteed to help you find the best loads 
-     for your Dry Van, Reefer and/or Flatbed. Get ready to read and learn Tips For Beginners To Find <b>The Best Loads 
-     Using DAT Load Board!</b>
-    <br><a href="blogs/dryVanOwnerOperatorsMakeIn2018.cfm">Read more</a>
+    <h2 class="g-font-size-32--xs g-font-size-36--sm"><a href="blogs/TipsForBeginnersToFindTheBestLoads.cfm">Tips For Beginners To Find The Best Loads</a></h2>
+    <p>Ready to start using a DAT Load Board, but not sure on how to find the best loads for your truck? Look no further, 
+    we're going to give you some tips and tricks on how to find the best loads using DAT Power and/or DAT Truckers 
+    Edge. The same strategies apply to other load boards as well and are guaranteed to help you find the best loads 
+    for your Dry Van, Reefer and/or Flatbed. Get ready to read and learn Tips For Beginners To Find <b>The Best Loads 
+    Using DAT Load Board!</b>
+    <br><a href="blogs/TipsForBeginnersToFindTheBestLoads.cfm">Read more</a>
     </p>
     <!---Tips For Beginners To Find The Best Loads End--->
+    
+    <!---The Official 2019 CDL Trucking Jobs Question The Official 2019 CDL Trucking Jobs Question--->
+    <p class="text-uppercase g-font-size-14--xs g-font-weight--700 g-color--primary g-letter-spacing--2 g-margin-b-25--xs hidden">The Official 2019 CDL Trucking Jobs Question The Official 2019 CDL Trucking Jobs Question</p>
+    <h2 class="g-font-size-32--xs g-font-size-36--sm"><a href="blogs/truckingJobsQuestion.cfm">
+    The Official 2019 CDL Trucking Jobs Question The Official 2019 CDL Trucking Jobs Question</a></h2>
+    <p>If you're looking for answers to questions about CDL trucking jobs, you've landed at the right 
+    place.Hey, we know what it's like to try to find reliable information, with the limited amount of 
+    time of spare time you have as a professional truck driver.  We are a trusted source of information 
+    about CDL truck driving jobs.So, if you're looking to nail a good driving job, we are going to help 
+    you do just that.We'll provide answers to questions many other professional drivers just like you, 
+    are asking too!
+    <br><a href="blogs/truckingJobsQuestion.cfm">Read more</a>
+    </p>
+    <!---The Official 2019 CDL Trucking Jobs Question The Official 2019 CDL Trucking Jobs Question End--->
 
+	<!---How to Get Along With Your Dispatcher--->
+    <p class="text-uppercase g-font-size-14--xs g-font-weight--700 g-color--primary g-letter-spacing--2 g-margin-b-25--xs hidden">How to Get Along With Your Dispatcher</p>
+    <h2 class="g-font-size-32--xs g-font-size-36--sm">
+    <a href="blogs/howToGetAlongWithYourDispatcher.cfm">How to Get Along With Your Dispatcher</a></h2>
+    <p>As a trucker, one of the most important professional relationships you will have is with your dispatcher. 
+    Unfortunately, it's also sometimes one of the most difficult relationships in your professional truck driving 
+    career. Dispatchers don't come from the same stock as they used to. Most of them are recent college graduates 
+    with little to no experience in our industry. And this can cause a lot of problems and miscommunications. 
+    <br><a href="blogs/howToGetAlongWithYourDispatcher.cfm">Read more</a>
+    </p>
+    <!---How to Get Along With Your Dispatcher End--->
+    
+    <!---OverDryve Pro 8 built for professional drivers--->
+    <p class="text-uppercase g-font-size-14--xs g-font-weight--700 g-color--primary g-letter-spacing--2 g-margin-b-25--xs hidden">OverDryve Pro 8 built for professional drivers</p>
+    <h2 class="g-font-size-32--xs g-font-size-36--sm">
+    <a href="blogs/OverDryveProEight.cfm">OverDryve Pro 8 built for professional drivers</a></h2>
+    <p>Rand McNally traces its roots to a Chicago print shop that opened in 1856. 
+    The company published its first road map, the New Automobile Road Map of New York City & Vicinity, in 1904.
+    Since then, Rand McNally has become synonymous with helping truckers and other travelers get where they want 
+	to go, not just on paper with maps and their ever-popular atlases, but also electronically.
+    <br><a href="blogs/OverDryveProEight.cfm">Read more</a>
+    </p>
+    <!---OverDryve Pro 8 built for professional drivers End--->
+    
+    <!---From within or without? — pressure to run over hours in the wake of the ELD mandate--->
+    <p class="text-uppercase g-font-size-14--xs g-font-weight--700 g-color--primary g-letter-spacing--2 g-margin-b-25--xs hidden">From within or without? — pressure to run over hours in the wake of the ELD mandate</p>
+    <h2 class="g-font-size-32--xs g-font-size-36--sm">
+    <a href="blogs/fromWithinOrWithout.cfm">From within or without?</a></h2>
+    <p>There's been a mighty strong interest in the poll that ran here at Overdrive earlier this week, 
+    something of a follow-up about pressure from whatever external quarter it comes to run counter to the code that so many longtime 
+    truck drivers operate by - the very simple and sensibly safe drive when rested, sleep when tired. The poll question asks, 
+    specifically, about situations in which violations of that code may not be so cut and dried but what is abundantly clear is 
+    other regulatory violations would be the result of caving to wherever the pressure is coming from, i.e. a shipper/receiver, 
+    broker or carrier operations. 
+    <br><a href="blogs/fromWithinOrWithout.cfm">Read more</a>
+    </p>
+    <!---OverDryve Pro 8 built for professional drivers End--->
+    
+    <!---Owner Who Treated Truckers Like Royalty--->
+    <p class="text-uppercase g-font-size-14--xs g-font-weight--700 g-color--primary g-letter-spacing--2 g-margin-b-25--xs hidden">Owner Who Treated Truckers Like Royalty</p>
+    <h2 class="g-font-size-32--xs g-font-size-36--sm">
+    <a href="blogs/whoTreatedTruckersLikeRoyalty.cfm">Owner Who Treated Truckers Like Royalty</a></h2>
+    <p>John Strong, who ended his long trucking career last year, brought up the old Mass 10 Truck Stop in a recent talk 
+    in which he recounted a sketch done of him by an Overdrive artist in 1976. You can hear Strong's comments on Mass 10 
+    if you advance this recent Overdrive Radio podcast to 5:10. Strong's mention of Mass 10 reminded me of the truck stop's 
+    place in Overdrive's archives, though recollections of the colorful Mass 10, widely known in its day as "The Dump," are 
+    plentiful in online forum threads spanning the last two decades.
+    <br><a href="blogs/whoTreatedTruckersLikeRoyalty.cfm">Read more</a>
+    </p>
+    <!---Owner Who Treated Truckers Like Royalty End--->
 </div>
 <!-- End News -->
 <!--========== END PAGE CONTENT ==========--> 

@@ -79,11 +79,11 @@
 <div> 
   <!-- Image -->
 
-    <div class="g-fullheight--xs g-bg-position--center" style="background: url('../img/1920x1080/Dryvan.jpg');">
+    <div class="g-fullheight--xs g-bg-position--center" style="background: url('../img/1920x1080/dispatcher.jpg');">
       <div class="container g-text-center--xs g-ver-center--xs">
         <div class="g-margin-b-30--xs">
-          <h2 class="g-font-size-32--xs g-font-size-45--sm g-font-size-60--md g-color--white">DRY VAN OWNER OPERATORS</h2>
-          <p class="g-font-size-18--xs g-font-size-22--sm g-color--white-opacity">How Much They Make In 2018</p>
+          <h2 class="g-font-size-32--xs g-font-size-45--sm g-font-size-60--md g-color--white">HOW TO GET ALONG WITH YOUR DISPATCHER</h2>
+          <p class="g-font-size-18--xs g-font-size-22--sm g-color--white-opacity">Without Sacrificing Your Dignity</p>
         </div>     
     </div>
   
@@ -97,91 +97,257 @@
 <!-- News -->
 <div id="js__scroll-to-section5"  class="container g-padding-y-80--xs">
   <div class="g-text-left--lg">
-  	<!---Things You Should Know About Lumpers --->
-    <p class="g-font-size-18--xs"><strong>How Much Do Dry Van Owner Operators Make In 2018</strong>
+  	<!---How to Get Along With Your Dispatcher--->
+    <p class="g-font-size-18--xs"><strong>How to Get Along With Your Dispatcher Without Sacrificing Your Dignity</strong>
 	</p>
-    <p class="g-font-size-18--xs">Are you a company driver looking to buy your own truck and become 
-    an owner operator? Are you curious about how much does an owner operator make? The answers may 
-    surprise you. Why do some dry van owner operators make a profit of $45,000 a year while others 
-    are making well over $150,000? We're going to hi-light the ins and outs of becoming an owner 
-    operator and how much money you can make if you own your own truck. 
+    <p class="g-font-size-18--xs">As a trucker, one of the most important professional relationships you 
+    will have is with your dispatcher.
 	</p>
-	<!---Things You Should Know About Lumpers End --->
+	
+	<p class="g-font-size-18--xs">
+		Unfortunately, it's also sometimes one of the most difficult relationships in your professional 
+		truck driving career.
+	</p>
+	
+	<p class="g-font-size-18--xs">Dispatchers don't come from the same stock as they used to. Most of 
+	them are recent college graduates with little to no experience in our industry. And this can cause 
+	a lot of problems and miscommunications.  
+	</p>
+	
+	<p class="g-font-size-18--xs">However, your dispatcher is likely your lifeline to your company. So 
+	if you want to be successful, you're going to have to learn to play nice.  
+	</p>
+	
+	<!---How to Get Along With Your Dispatcher End --->
 	<br>
-	<!---How To Become An Owner Operator--->
-	<h3 class="g-font-size-21--xs g-font-size-25--sm">How To Become An Owner Operator</h3>
+	<!---The Dispatcher’s Responsibility--->
+	<h3 class="g-font-size-21--xs g-font-size-25--sm">The Dispatcher's Responsibility</h3>
 	
 	<p class="g-font-size-18--xs">
-		How much an owner operator makes depends on how they've set up their business. There are 2 ways that an owner operator can work. 
+		As a professional driver, it's important you understand your position in the industry. 
+		If you’re brand new to the business, you are most likely at the bottom of the company ladder. 
 	</p>
 	
 	<p class="g-font-size-18--xs">
-		1. Operating under someone else’s authority. Expect to make anywhere from $45,000 - $100,000
+		Your job at this point is to do what you're told to the best of your ability. And because 
+		truckers are usually independent by nature, this isn’t necessarily an easy task.
 	</p>
 	
 	<p class="g-font-size-18--xs">
-		2. Operating under their own authority. Expect to make anywhere from $55,000 - $150,000.
+		A dispatcher is not necessarily your supervisor. However, they are the ones who manage the 
+		software systems and give you your instructions. They are sort of the gatekeepers between 
+		you and your carrier. And having a basic idea of their job duties can sometimes help you 
+		understand where they're coming from. 
 	</p>
 	
 	<p class="g-font-size-18--xs">
-		Let’s talk about working under someone else's authority first. <b>Even Donal Trump agrees it's good to become an owner operator!</b>  
+		The dispatcher's job is to effectively manage the flow of the freight from point A to point B. 
 	</p>
-	<!---How To Become An Owner Operator End --->
+	
+	<p class="g-font-size-18--xs">
+		Their job is to try to minimize the truck's empty miles and maximize the company's profits. 
+		They are also the ones in control of how many miles you receive pay for. Don't forget, you 
+		get paid by the mile.
+	</p>
+	<!---The Dispatcher’s Responsibility End --->
 	<br>
-	<!---Owner Operator Under Another Company’s MC Authority --->
-	<h3 class="g-font-size-21--xs g-font-size-25--sm">Owner Operator Under Another Company's MC Authority</h3>
+	<!---Tips for Getting Along With Your Dispatcher--->
+	<h3 class="g-font-size-21--xs g-font-size-25--sm">Tips for Getting Along With Your Dispatcher</h3>
 	
 	<p class="g-font-size-18--xs">
-		This has its advantages and disadvantages. Advantages Advantages are that you can find 
-		yourself a carrier to work with that has amazing connections and a great network of customers, 
-		clients and brokers. This will help you immensely, you'll no longer have to look for shippers 
-		or clients. You’ll be hauling top paying loads and will have access to a huge amount of resources. 
-		Often times carriers will provide you with a dispatcher and do your invoicing for you as well. 
-		Disadvantages The disadvantage to this is that the carrier is going to take a large percentage 
-		for helping you book these loads. High Fees for Booking Loads! Carrier companies that haul expedited 
-		loads or auto parts on average charge anywhere from 20% - 30% of the gross load payment. This means 
-		that you own your own truck, but technically, you're not the boss. You can think of yourself as a 
-		contracted employee of a company. Limited Growth Growing your company is going to be a lot harder 
-		if you work under someone else's authority. The amount of money you make working for a carrier varies 
-		greatly. It depends on the carrier company you work for. Make sure you do your research. 
+		Many times, it seems dispatchers don't listen to the truckers. 
 	</p>
-	<!---Owner Operator Under Another Company’s MC Authority End --->
+	
+	<p class="g-font-size-18--xs">
+		But to be fair, they do have a lot going on with their software systems and sales team interactions. 
+	</p>
+	
+	<p class="g-font-size-18--xs">
+		Also, since most dispatchers nowadays have never been truckers, they actually have no idea what we go 
+		through in a day. For this reason, one of the best things you can do to open the lines of communication 
+		is to help them better understand your job. 
+	</p>
+	
+	<p class="g-font-size-18--xs">
+		Additionally, here are a few tips I've found helpful for getting along with a dispatcher.
+	</p>
+	
+	<p class="g-font-size-18--xs">
+		&#10004; <STRONG>Don't argue.
+	</p>
+	
+	<p class="g-font-size-18--xs">
+		The first thing you need to remember is not to engage in battle with dispatch. It accomplishes nothing, 
+		except maybe giving you high blood pressure. It's best if you approach them with an open mind and a 
+		friendly manner. Remember, the goal is for both of you to reach a mutual agreement. So, be wise and 
+		handle them gently and respectfully.
+	</p>
+	
+	<p class="g-font-size-18--xs">
+		&#10004; <STRONG>You set the schedule.<STRONG>
+	</p>
+	
+	<p class="g-font-size-18--xs">
+		When the dispatcher is assigning you a new load, I recommend you establish a few things up front. 
+	</p>
+	
+	<p class="g-font-size-18--xs">
+		Remember, you're the guy with the specialist licence here. You're the guy with the CDL. You're the 
+		guy with the driving experience. And you're the guy driving the truck, who fights the weather and 
+		the traffic, and everything else. 
+	</p>
+	
+	<p class="g-font-size-18--xs">
+		Therefore, it's up to <strong>YOU</strong> to establish the delivery schedule. He'll try to dictate 
+		to you when and 
+		where you've got to be.
+	</p>
+	
+	<p class="g-font-size-18--xs">
+		Have a good look at his proposed schedule and say something like, "Well, you know I'll do my best." 
+		But, never promise anything. If you do make promises, they'll often come back to haunt you. 
+	</p>
+	
+	<p class="g-font-size-18--xs">
+		There are many uncontrollable variables you'll encounter on your trip. So be sure to leave yourself 
+		some wiggle room for delivery time. Don't promise the moon and risk having to break your promise.
+	</p>
+	
+	<p class="g-font-size-18--xs">
+		&#10004;<STRONG> Establish trip details before departure.<STRONG>
+	</p>
+	
+	<p class="g-font-size-18--xs">
+		There are a few things you should establish before leaving on your trip. 
+	</p>
+	
+	<p class="g-font-size-18--xs">
+		Double check the trip mileage, propose a delivery schedule, and present any possible obstacles you 
+		anticipate for the trip. Also, establish who is taking care of certain things like customs paperwork, 
+		for instance. 
+	</p>
+	
+	<p class="g-font-size-18--xs">
+		If you aren't getting paid for it, it's the company's responsibility. From personal experience, I've 
+		found it helps to establish these things up front before you depart on your trip. 
+	</p>
+	
+	<p class="g-font-size-18--xs">
+		So, if you hear the words "it needs to be there by...," your best response should always be, "I'll do 
+		my best to deliver on time".
+	</p>
+	<!---Tips for Getting Along With Your Dispatcher End --->
 	<br>
-	<!---Owner Operator Working With Own Authority MC Number--->
-	<h3 class="g-font-size-21--xs g-font-size-25--sm">Owner Operator Working With Own Authority MC Number</h3>
+	<!---Dealing With Unrealistic Schedule Demands--->
+	<h3 class="g-font-size-21--xs g-font-size-25--sm">Dealing With Unrealistic Schedule Demands</h3>
 	
 	<p class="g-font-size-18--xs">
-		Now let's talk about working as a dry van owner operator under your own authority. This also comes with 
-		its own advantages and disadvantages. Advantages The major advantage of operating under your own authority 
-		is that you are 100% your own boss. You’ve opened up your own company, you can grow it as large as you want, 
-		or keep it small and comfortable.  Very Low Fees For Booking Loads! When you own your own MC, your percentage 
-		you pay goes down significantly!
+		Impossible schedule demands are a common problem in this industry. It usually happens because the 
+		dispatchers get a lot of pressure from the sales team. 
 	</p>
 	
 	<p class="g-font-size-18--xs">
-		Opportunity For Growth Your company can grow and expand exponentially when you operate under your own MC. 
-		You can buy more trucks, hire more drivers and watch profits increase!  Disadvantages The disadvantage to 
-		operating under your own MC Authority is that you will have to start from scratch. You won’t have a carrier 
-		with experience to help you out, because you are now that carrier. You will have to find out how to book the 
-		best loads using load boards. One can look at this as a disadvantage, or as a hurdle you have to overcome as 
-		an entrepreneur. You'll  have to work much harder, however your success will be your own and you will have 
-		unlimited earning potential!
+		And they don't know any more about trucking than the dispatchers!  Thus, they makes huge promises 
+		to customers and communicate those to the dispatchers. The dispatchers then just pass on the orders 
+		to the drivers. 
 	</p>
-	<!---Owner Operator Working With Own Authority MC Number End --->
+	
+	<p class="g-font-size-18--xs">
+		This creates some obvious problems, and many new truckers feel pressured into promising things they're 
+		not sure they can deliver. Don't fall into this trap.  
+	</p>
+	
+	<p class="g-font-size-18--xs">
+		If the dispatcher doesn't accept your "I'll try my best" response, ask to speak to the safety supervisor.
+	</p>
+	
+	<p class="g-font-size-18--xs">
+		This supervisor works for the trucking company. His job is to protect you from unsafe practices and protect 
+		the company from potential problems. They will likely resolve the situation very quickly. 
+	</p>
+	
+	<p class="g-font-size-18--xs">
+		If dispatch is trying to force you to force you to run tired due to crazy scheduling demands, the safety 
+		department will by your ally. It also never hurts to have these conversations in writing.  
+	</p>
+	
+	<p class="g-font-size-18--xs">
+		You can reply via the truck's satellite system by email, saying something like, "I'm tired and can't make 
+		this delivery time." These messages are stored on the database.   
+	</p>
+	
+	<p class="g-font-size-18--xs">
+		And the trucking company could get into serious trouble if a scale master or site auditor saw the message 
+		and knew they forced you to run tired anyway.
+	</p>
+	
+	<!---Dealing With Unrealistic Schedule Demands End --->
 	<br>
-	<!---Conclusion: How Much Does An Owner Operator Make?--->
-	<h3 class="g-font-size-21--xs g-font-size-25--sm">Conclusion: How Much Does An Owner Operator Make?</h3>
+	<!---What to Do If You Still Can’t Deal With Your Dispatcher--->
+	<h3 class="g-font-size-21--xs g-font-size-25--sm">What to Do If You Still Can't Deal With Your Dispatcher</h3>
 	
 	<p class="g-font-size-18--xs">
-		How much you can make as an owner operator is entirely up to you and how you want to set up your 
-		business. As you can see in the article the profit per year can be anywhere from $45,000 and up! 
-		Working under a carriers' MC Authority number you'll have access to great accounts without having 
-		to do extra work like invoicing and dispatching. Working under your own MC Authority you’ll be able 
-		to grow your business as much as you want!
+		In the trucking industry, there are both good and bad dispatchers. Some of them can be easy to get along 
+		with and others can be snakes. And sometimes, despite your best effort, you will come across one who you 
+		can't seem to get along with. 
 	</p>
-	<!---Conclusion: How Much Does An Owner Operator Make? End--->
+	
+	<p class="g-font-size-18--xs">
+		In these situations, you don't have too many choices.
+	</p>
+	
+	<p class="g-font-size-18--xs">
+		But you can start by going over their head. First, if the dispatcher's instructions are putting you in 
+		danger, go directly to the safety supervisor. That usually clears those matters up immediately.
+	</p>
+	
+	<p class="g-font-size-18--xs">
+		But if your dispatcher continues to communicate the same way and repeat the same behaviours, you may have 
+		to go over his head. 
+	</p>
+	
+	<p class="g-font-size-18--xs">
+		My advice to you in any situation is to keep a good record of everything dispatch asks you to do. 
+	</p>
+	
+	<p class="g-font-size-18--xs">
+		You can even use a tool like an electronic onboard recorder to do so. This way, if anything is questioned 
+		by people up the chain of command, you'll have documented proof of the conversations.
+	</p>
+	
+	<!---What to Do If You Still Can’t Deal With Your Dispatcher End--->
 	<br>
-	<h6 class="g-font-size-8--xs g-font-size-12--sm uppercase">Source: www.ninjadispatch.com</h6>
+	<!---Moving On To Another Truck Driving Job--->
+	<h3 class="g-font-size-21--xs g-font-size-25--sm">Moving On To Another Truck Driving Job</h3>
+	
+	<p class="g-font-size-18--xs">
+		Keep in mind that you will not always have to deal with bad dispatchers. 
+	</p>
+	
+	<p class="g-font-size-18--xs">
+		In fact, a good dispatcher is usually the sign of a decent trucking company. And there are many of them out there. 
+	</p>
+	
+	<p class="g-font-size-18--xs">
+		But if you have dealt with a difficult dispatcher for a long time, and the trucking company is not willing to address 
+		the issue, then you may be at a crossroads in your driving career.
+	</p>
+	
+	<p class="g-font-size-18--xs">
+		Sometimes no matter what you do or say it doesn't work. It's not always possible to find a workable solution to getting 
+		along with your dispatcher
+	</p>
+	
+	<p class="g-font-size-18--xs">
+		Don't be afraid to take that step if you have to. A good, long trucking career may require some lateral moves. 
+	</p>
+	
+	<p class="g-font-size-18--xs">
+		Know when it's time  to move on!
+	</p>
+	<!---Moving On To Another Truck Driving Job End --->
+	<br>
+	<h6 class="g-font-size-8--xs g-font-size-12--sm uppercase">Source: www.smart-trucking.com</h6>
   </div>
 </div>
 <!-- End blog -->

@@ -79,11 +79,11 @@
 <div> 
   <!-- Image -->
 
-    <div class="g-fullheight--xs g-bg-position--center" style="background: url('../img/1920x1080/Dryvan.jpg');">
+    <div class="g-fullheight--xs g-bg-position--center" style="background: url('../img/1920x1080/royaltyTrucks.jpg');">
       <div class="container g-text-center--xs g-ver-center--xs">
         <div class="g-margin-b-30--xs">
-          <h2 class="g-font-size-32--xs g-font-size-45--sm g-font-size-60--md g-color--white">DRY VAN OWNER OPERATORS</h2>
-          <p class="g-font-size-18--xs g-font-size-22--sm g-color--white-opacity">How Much They Make In 2018</p>
+          <h2 class="g-font-size-32--xs g-font-size-45--sm g-font-size-60--md g-color--white uppercase">Recalling Mass 10 Truck Stop </h2>
+          <p class="g-font-size-18--xs g-font-size-22--sm g-color--white-opacity">'The Dump' and Its Owner Who Treated Truckers Like Royalty</p>
         </div>     
     </div>
   
@@ -97,91 +97,83 @@
 <!-- News -->
 <div id="js__scroll-to-section5"  class="container g-padding-y-80--xs">
   <div class="g-text-left--lg">
-  	<!---Things You Should Know About Lumpers --->
-    <p class="g-font-size-18--xs"><strong>How Much Do Dry Van Owner Operators Make In 2018</strong>
+  	<!---who treated truckers like royalty--->
+    <p class="g-font-size-18--xs"><strong>Recalling Mass 10 Truck Stop - 'The Dump' - and It's Owner, Who Treated Truckers Like Royalty</strong>
 	</p>
-    <p class="g-font-size-18--xs">Are you a company driver looking to buy your own truck and become 
-    an owner operator? Are you curious about how much does an owner operator make? The answers may 
-    surprise you. Why do some dry van owner operators make a profit of $45,000 a year while others 
-    are making well over $150,000? We're going to hi-light the ins and outs of becoming an owner 
-    operator and how much money you can make if you own your own truck. 
+    <p class="g-font-size-18--xs">John Strong, who ended his long trucking career last year, brought up the old Mass 
+    10 Truck Stop in a recent talk in which he recounted a sketch done of him by an Overdrive artist in 1976. You can 
+    hear Strong's comments on Mass 10 if you advance this recent Overdrive Radio podcast to 5:10. 
 	</p>
-	<!---Things You Should Know About Lumpers End --->
+	
+	<p class="g-font-size-18--xs">
+	Strong's mention of Mass 10 reminded me of the truck stop's place in Overdrive's archives, though recollections 
+	of the colorful Mass 10, widely known in its day as "The Dump," are plentiful in online forum threads spanning 
+	the last two decades. In the podcast, Strong recalls going on a trip with Overdrive founder Mike Parkhurst and 
+	some truckers to meet congressional leaders in Washington, D.C. Mass 10 owner Gene Murphy, an Overdrive advertiser 
+	and friend of Parkhurst's, also went.
+	</p>
+	
+	<p class="g-font-size-18--xs">Mass 10 was on U.S. 20 near Auburn, Mass., a town just south of Worcester, where I-90 
+	meets I-290. The truck stop was known by many who ran in that region. The owner, who spun the derogatory nickname to 
+	his advantage, is remembered for his over-the-top generosity to truckers.
+	</p>
+	
+	<p class="g-font-size-18--xs">In another 2010 OverdriveOnline.com story written by Coulter, Russ MacNeil recalled, 
+	"In the '70s, there weren't many truck stops in New England." Mass 10 was for truckers "a safe haven where they could 
+	go and not be harassed by police about their trucking."
+	</p>
+	
+	<p class="g-font-size-18--xs">MacNeil was an amateur truck photographer whose work appeared in Overdrive. You can see 
+	his photos of classic trucks, most of them cabovers, shot in 1974 at Mass 10, in a gallery on Hank's Truck Pictures 
+	website.
+	</p>
+	
+	<p class="g-font-size-18--xs">Also posting on Hank's Truck Pictures, "Diesel Gypsy" recalled Mass 10 as "a small dirt 
+	parking lot with 2 disel pumps" and a shower in the garage. DG also offered more detail on Murphy's lake house:
+	</p>
+	
+	<p class="g-font-size-18--xs">"Mass had the blue law in effect and trucks would get nailed running on Sundays. If you 
+	got stuck in the area the best place to get tied up would be at Mass 10. Gene had a place on the lake, with boats, beer 
+	& bbq's. He would take the drivers in and give them free range of the place with beer, steaks, and boat use for freeâ€¦ 
+	He was even known to help a driver get bailed out of the jug for truck driving offence."
+	</p>
+	
+	<p class="g-font-size-18--xs">"Wbache" added to the thread: "I have to agree that Gene Murphy was an prince when it came 
+	to serving truckers with the limited facility that he had due to zoning laws and local opposition."
+	</p>
+	
+	<p class="g-font-size-18--xs">"It might have looked like a dump but has a nice drivers room and bunk room and was kept very 
+	clean," posted Glorywagon on Hank's Truck Forum, a site affiliated with Hank's Truck Pictures. "If you had truck problems or 
+	needed to get home for an emergency Gene was the man to bust his butt to help you. If you run out of fuel genes shop would 
+	bring you fuel at no charge. We need more Dumps like Mass 10."
+	</p>
+	
+	<p class="g-font-size-18--xs">Reader Roadranger, posting on the American Truck Historical Society website, recalled a friendly 
+	gesture of Murphy's: "Went inside the store one time in uniform freshly out of bootcamp at Parris Island looking to buy the 
+	latest Overdrive magazine. Gene spotted me in his infamous cameras waiting at the counter to pay for it, and called down on a 
+	speaker to the cashier to let me have it complimentary. Which I thanked him for."
+	</p>
+	
+	<p class="g-font-size-18--xs">The same ATHS thread includes discussion of Mass 10 mud flaps, sought by the poster, and the Mass 
+	10 "bumper sticker that was around saying."
+	</p>
+	
+	<p class="g-font-size-18--xs">Reader Chinatown, posting on thetruckersreport.com, suggested Mass 10 had other off-duty diversions 
+	besides Murphy's lake house. "At night van loads of women wearing negligee would be dropped off in the parking lot." In another 
+	post Chinatown wrote "they advertised that place on the 'all night trucker radio stations' and the radio hosts would chuckle 
+	because they knew what was going on there."
+	</p>
+	
+	<p class="g-font-size-18--xs">I made inquiries through a local American Truck Historical Society chapter, the Auburn Town Clerk's 
+	office and Ken Ethier, a board member of the Auburn Historical Society, but was unable to reach Murphy or determine if he's still 
+	alive. Please comment below if you have information on him.
+	</p>
+	
+	<p class="g-font-size-18--xs">Likewise, we'd love to hear anyone's memories of Mass 10, Murphy or his lake house.
+	</p>
+	<!---who treated truckers like royalty End --->
 	<br>
-	<!---How To Become An Owner Operator--->
-	<h3 class="g-font-size-21--xs g-font-size-25--sm">How To Become An Owner Operator</h3>
-	
-	<p class="g-font-size-18--xs">
-		How much an owner operator makes depends on how they've set up their business. There are 2 ways that an owner operator can work. 
-	</p>
-	
-	<p class="g-font-size-18--xs">
-		1. Operating under someone else’s authority. Expect to make anywhere from $45,000 - $100,000
-	</p>
-	
-	<p class="g-font-size-18--xs">
-		2. Operating under their own authority. Expect to make anywhere from $55,000 - $150,000.
-	</p>
-	
-	<p class="g-font-size-18--xs">
-		Let’s talk about working under someone else's authority first. <b>Even Donal Trump agrees it's good to become an owner operator!</b>  
-	</p>
-	<!---How To Become An Owner Operator End --->
-	<br>
-	<!---Owner Operator Under Another Company’s MC Authority --->
-	<h3 class="g-font-size-21--xs g-font-size-25--sm">Owner Operator Under Another Company's MC Authority</h3>
-	
-	<p class="g-font-size-18--xs">
-		This has its advantages and disadvantages. Advantages Advantages are that you can find 
-		yourself a carrier to work with that has amazing connections and a great network of customers, 
-		clients and brokers. This will help you immensely, you'll no longer have to look for shippers 
-		or clients. You’ll be hauling top paying loads and will have access to a huge amount of resources. 
-		Often times carriers will provide you with a dispatcher and do your invoicing for you as well. 
-		Disadvantages The disadvantage to this is that the carrier is going to take a large percentage 
-		for helping you book these loads. High Fees for Booking Loads! Carrier companies that haul expedited 
-		loads or auto parts on average charge anywhere from 20% - 30% of the gross load payment. This means 
-		that you own your own truck, but technically, you're not the boss. You can think of yourself as a 
-		contracted employee of a company. Limited Growth Growing your company is going to be a lot harder 
-		if you work under someone else's authority. The amount of money you make working for a carrier varies 
-		greatly. It depends on the carrier company you work for. Make sure you do your research. 
-	</p>
-	<!---Owner Operator Under Another Company’s MC Authority End --->
-	<br>
-	<!---Owner Operator Working With Own Authority MC Number--->
-	<h3 class="g-font-size-21--xs g-font-size-25--sm">Owner Operator Working With Own Authority MC Number</h3>
-	
-	<p class="g-font-size-18--xs">
-		Now let's talk about working as a dry van owner operator under your own authority. This also comes with 
-		its own advantages and disadvantages. Advantages The major advantage of operating under your own authority 
-		is that you are 100% your own boss. You’ve opened up your own company, you can grow it as large as you want, 
-		or keep it small and comfortable.  Very Low Fees For Booking Loads! When you own your own MC, your percentage 
-		you pay goes down significantly!
-	</p>
-	
-	<p class="g-font-size-18--xs">
-		Opportunity For Growth Your company can grow and expand exponentially when you operate under your own MC. 
-		You can buy more trucks, hire more drivers and watch profits increase!  Disadvantages The disadvantage to 
-		operating under your own MC Authority is that you will have to start from scratch. You won’t have a carrier 
-		with experience to help you out, because you are now that carrier. You will have to find out how to book the 
-		best loads using load boards. One can look at this as a disadvantage, or as a hurdle you have to overcome as 
-		an entrepreneur. You'll  have to work much harder, however your success will be your own and you will have 
-		unlimited earning potential!
-	</p>
-	<!---Owner Operator Working With Own Authority MC Number End --->
-	<br>
-	<!---Conclusion: How Much Does An Owner Operator Make?--->
-	<h3 class="g-font-size-21--xs g-font-size-25--sm">Conclusion: How Much Does An Owner Operator Make?</h3>
-	
-	<p class="g-font-size-18--xs">
-		How much you can make as an owner operator is entirely up to you and how you want to set up your 
-		business. As you can see in the article the profit per year can be anywhere from $45,000 and up! 
-		Working under a carriers' MC Authority number you'll have access to great accounts without having 
-		to do extra work like invoicing and dispatching. Working under your own MC Authority you’ll be able 
-		to grow your business as much as you want!
-	</p>
-	<!---Conclusion: How Much Does An Owner Operator Make? End--->
-	<br>
-	<h6 class="g-font-size-8--xs g-font-size-12--sm uppercase">Source: www.ninjadispatch.com</h6>
+	<h6 class="g-font-size-8--xs g-font-size-12--sm uppercase">Source: www.smart-trucking.com</h6>
   </div>
 </div>
 <!-- End blog -->
