@@ -92,15 +92,14 @@
         </div>
         <div class="s-header-v2__navbar-col s-header-v2__navbar-col-width--180"> 
           <!-- Logo -->
-          <div class="s-header-v2__logo"> <a href="index.cfm" class="s-header-v2__logo-link"> <img class="s-header-v2__logo-img s-header-v2__logo-img--default" src="img/testLogo.png" alt="Dublin Logo"> <img class="s-header-v2__logo-img s-header-v2__logo-img--shrink" src="img/testLogo2.png" alt="Dublin Logo"> </a> </div>
+          <div class="s-header-v2__logo"> <a href="index.cfm" class="s-header-v2__logo-link"> <img class="s-header-v2__logo-img s-header-v2__logo-img--default" src="img/testLogo.png" alt="TDGO Logo"> <img class="s-header-v2__logo-img s-header-v2__logo-img--shrink" src="img/testLogo2.png" alt="TDGO Logo"> </a> </div>
           <!-- End Logo --> 
         </div>
         <div class="s-header-v2__navbar-col s-header-v2__navbar-col--right"> 
           <!-- Collect the nav links, forms, and other content for toggling -->
           <div class="collapse navbar-collapse s-header-v2__navbar-collapse" id="nav-collapse">
             <ul class="s-header-v2__nav">
-              <!-- Home -->
-              
+              <!-- Home --> 
               <li class="s-header-v2__nav-item"><a href="#js__scroll-to-section3" class="s-header-v2__nav-link">Home</a></li>
               <li class="s-header-v2__nav-item"><a href="#js__scroll-to-section" class="s-header-v2__nav-link">About Us</a></li>
               <li class="s-header-v2__nav-item"><a href="#js__scroll-to-section2" class="s-header-v2__nav-link">Process</a></li>
@@ -124,7 +123,7 @@
 <div class="s-swiper js__swiper-one-item"> 
   <!-- Swiper Wrapper -->
   <div class="swiper-wrapper">
-    <div class="g-fullheight--xs g-bg-position--center swiper-slide" style="background: url('img/1920x1080/truck1.jpg');">
+    <div class="g-fullheight--xs g-bg-position--center swiper-slide" style="background: url('img/1920x1080/truck2.jpg');">
       <div class="container g-text-center--xs g-ver-center--xs">
         <div class="g-margin-b-30--xs">
           <h2 class="g-font-size-32--xs g-font-size-45--sm g-font-size-60--md g-color--white">DISPATCH FREIGHT SERVICE</h2>
@@ -132,7 +131,7 @@
         </div>
         <!---<a href="#js__scroll-to-section" class="text-uppercase s-btn s-btn--md s-btn--white-brd g-radius--50 g-padding-x-50--xs">Read More</a>---> </div>
     </div>
-    <div class="g-fullheight--xs g-bg-position--center swiper-slide" style="background: url('img/1920x1080/truck2.jpg');">
+    <div class="g-fullheight--xs g-bg-position--center swiper-slide" style="background: url('img/1920x1080/truck1.jpg');">
       <div class="container g-text-center--xs g-ver-center--xs">
         <div class="g-margin-b-30--xs">
           <div class="g-margin-b-30--xs">
@@ -172,7 +171,7 @@
       <div class="row g-row-col--5 g-overflow--hidden js__masonry">
         <div class="col-xs-6 js__masonry-sizer"></div>
         <div class="col-xs-6 g-full-width--xs g-margin-b-10--xs g-margin-b-0--sm js__masonry-item">
-          <div class="wow fadeInDown" data-wow-duration=".3" data-wow-delay=".1s"> <img class="img-responsive" src="img/400x550/truck1.jpg" alt="Image"> </div>
+          <div class="wow fadeInDown" data-wow-duration=".3" data-wow-delay=".1s"> <img class="img-responsive" src="img/400x550/truck-1.jpg" alt="Image"> </div>
         </div>
         <div class="col-xs-6 g-full-width--xs g-margin-b-10--xs js__masonry-item">
           <div class="wow fadeInRight" data-wow-duration=".3" data-wow-delay=".3s"> <img class="img-responsive" src="img/970x647/pickup.jpg" alt="Image"> </div>
@@ -508,7 +507,7 @@
           <ul class="list-unstyled g-ul-li-tb-5--xs g-margin-b-0--xs">
             <li><a class="g-font-size-15--xs g-color--white-opacity" href="#">Twitter</a></li>
             <li><a class="g-font-size-15--xs g-color--white-opacity" href="https://www.facebook.com/Truck-Dispatch-GO-2321923231384195" target="_blank" >Facebook</a></li>
-            <li><a class="g-font-size-15--xs g-color--white-opacity" href="#">YouTube</a></li>
+            <li><a class="g-font-size-15--xs g-color--white-opacity" href="https://www.youtube.com/channel/UC7JuUsPUcjiN1NVGrbtSdjA" target="_blank">YouTube</a></li>
           </ul>
         </div>
         <div class="col-sm-2 g-margin-b-40--xs g-margin-b-0--md">
