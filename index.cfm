@@ -32,7 +32,7 @@
 </head>
 <!-- End Head -->
 
-<!---<!-- Send Mail -->
+<!-- Send Mail -->
 <cfif mode is "sendmail" >
 
 	<cftry>
@@ -70,11 +70,11 @@
     </cfcatch>
     </cftry>
 
-	<!---#############CFMAIL ENDS############--->
+	<!---CFMAIL END--->
 	
 	<cflocation url="inputContactSuccess.cfm" addtoken="false" >
 	
-</cfif>--->
+</cfif>
 
 <!-- Body -->
 <body>
@@ -92,7 +92,7 @@
         </div>
         <div class="s-header-v2__navbar-col s-header-v2__navbar-col-width--180"> 
           <!-- Logo -->
-          <div class="s-header-v2__logo"> <a href="index.html" class="s-header-v2__logo-link"> <img class="s-header-v2__logo-img s-header-v2__logo-img--default" src="img/testLogo.png" alt="Dublin Logo"> <img class="s-header-v2__logo-img s-header-v2__logo-img--shrink" src="img/testLogo2.png" alt="Dublin Logo"> </a> </div>
+          <div class="s-header-v2__logo"> <a href="index.cfm" class="s-header-v2__logo-link"> <img class="s-header-v2__logo-img s-header-v2__logo-img--default" src="img/testLogo.png" alt="Dublin Logo"> <img class="s-header-v2__logo-img s-header-v2__logo-img--shrink" src="img/testLogo2.png" alt="Dublin Logo"> </a> </div>
           <!-- End Logo --> 
         </div>
         <div class="s-header-v2__navbar-col s-header-v2__navbar-col--right"> 
@@ -344,10 +344,11 @@
   <div class="col-md-2 col-xs-6 g-full-width--xs">
    
       <!-- Team -->
-      <div class="s-team-v1"> <img class="img-responsive g-width-100-percent--xs" src="img/400x400/truck04.jpg" alt="Image">
-        <div class="g-text-center--xs g-bg-color--white g-padding-x-30--xs g-padding-y-40--xs">
-          <h4 class="g-font-size-18--xs g-margin-b-5--xs">Flat Bed</h4>
-        </div>
+      <div class="s-team-v1"> 
+      	<img class="img-responsive g-width-100-percent--xs" src="img/400x400/truck04.jpg" alt="Image">
+	        <div class="g-text-center--xs g-bg-color--white g-padding-x-30--xs g-padding-y-40--xs">
+	          <h4 class="g-font-size-18--xs g-margin-b-5--xs">Flat Bed</h4>
+	        </div>
       </div>
       <!-- End Team --> 
    
@@ -355,10 +356,11 @@
   <div class="col-md-2 col-xs-6 g-full-width--xs hidden">
     
       <!-- Team -->
-      <div class="s-team-v1"> <img class="img-responsive g-width-80-percent--xs" src="img/400x400/truck14.png" style="border-radius:50%; margin:20px 20px 20px 20px" alt="Image">
-        <div class="g-text-center--xs g-bg-color--white g-padding-x-30--xs g-padding-y-40--xs">
-          <h4 class="g-font-size-18--xs g-margin-b-5--xs">Rizelle Cabantac</h4>
-        </div>
+      <div class="s-team-v1"> 
+      	<img class="img-responsive g-width-80-percent--xs" src="img/400x400/truck14.png" style="border-radius:50%; margin:20px 20px 20px 20px" alt="Image">
+	        <div class="g-text-center--xs g-bg-color--white g-padding-x-30--xs g-padding-y-40--xs">
+	          <h4 class="g-font-size-18--xs g-margin-b-5--xs">Rizelle Cabantac</h4>
+	        </div>
       </div>
       <!-- End Team --> 
     
@@ -366,10 +368,11 @@
   <div class="col-md-2 col-xs-6 g-full-width--xs trucksM">
    
       <!-- Team -->
-      <div class="s-team-v1"> <img class="img-responsive g-width-100-percent--xs" src="img/400x400/truck03.jpg" alt="Image">
-        <div class="g-text-center--xs g-bg-color--white g-padding-x-30--xs g-padding-y-40--xs">
-          <h4 class="g-font-size-18--xs g-margin-b-5--xs">Power Only</h4>
-        </div>
+      <div class="s-team-v1"> 
+      	<img class="img-responsive g-width-100-percent--xs" src="img/400x400/truck03.jpg" alt="Image">
+	        <div class="g-text-center--xs g-bg-color--white g-padding-x-30--xs g-padding-y-40--xs">
+	          <h4 class="g-font-size-18--xs g-margin-b-5--xs">Power Only</h4>
+	        </div>
       </div>
       <!-- End Team --> 
    
@@ -378,10 +381,11 @@
   <div class="col-md-2 col-xs-6 g-full-width--xs trucksM">
    
       <!-- Team -->
-      <div class="s-team-v1"> <img class="img-responsive g-width-100-percent--xs" src="img/400x400/truck05.jpg" alt="Image">
-        <div class="g-text-center--xs g-bg-color--white g-padding-x-30--xs g-padding-y-40--xs">
-          <h4 class="g-font-size-18--xs g-margin-b-5--xs">Hoppers</h4>
-        </div>
+      <div class="s-team-v1"> 
+      	<img class="img-responsive g-width-100-percent--xs" src="img/400x400/truck05.jpg" alt="Image">
+	        <div class="g-text-center--xs g-bg-color--white g-padding-x-30--xs g-padding-y-40--xs">
+	          <h4 class="g-font-size-18--xs g-margin-b-5--xs">Hoppers</h4>
+	        </div>
       </div>
       <!-- End Team --> 
    
@@ -409,6 +413,7 @@
   <div class="row g-margin-b-10--xs g-margin-t-100--lg">
   </div>
 </div>
+ 
 <!-- End News -->
 
 <!-- Form -->
@@ -440,28 +445,47 @@
         </div>
       </div>
 
-      <form class="center-block g-width-500--sm g-width-550--md">
+<cfif mode is "default" >
+	
+<cfset ID = "">
+<cfset name = "">
+<cfset email = "">
+<cfset subject = "">
+<cfset message = ""> 
+
+
+<cfoutput>
+      <form action="#cgi.SCRIPT_NAME#" method="post" class="center-block g-width-500--sm g-width-550--md">
+      	<!---Name --->
         <div class="g-margin-b-30--xs">
-          <input type="text" class="form-control s-form-v3__input" placeholder="* Name">
+          <input class="form-control s-form-v3__input" type="text" name="name" id="name" value="#name#" required="true"  placeholder="* Name">
         </div>
+        <!---Email --->
         <div class="row g-row-col-5 g-margin-b-50--xs">
           <div class="col-sm-6 g-margin-b-30--xs g-margin-b-0--md">
-            <input type="email" class="form-control s-form-v3__input" placeholder="* Email">
+            <input type="email" class="form-control s-form-v3__input" name="email" id="email" value="#email#" required="true" placeholder="* Email">
           </div>
           <div class="col-sm-6">
-            <input type="text" class="form-control s-form-v3__input" placeholder="* Phone">
+            <input type="text" class="form-control s-form-v3__input" required="true" placeholder="* Phone">
           </div>
         </div>
+        <!---Message --->
         <div class="g-margin-b-80--xs">
-          <textarea class="form-control s-form-v3__input" rows="5" placeholder="* Your message"></textarea>
+          <textarea class="form-control s-form-v3__input" name="message" rows="5" id="message" value="#message#" required="true" placeholder="* Your message"></textarea>
         </div>
         <div class="g-text-center--xs">
-          <button type="submit" class="text-uppercase s-btn s-btn--md s-btn--white-bg g-radius--50 g-padding-x-70--xs g-margin-b-20--xs">Submit</button>
+          <input type="submit" class="text-uppercase s-btn s-btn--md s-btn--white-bg g-radius--50 g-padding-x-70--xs g-margin-b-20--xs" name="sendmail" value="Submit"></input>	
+		  <input type="hidden" name="id" value="#ID#" >	
+		  <input type="hidden" name="mode" value="sendmail">
+		  <input type="hidden" name="submitted" value="1">
         </div>
       </form>
+</cfoutput>
+</cfif>
     </div>
     <img class="s-mockup-v2" src="img/mockups/pencil-01.png" alt="Mockup Image"> </div>
 </div>
+
 <!-- End Form --> 
 <!--========== END PAGE CONTENT ==========--> 
 
@@ -505,9 +529,9 @@
   <!-- Copyright -->
  <div class="container g-padding-y-50--xs">
     <div class="row">
-      <div class="col-xs-6"> <a href="index.html"> <img class="g-width-100--xs g-height-auto--xs" src="img/testLogo.png" alt="TDGO Logo"> </a> </div>
+      <div class="col-xs-6"> <a href="index.cfm"> <img class="g-width-100--xs g-height-auto--xs" src="img/testLogo.png" alt="TDGO Logo"> </a> </div>
       <div class="col-xs-6 g-text-right--xs">
-        <p class="g-font-size-14--xs g-margin-b-0--xs g-color--white-opacity-light"><a href="index.html/">TRUCK DISPATCH GO</a> Created by: <a href="http://www.truckdispatchgo.com/">Truck Dispatch Go</a></p>
+        <p class="g-font-size-14--xs g-margin-b-0--xs g-color--white-opacity-light"><strong>TRUCK DISPATCH GO</strong> Created by: <a href="https://www.truckdispatchgo.com/">Truck Dispatch Go</a></p>
       </div>
     </div>
   </div>

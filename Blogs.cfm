@@ -102,23 +102,23 @@
   	
   	<!--->What makes Truck Dispatch GO so good? --->
     <p class="text-uppercase g-font-size-14--xs g-font-weight--700 g-color--primary g-letter-spacing--2 g-margin-b-25--xs hidden">Meet the Team</p>
-    <h2 class="g-font-size-32--xs g-font-size-36--sm"><a href="truckDispatchSoGood.cfm">What makes Truck Dispatch GO so good?</a></h2>
+    <h2 class="g-font-size-32--xs g-font-size-36--sm"><a href="blogs/truckDispatchSoGood.cfm">What makes Truck Dispatch GO so good?</a></h2>
     <p>Truck Dispatch GO is team of experienced call center agents that mainly focuses in the logistics and dispatching industry. 
     This already gives proof that our telecommunications experience is superior in this line of business. We are a collective of 
     skillful independent dispatchers that have reached optimal efficiency by working as a team...
-    <br><a href="truckDispatchSoGood.cfm">Read more</a>
+    <br><a href="blogs/truckDispatchSoGood.cfm">Read more</a>
     </p>
     <br>
     <!--->What makes Truck Dispatch GO so good? End---> 
     
     <!---5 IMPORTANT THINGS --->
     <p class="text-uppercase g-font-size-14--xs g-font-weight--700 g-color--primary g-letter-spacing--2 g-margin-b-25--xs hidden">5 IMPORTANT THINGS</p>
-    <h2 class="g-font-size-32--xs g-font-size-36--sm"><a href="fiveImportantThings.cfm">You Should Know About A Career In Trucking Company</a></h2>
+    <h2 class="g-font-size-32--xs g-font-size-36--sm"><a href="blogs/fiveImportantThings.cfm">You Should Know About A Career In Trucking Company</a></h2>
     <p>There are 5  important things you should know about a career in trucking, <B>BEFORE</b> getting onboard in the trucking industry. 
     My personal career in trucking has lasted for nearly 40 years. I've learned lots in that time in this industry as a result
 	of my trucking experience, which new drivers and CDL drivers in training could benefit from. This is a realistic look at what
 	to expect from a driving career in trucking.
-    <br><a href="fiveImportantThings.cfm">Read more</a>
+    <br><a href="blogs/fiveImportantThings.cfm">Read more</a>
     </p>
     <!---5 IMPORTANT THINGS END --->
     

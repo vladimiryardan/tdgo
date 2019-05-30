@@ -6,8 +6,8 @@
 <meta charset="utf-8"/>
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta http-equiv="x-ua-compatible" content="ie=edge">
-<title>AJOC INTERNATIONAL INC.l</title>
-<meta name="keywords" content="Immigration Consultancy Canada" />
+<title>Truck Dispatch Go | Truckdispatchgo.com</title>
+<meta name="keywords" content="Truck Dispatching" />
 <meta name="description" content="Immigration Consultancy">
 <meta name="author" content="onevoix.com">
 
@@ -24,6 +24,8 @@
 <!-- Theme Styles -->
 <link href="css/style.css" rel="stylesheet" type="text/css"/>
 <link href="css/global/global.css" rel="stylesheet" type="text/css"/>
+
+<link href="css/tdgoStyle.css" rel="stylesheet" type="text/css"/>
 
 <!-- Favicon -->
 <link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon">
@@ -56,11 +58,11 @@
             <ul class="s-header-v2__nav">
               <!-- Home -->
               
-              <li class="s-header-v2__nav-item"><a href="#js__scroll-to-section3" class="s-header-v2__nav-link">Home</a></li>
-              <li class="s-header-v2__nav-item"><a href="#js__scroll-to-section" class="s-header-v2__nav-link">Immigration Consultancy</a></li>
-              <li class="s-header-v2__nav-item"><a href="#js__scroll-to-section2" class="s-header-v2__nav-link">Process</a></li>
-              <li class="s-header-v2__nav-item"><a href="#js__scroll-to-section4" class="s-header-v2__nav-link">Our Team</a></li>
-              <li class="s-header-v2__nav-item"><a href="#js__scroll-to-appointment" class="s-header-v2__nav-link s-header-v2__nav-link--dark">Contact Us</a></li>
+              <li class="s-header-v2__nav-item"><a href="index.cfm" class="s-header-v2__nav-link">Home</a></li>
+              <li class="s-header-v2__nav-item"><a href="index.cfm" class="s-header-v2__nav-link">Immigration Consultancy</a></li>
+              <li class="s-header-v2__nav-item"><a href="index.cfm" class="s-header-v2__nav-link">Process</a></li>
+              <li class="s-header-v2__nav-item"><a href="index.cfm" class="s-header-v2__nav-link">Our Team</a></li>
+              <li class="s-header-v2__nav-item"><a href="index.cfm" class="s-header-v2__nav-link s-header-v2__nav-link--dark">Contact Us</a></li>
             </ul>
           </div>
           <!-- End Nav Menu --> 
@@ -143,14 +145,14 @@
 	</p>
 	
 	<p>
-		<strong>A. Supervision of VAs.</strong> Your virtual assistant acts under your direction. If you require your 
+		<strong>A. Supervision of VAs.</strong> Your dispatcher acts under your direction. If you require your 
 		assistant to make decisions on your behalf about the way in which any work/ actions/ tasks/ 
 		strategies or other business related functions are performed, you do so on the basis that the 
 		assistant is acting on your behalf and is under your supervision at all times.
 	</p>
 	
 	<p>
-		<strong>B. Passwords.</strong> Should you decide to give your virtual assistant access to your business and/or 
+		<strong>B. Passwords.</strong> Should you decide to give your dispatcher access to your business and/or 
 		personal accounts, you do so entirely at your own risk, and you are fully responsible for ensuring 
 		the security of your data. You will be solely responsible for any loss, liability or violations 
 		that might occur as a result of such access.
@@ -158,25 +160,25 @@
 	
 	<p>
 		<strong>C. Copyright.</strong> Copyright is the legal protection extended to authors or owners of original published 
-		and unpublished artistic and intellectual works. Should you request that your virtual assistant 
+		and unpublished artistic and intellectual works. Should you request that your dispatcher 
 		source content or images for use on your website or in marketing or other materials relating to 
 		your business, you do so at your own risk, and you are solely responsible for supervising his/her 
 		work, and ensuring that all appropriate permissions to use such content or images have been 
-		obtained. Should you request your virtual assistant to carry out any of these activities without 
+		obtained. Should you request your dispatcher to carry out any of these activities without 
 		the necessary permissions, you will be solely responsible for any violations of copyright law, and 
 		may be subject to legal sanctions, including fines.
 	</p>
 	
 	<p>
-		<strong>D. Nature of Services.</strong> You may not use your virtual assistant or any of the Services to engage in any 
+		<strong>D. Nature of Services.</strong> You may not use your dispatcher or any of the Services to engage in any 
 		illegal or immoral activity.
 	</p>
 	
 	<p>
-		<strong>E. Indemnity.</strong> You hereby agree to release, indemnify and hold harmless both your virtual assistant 
+		<strong>E. Indemnity.</strong> You hereby agree to release, indemnify and hold harmless both your dispatcher 
 		and the Contractor from any loss, liability, claim or damage resulting from your decisions, 
 		directions and supervision or for any breach by you of this Agreement unless caused by the gross 
-		negligence or willful misconduct of the Contractor or your virtual assistant. You further waive 
+		negligence or willful misconduct of the Contractor or your dispatcher. You further waive 
 		any claim that the Contractor or any of the VAs are acting in a professional, advisory, or 
 		consultative capacity.
 	</p>
@@ -407,9 +409,9 @@
 		changes to the Services (collectively, "Changes"). If at any time, you do not agree to the terms 
 		of this Agreement or any of the policies on our Website, please discontinue use of the Services, 
 		and immediately close your account(s). We'll miss you, but we'll understand. Your continued use of 
-		the Services after Virtual Assistant GO's posting of any Changes constitutes your acceptance and agreement 
+		the Services after Truck Dispatch GO's posting of any Changes constitutes your acceptance and agreement 
 		with the Changes and all Changes shall supersede any previous agreement between you and 
-		Virtual Assistant GO. You must periodically review these terms and conditions to ensure you know of any 
+		Truck Dispatch GO. You must periodically review these terms and conditions to ensure you know of any 
 		changes.
 	</p>
 	
@@ -437,7 +439,7 @@
 	</p>
 	
 	<p>
-		<strong>Travel.</strong> The Contractor's VAs are assigned to work on a virtual basis only. Requests for 'in 
+		<strong>Travel.</strong> The Contractor's dispatchers are assigned to work on a virtual basis only. Requests for 'in 
 		person' work may be possible in exceptional circumstances but cannot be guaranteed. If granted, 
 		all hours including travel time to and from the VAs' home and the work location, as well as hours 
 		spent on the job, are billable with no exceptions. Please contact your account manager to discuss 
@@ -446,7 +448,7 @@
 	
 	<p>
 		<strong>Refunds.</strong> In the unlikely event that you are unsatisfied with the work performed by your assigned 
-		virtual assistant, you will not be charged for the hours used in the current billing cycle. Please 
+		dispatchers, you will not be charged for the hours used in the current billing cycle. Please 
 		contact your account manager to discuss any such instances. Refunds will not be given for unused 
 		hours on prepaid plans.
 	</p>
@@ -470,7 +472,7 @@
 	
 	<p>
 		Permission is granted to temporarily download one copy of the materials (information or software) 
-		on Virtual Assistant GO's web site for personal, non-commercial transitory viewing only. This is 
+		on Truck Dispatch GO's web site for personal, non-commercial transitory viewing only. This is 
 		the grant of a license, not a transfer of title, and under this license you may not: 
 	</p>
 	
@@ -482,7 +484,7 @@
 		non-commercial);
 	</p>
 	<p>
-		Attempt to decompile or reverse engineer any software contained on Virtual Assistant GO's web site;
+		Attempt to decompile or reverse engineer any software contained on Truck Dispatch GO's web site;
 	</p>
 	<p>
 		Remove any copyright or other proprietary notations from the materials; or;
@@ -492,7 +494,7 @@
 	</p>
 	<p>
 		This license shall automatically terminate if you violate any of these restrictions and may be 
-			terminated by Virtual Assistant GO at any time. Upon terminating your viewing of these materials or upon the 
+			terminated by Truck Dispatch GO at any time. Upon terminating your viewing of these materials or upon the 
 			termination of this license, you must destroy any downloaded materials in your possession whether 
 			in electronic or printed format.
 	</p>
@@ -500,11 +502,11 @@
 		<b>3. Disclaimer</b>
 	</p>
 	<p>
-		The materials on Virtual Assistant GO's web site are provided "as is". Virtual Assistant GO makes 
+		The materials on Truck Dispatch GO's web site are provided "as is". Truck Dispatch GO makes 
 		no warranties, expressed
 		or implied, and hereby disclaims and negates all other warranties, including without limitation,
 		implied warranties or conditions of merchantability, fitness for a particular purpose, or
-		non-infringement of intellectual property or other violation of rights. Further, Virtual Assistant 
+		non-infringement of intellectual property or other violation of rights. Further, Truck Dispatch 
 		GO does not
 		warrant or make any representations concerning the accuracy, likely results, or reliability of
 		the use of the materials on its Internet web site or otherwise relating to such materials or on
@@ -514,10 +516,10 @@
 		<b>4. Limitations</b>
 	</p>
 	<p>
-		In no event shall Virtual Assistant GO or its suppliers be liable for any damages (including, without 
+		In no event shall Truck Dispatch GO or its suppliers be liable for any damages (including, without 
 		limitation, damages for loss of data or profit, or due to business interruption,) arising out of 
-		the use or inability to use the materials on Virtual Assistant GO's Internet site, even if Virtual Assistant GO
-		or a Virtual Assistant GO's 
+		the use or inability to use the materials on Truck Dispatch Go's Internet site, even if Truck Dispatch GO
+		or a Truck Dispatch GO's 
 		authorized representative has been notified orally or in writing of the possibility of such 
 		damage. Because some jurisdictions do not allow limitations on implied warranties, or limitations 
 		of liability for consequential or incidental damages, these limitations may not apply to you.
@@ -526,25 +528,25 @@
 		<b>5. Revisions and Errata</b>
 	</p>
 	<p>
-		The materials appearing on Virtual Assistant GO's web site could include technical, typographical, or 
-		photographic errors. Virtual Assistant GO does not warrant that any of the materials on its web site are 
-		accurate, complete, or current. Virtual Assistant GO may make changes to the materials contained on its web 
-		site at any time without notice. Virtual Assistant GO does not, however, make any commitment to update the 
+		The materials appearing on Truck Dispatch GO's web site could include technical, typographical, or 
+		photographic errors. Truck Dispatch GO does not warrant that any of the materials on its web site are 
+		accurate, complete, or current. Truck Dispatch GO may make changes to the materials contained on its web 
+		site at any time without notice. Truck Dispatch GO does not, however, make any commitment to update the 
 		materials.
 	</p>
 	<p>
 		<b>6. Links</b>
 	</p>
 	<p>
-		Virtual Assistant GO has not reviewed all of the sites linked to its Internet web site and is not responsible 
+		Truck Dispatch GO has not reviewed all of the sites linked to its Internet web site and is not responsible 
 		for the contents of any such linked site. The inclusion of any link does not imply endorsement by 
-		Virtual Assistant GO of the site. Use of any such linked web site is at the user's own risk.
+		Truck Dispatch GO of the site. Use of any such linked web site is at the user's own risk.
 	</p>
 	<p>
 		<b>7. Site Terms of Use Modifications</b>
 	</p>
 	<p>
-		Virtual Assistant GO may revise these terms of use for its web site at any time without notice. By using this 
+		Truck Dispatch GO may revise these terms of use for its web site at any time without notice. By using this 
 		web site you are agreeing to be bound by the then current version of these Terms and Conditions of 
 		Use.
 	</p>
@@ -552,7 +554,7 @@
 		<b>8. Governing Law</b>
 	</p>
 	<p>
-		Any claim relating to Virtual Assistant GO's web site shall be governed by the laws of the State of Philippines 
+		Any claim relating to Truck Dispatch GO's web site shall be governed by the laws of the State of Philippines 
 		without regard to its conflict of law provisions.
 	</p>
 	<p>
@@ -591,8 +593,8 @@
         </div>
         <div class="col-sm-2 g-margin-b-40--xs g-margin-b-0--md">
           <ul class="list-unstyled g-ul-li-tb-5--xs g-margin-b-0--xs">
-            <li><a class="g-font-size-15--xs g-color--white-opacity" href="https://virtualassistantgo.com/privacy.cfm">Privacy Policy</a></li>
-            <li><a class="g-font-size-15--xs g-color--white-opacity" href="https://virtualassistantgo.com/Terms.cfm">Terms &amp; Conditions</a></li>
+            <li><a class="g-font-size-15--xs g-color--white-opacity" href="https://truckdispatchgo.com/privacy.cfm">Privacy Policy</a></li>
+            <li><a class="g-font-size-15--xs g-color--white-opacity" href="https://truckdispatchgo.com/Terms.cfm">Terms &amp; Conditions</a></li>
           </ul>
         </div>
         <div class="col-md-4 col-md-offset-2 col-sm-5 col-sm-offset-1 s-footer__logo g-padding-y-50--xs g-padding-y-0--md">

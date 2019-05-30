@@ -260,8 +260,8 @@
 	<p>
 		If you have previously agreed to us using your personal information for direct marketing 
         purposes, you may change your mind at any time by writing to or emailing us at 
-        <a href="mailto:info@virtualassistantgo.com" target="_blank">
-        info@virtualassistantgo.com
+        <a href="mailto:info@truckdispatchgo.com" target="_blank">
+        info@truckdispatchgo.com
         </a>.
 	</p>
 	<p>
@@ -300,8 +300,8 @@
         </div>
         <div class="col-sm-2 g-margin-b-40--xs g-margin-b-0--md">
           <ul class="list-unstyled g-ul-li-tb-5--xs g-margin-b-0--xs">
-            <li><a class="g-font-size-15--xs g-color--white-opacity" href="https://virtualassistantgo.com/privacy.cfm">Privacy Policy</a></li>
-            <li><a class="g-font-size-15--xs g-color--white-opacity" href="https://virtualassistantgo.com/Terms.cfm">Terms &amp; Conditions</a></li>
+            <li><a class="g-font-size-15--xs g-color--white-opacity" href="https://truckdispatchgo.com/privacy.cfm">Privacy Policy</a></li>
+            <li><a class="g-font-size-15--xs g-color--white-opacity" href="https://truckdispatchgo.com/Terms.cfm">Terms &amp; Conditions</a></li>
           </ul>
         </div>
         <div class="col-md-4 col-md-offset-2 col-sm-5 col-sm-offset-1 s-footer__logo g-padding-y-50--xs g-padding-y-0--md">

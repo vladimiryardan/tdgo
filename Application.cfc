@@ -33,10 +33,10 @@
     	<cfset this.customtagpaths = "">    
     	    
 	<!--- Run when application starts up --->    
-	<cffunction name="onApplicationStart" returnType="boolean" output="false">    
+	<cffunction name="onApplicationStart" returnType="boolean" output="false">   
+		
 		<cfreturn true>    
 	</cffunction>    
-    
     
 
 	<!--- Runs before request as well, after onRequestStart --->    
@@ -57,9 +57,17 @@
     			 <cfhtmlhead text='<script type="text/javascript">alert("Application was refreshed.");</script>'>     
     		</cfif>    
     
-    
-    
+		
+		<!--- Include the requested page. --->
+	<cfsilent>
+			<!--- all pages will have a mode of default --->
+			<cfparam name="mode" default="default" >
+			<cfparam name="mode" default="finish" >
+			<cfif IsDefined( "Form" ) >
+				<cfset StructAppend( URL, Form, true ) >
+			</cfif>
+			<!---CODE BLOCK ENDS --->
+	</cfsilent>
+		
     </cffunction>	    
-
-
 </cfcomponent>
