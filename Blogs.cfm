@@ -236,6 +236,242 @@
     <br><a href="blogs/whoTreatedTruckersLikeRoyalty.cfm">Read more</a>
     </p>
     <!---Owner Who Treated Truckers Like Royalty End--->
+    
+    <!---Ohio-based bulk asphalt hauler --->
+    <p class="text-uppercase g-font-size-14--xs g-font-weight--700 g-color--primary g-letter-spacing--2 g-margin-b-25--xs hidden">Ohio-based Bulk Asphalt Hauler </p>
+    <h2 class="g-font-size-32--xs g-font-size-36--sm">
+    <a href="blogs/JDHowardsCustom.cfm">Ohio-based Bulk Asphalt Hauler </a></h2>
+    <p>Today leased to Ohio-based Ratta Trucking, owner-operator J.D. Howard has owned this 1995 W900L since 2009. In the last 
+    couple of years, the rig has gotten a significant working over with Grafton Custom Chrome of Grafton, Ohio, and Todd, Rodney 
+    and crew at Snyder Bros. of Millersburg for the mechanical work. Howard himself is based in Wooster, Ohio, and hauls liquid-bulk 
+    asphalt from refineries in the region, operating mostly within a 500-mile radius and, as is somewhat common in the liquid-bulk niche, 
+    logging plenty of miles with empty trailers on mostly out-and-back runs. 
+    <br><a href="blogs/JDHowardsCustom.cfm">Read more</a>
+    </p>
+    <!---Ohio-based bulk asphalt hauler  End--->
+    
+    <!---What a driver really needs--->
+    <p class="text-uppercase g-font-size-14--xs g-font-weight--700 g-color--primary g-letter-spacing--2 g-margin-b-25--xs hidden">What a driver really needs</p>
+    <h2 class="g-font-size-32--xs g-font-size-36--sm">
+    <a href="blogs/WhatADriverReallyNeeds.cfm">What a driver really needs</a></h2>
+    <p>At the most basic level, a driver needs food, water, warmth and rest. With the trucks offered by most companies today, along with 
+    ELDs disincentivizing everyone to push, warmth in a decent place to rest and the time to do it is pretty well covered. Given most are 
+    in trucking to support their families, let's not forget that all those needs must be covered for the driver's family as well. If momma 
+    is not happy, I guarantee momma's driver's not going to be happy. 
+    <br><a href="blogs/WhatADriverReallyNeeds.cfm">Read more</a>
+    </p>
+    <!---What a driver really needs End--->
+    
+    <!---Halvor Lines' 50th-anniversary --->
+    <p class="text-uppercase g-font-size-14--xs g-font-weight--700 g-color--primary g-letter-spacing--2 g-margin-b-25--xs hidden">Halvor Lines' 50th-anniversary </p>
+    <h2 class="g-font-size-32--xs g-font-size-36--sm">
+    <a href="blogs/HalvorLines50thAnniversary.cfm">Halvor Lines' 50th-anniversary </a></h2>
+    <p>The picture above is the 1974 Peterbilt 352 of Halvor Lines of Superior, Wis., a special restoration project cabover that was finished 
+    in time for Christmas last year and the final month of Halvor's 50th-anniversary year, notes company CEO Jon Vinje. Vinje's father established 
+    the company in 1968 with four other owner-operators and a principle customer in Halvorson Equipment Company. 
+    <br><a href="blogs/HalvorLines50thAnniversary.cfm">Read more</a>
+    </p>
+    <!---Halvor Lines' 50th-anniversary End--->
+    
+    <!---An Inside Look at a Truck Dispatcher's Job--->
+    <p class="text-uppercase g-font-size-14--xs g-font-weight--700 g-color--primary g-letter-spacing--2 g-margin-b-25--xs hidden">An Inside Look at a Truck Dispatcher's Job</p>
+    <h2 class="g-font-size-32--xs g-font-size-36--sm">
+    <a href="blogs/TruckDispatchersJob.cfm">An Inside Look at a Truck Dispatcher's Job</a></h2>
+    <p>There are a lot of different elements that go into ensuring the goods we use and consume get where they need to go. Many don't realize the 
+    complexities of the supply chain and the people (and roles) that make it run smoothly day in and day out.
+	I interviewed one of America's truck drivers, Anthony Brown, to get his perspective on what life was like on the road.
+	Today, I'm speaking with Jim Bauer, a dispatcher at A.N. Webber, to learn what life is like for dispatchers. Like, drivers, truck dispatchers 
+	play a critical role in making sure freight gets to its final destination.
+	Let's dive in to see what life is like for dispatchers: 
+    <br><a href="blogs/TruckDispatchersJob.cfm">Read more</a>
+    </p>
+    <!---An Inside Look at a Truck Dispatcher's Job End--->
+    
+    <!---FAQ: ABOUT TRUCKING DISPATCH SERVICE--->
+    <p class="text-uppercase g-font-size-14--xs g-font-weight--700 g-color--primary g-letter-spacing--2 g-margin-b-25--xs hidden">FAQ: About Trucking Dispatch Service</p>
+    <h2 class="g-font-size-32--xs g-font-size-36--sm">
+    <a href="blogs/aboutTruckingDispatchService.cfm">FAQ: About Trucking Dispatch Service</a></h2>
+    <p>Question: Do I need to complete a freight broker's set up packet every time Trucking Dispatch Service gives me a freight load?
+	Answer: No. We will fill out all packets for you. When you set up service with us you will provide us with your MC#, copy of insurance, 
+	complete W-9 and a dispatch authorization form that will give Trucking Dispatch Service the authorization to fill any freight broker's 
+	set up packet for you and accept any freight load you agree to take on your name. 
+    <br><a href="blogs/aboutTruckingDispatchService.cfm">Read more</a>
+    </p>
+    <!---FAQ: ABOUT TRUCKING DISPATCH SERVICE End--->
+    
+    <!---Danger Ahead: The Truck Driver Shortage--->
+    <p class="text-uppercase g-font-size-14--xs g-font-weight--700 g-color--primary g-letter-spacing--2 g-margin-b-25--xs hidden">Danger Ahead: The Truck Driver Shortage</p>
+    <h2 class="g-font-size-32--xs g-font-size-36--sm">
+    <a href="blogs/theTruckDriverShortage.cfm">Danger Ahead: The Truck Driver Shortage</a></h2>
+    <p>At some point in time, everyone has driven by a semi-truck as they ventured down a highway. These mammoth vehicles have become so 
+    ubiquitous that it is sometimes taken for granted, but they have an integral role in the economy. It is estimated that trucks carry up 
+    to 70% of all inland freight across America. Freight volumes are also expected to increase by 29% over the next eleven years, which is 
+    why the current dilemma of the waning number of truck drivers is alarming. There is an estimated shortage of 35,000 to 40,000 drivers 
+    across the country, and experts claim that it will be a long time before that problem is resolved. 
+    <br><a href="blogs/theTruckDriverShortage.cfm">Read more</a>
+    </p>
+    <!---Danger Ahead: The Truck Driver Shortage End--->
+    
+    <!---How to Be a Successful Transportation Dispatcher--->
+    <p class="text-uppercase g-font-size-14--xs g-font-weight--700 g-color--primary g-letter-spacing--2 g-margin-b-25--xs hidden">How to Be a Successful Transportation Dispatcher</p>
+    <h2 class="g-font-size-32--xs g-font-size-36--sm">
+    <a href="blogs/successfulTransportationDispatcher.cfm">How to Be a Successful Transportation Dispatcher</a></h2>
+    <p>Emails, messages and phone calls are coming at you left and right, from customers and truck drivers. You need to make sudden changes 
+    to routes based on construction or bad weather. And your driver might not make it in time. In those moments, it's easy for a dispatcher 
+    to get stressed out. A dispatcher monitors where trucks are located, checks on how the runs are going, deals with customers, finds the 
+    next load assignments for the current truck, and much more. You might be a dispatcher for owner operators, or for company drivers. Since 
+    the job is fast-paced and continually changing, readiness and adaptability are required characteristics of a prospective truck dispatcher. 
+    <br><a href="blogs/successfulTransportationDispatcher.cfm">Read more</a>
+    </p>
+    <!---How to Be a Successful Transportation Dispatcher End--->
+    
+    <!---The 101 For Dispatching Trucks--->
+    <p class="text-uppercase g-font-size-14--xs g-font-weight--700 g-color--primary g-letter-spacing--2 g-margin-b-25--xs hidden">The 101 For Dispatching Trucks</p>
+    <h2 class="g-font-size-32--xs g-font-size-36--sm">
+    <a href="blogs/dispatchingTrucks.cfm">The 101 For Dispatching Trucks</a></h2>
+    <p>The first thing we need to define is what dispatching trucks is all about. You can easily compare this to the air traffic control that 
+    is required when planes take off. The dispatcher is the one that is going to be controlling the movement and the Schedule of the trucks. 
+    In this article we are going to cover the basics about what it takes to be a truck dispatcher and how you can make sure that you can keep 
+    everything under control in order for your business to move forward successfully. 
+    <br><a href="blogs/dispatchingTrucks.cfm">Read more</a>
+    </p>
+    <!---The 101 For Dispatching Trucks End--->
+    
+    <!---How I got started in Dispatching--->
+    <p class="text-uppercase g-font-size-14--xs g-font-weight--700 g-color--primary g-letter-spacing--2 g-margin-b-25--xs hidden">How I got started in Dispatching</p>
+    <h2 class="g-font-size-32--xs g-font-size-36--sm">
+    <a href="blogs/howIGotStartedInDispatching.cfm">How I Got Started In Dispatching</a></h2>
+    <p>I have been in the trucking industry for 16 years now. Over my 16 years I have worn many hats. I have worked for companies that provided 
+    freight transportation in various ways. I started out as an auditor for Waste Management of Richmond, Virginia. This was a commercial company 
+    that dealt with trash and recycle but it started my love for trucking and the trucking industry. While at Waste Management, I was able to ride 
+    with all the drivers on their routes. I was able to get a feel and love for the road. My main job there was to observe the routes and time of 
+    the pickups. I was hired to save the company money.  
+    <br><a href="blogs/howIGotStartedInDispatching.cfm">Read more</a>
+    </p>
+    <!---How I got started in Dispatching End--->
+    
+    <!---Relationship Between The Dispatcher And The Driver--->
+    <p class="text-uppercase g-font-size-14--xs g-font-weight--700 g-color--primary g-letter-spacing--2 g-margin-b-25--xs hidden">Relationship Between The Dispatcher And The Driver</p>
+    <h2 class="g-font-size-32--xs g-font-size-36--sm">
+    <a href="blogs/relationshipBetweenTheDispatcher.cfm">Relationship Between The Dispatcher And The Driver</a></h2>
+    <p>Last time we talked about the relationship between the Broker and Dispatch, now let's talk about the relationship between the dispatcher and 
+    the driver. Some may say there isn't much to say, but I greatly disagree. Your relationship with the driver is very important, and can make or 
+    break your day. What you should know about the driver is that they are in there truck for hours at a time. Most of them are single drivers and 
+    so they are not just in their trucks for hours at a time but also by their self. Now many may say that that's what they signed up for. Some may 
+    say well I'm not in a truck but I am along at work by myself for long hours at a time. None of these things matter. The thing that matters the 
+    most is the sacrifice that they give on the job. 
+    <br><a href="blogs/relationshipBetweenTheDispatcher.cfm">Read more</a>
+    </p>
+    <!---Relationship Between The Dispatcher And The Driver End--->
+    
+    <!---Dispatcher's Cheat Sheet To Create A Better Workflow --->
+    <p class="text-uppercase g-font-size-14--xs g-font-weight--700 g-color--primary g-letter-spacing--2 g-margin-b-25--xs hidden">Dispatcher's Cheat Sheet To Create A Better Workflow </p>
+    <h2 class="g-font-size-32--xs g-font-size-36--sm">
+    <a href="blogs/dispatchersCheatSheet.cfm">Dispatcher's Cheat Sheet To Create A Better Workflow </a></h2>
+    <p>In the trucking industry, we talk a lot about the driver retention problem and potential ways to solve it, but one aspect not often discussed 
+    is the key role that dispatchers can play in this important issue. The dispatcher shapes the driver's experience, and therefore can significantly 
+    improve it. According to a study by Stay Metrics, high dispatcher satisfaction is associated with 16 percent lower early driver turnover. This is 
+    why we've put together a cheat sheet for dispatchers to help guide decision-making and simplify complicated workflows. This can create a more seamless 
+    and less stressful experience for both dispatchers and drivers. 
+    <br><a href="blogs/dispatchersCheatSheet.cfm">Read more</a>
+    </p>
+    <!---Dispatcher's Cheat Sheet To Create A Better Workflow  End--->
+    
+    <!---Components of a Successful Truck Dispatcher Training Program--->
+    <p class="text-uppercase g-font-size-14--xs g-font-weight--700 g-color--primary g-letter-spacing--2 g-margin-b-25--xs hidden">Components of a 
+    Successful Truck Dispatcher Training Program</p>
+    <h2 class="g-font-size-32--xs g-font-size-36--sm">
+    <a href="blogs/Components.cfm">Components of a Successful Truck Dispatcher Training Program</a></h2>
+    <p>Truck dispatcher training is available in many formats. Many academies offer freight dispatching courses that help beginners and intermediates 
+    learn the ropes of dispatching. It is not uncommon to operate a truck dispatching business from a home office. In fact, truck dispatchers are experts 
+    at marketing their services to small trucking companies and independent owner-operators which helps them build a strong client base. This write-up 
+    will explore the advantages of enrolling in truck dispatcher training and what an education program should include. 
+    <br><a href="blogs/Components.cfm">Read more</a>
+    </p>
+    <!---Components of a Successful Truck Dispatcher Training Program End--->
+    
+     <!---Components of a Successful Truck Dispatcher Training Program--->
+    <p class="text-uppercase g-font-size-14--xs g-font-weight--700 g-color--primary g-letter-spacing--2 g-margin-b-25--xs hidden">Hot Shot Loading And 
+    Its Advantage Over The Conventional One</p>
+    <h2 class="g-font-size-32--xs g-font-size-36--sm">
+    <a href="blogs/hotShotLoading.cfm">Hot Shot Loading</a></h2>
+    <p>With the increasing competition in the carrier service, the truck operators are finding it a little hard to get a good income from the 
+    dispatching services. But when you can have hot shot loads, you may be able to earn a little more but the quality of dispatch is also needed 
+    to be high and you need to be accurate on time. The advantage with the hot shot load is that you can easily make use of only one truck in 
+    combination with several carriers to generate more income while spending lesser amount of money on the fuel. There are some companies that 
+    might provide you with hot shot loads at some commission charges but the profit you earn with these more than makes up for it. 
+    <br><a href="blogs/hotShotLoading.cfm">Read more</a>
+    </p>
+    <!---Components of a Successful Truck Dispatcher Training Program End--->
+    
+    <!---What you need before enrolling for a Truck Dispatcher School--->
+    <p class="text-uppercase g-font-size-14--xs g-font-weight--700 g-color--primary g-letter-spacing--2 g-margin-b-25--xs hidden">What you need 
+    before enrolling for a Truck Dispatcher School</p>
+    <h2 class="g-font-size-32--xs g-font-size-36--sm">
+    <a href="blogs/truckDispatcherSchool.cfm">What you need before enrolling for a Truck Dispatcher School</a></h2>
+    <p>It is no news that the trucking system is the pillar of an economy. According to statistics the trucking transport industry is responsible 
+    for the movement of most goods between the U.S and Canada and realized about $67 billion of revenues back in 2005. Although truck driving is 
+    the principal occupation of most Canadian men, it is evident this lucrative occupation is not for everyone since it requires one spends long 
+    hours and distance far from home. However, if you are interested in this noble profession, then this guide would expose you to what you need 
+    before taking a dispatcher course at a dispatcher school. 
+    <br><a href="blogs/truckDispatcherSchool.cfm">Read more</a>
+    </p>
+    <!---What you need before enrolling for a Truck Dispatcher School End--->
+    
+    <!---Truck Dispatch Software And Other Factors of Success--->
+    <p class="text-uppercase g-font-size-14--xs g-font-weight--700 g-color--primary g-letter-spacing--2 g-margin-b-25--xs hidden">Truck Dispatch 
+    Software And Other Factors of Success</p>
+    <h2 class="g-font-size-32--xs g-font-size-36--sm">
+    <a href="blogs/truckDispatchSoftware.cfm">Truck Dispatch Software And Other Factors of Success</a></h2>
+    <p>A lot of people are drawn to the trucking industry for the freedom and adventure associated with it, but don't necessarily want to be 
+    professional drivers themselves. If this is the case with you, then you might want to consider a career as a dispatcher. It's an excellent way 
+    to learn the industry, even if you eventually get behind the wheel yourself or become a freight broker. What you'll need if you decide to go this 
+    route, however, is a strong command of truck dispatch software, as well as good communication skills, knowledge of local roads, and the ability 
+    to think fast and work under pressure. 
+    <br><a href="blogs/truckDispatchSoftware.cfm">Read more</a>
+    </p>
+    <!---Truck Dispatch Software And Other Factors of Success End--->
+    
+    <!---Start a Trucking Company With One Truck --->
+    <p class="text-uppercase g-font-size-14--xs g-font-weight--700 g-color--primary g-letter-spacing--2 g-margin-b-25--xs hidden">Start a Trucking 
+    Company With One Truck </p>
+    <h2 class="g-font-size-32--xs g-font-size-36--sm">
+    <a href="blogs/truckDispatchSoftware.cfm">Start a Trucking Company With One Truck </a></h2>
+    <p>Yes, it's possible to start a trucking company with one truck! Learn the steps to success here. The Trucking industry trends and experts 
+    expect freight revenue to grow by 75 percent over the next nine years. With the trucking industry eclipsing over $726.4 billion in revenue 
+    for 2015, starting a trucking company now can be extremely lucrative. The trucking industry serves as a pillar in keeping things going and 
+    as long as people have demand for products, moving freight will be necessary for years to come. 
+    <br><a href="blogs/truckDispatchSoftware.cfm">Read more</a>
+    </p>
+    <!---Start a Trucking Company With One Truck End--->
+    
+    <!---Trucking Dispatch Companies to watch out for--->
+    <p class="text-uppercase g-font-size-14--xs g-font-weight--700 g-color--primary g-letter-spacing--2 g-margin-b-25--xs hidden">Trucking Dispatch 
+    Companies to watch out for</p>
+    <h2 class="g-font-size-32--xs g-font-size-36--sm">
+    <a href="blogs/dispatchCompaniesToWatch.cfm">Trucking Dispatch Companies to watch out for</a></h2>
+    <p>In a report released in 2015, the American Trucking Associations projects that freight volume will increase by almost 30% by 2026. Trucking 
+    Dispatch industry has come a long way, Trucking dispatch companies on the face of it don't look like a big deal, but what they manage to do is 
+    an immense job. Trucking dispatch companies are made of strong communication to enable easy interaction amongst truck drivers, dispatchers and 
+    customers. Decision making, organizational skills and multitasking abilities lie as the core skill in a trucking dispatch companies. A good 
+    portion of these companies use satellite tracking systems and GPS technology for monitoring locations of their trucks. 
+    <br><a href="blogs/dispatchCompaniesToWatch.cfm">Read more</a>
+    </p>
+    <!---Trucking Dispatch Companies to watch out for End--->
+    
+    <!---HOW TO HANDLE YOUR DISPATCHER--->
+    <p class="text-uppercase g-font-size-14--xs g-font-weight--700 g-color--primary g-letter-spacing--2 g-margin-b-25--xs hidden">How To Handle 
+    Your Dispatcher</p>
+    <h2 class="g-font-size-32--xs g-font-size-36--sm">
+    <a href="blogs/handleYourDispatcher.cfm">How To Handle Your Dispatcher</a></h2>
+    <p>As a truck driver, the best way to handle your dispatcher, is to understand what his job involves. The dispatcher's job is to effectively 
+    manage the flow of the freight from point A to point B. They attempt to minimize the truck's empty miles and maximize the company's profits. 
+    That's the dispatcher's job and what they are paid to do. Years ago in the trucking industry, dispatchers were well seasoned, experienced 
+    ex-truck drivers. They understood the trucking industry. Today, dispatchers are often young people highly skilled with computers! They're often 
+    fresh out of community college with a crash course in dispatch software management. 
+    <br><a href="blogs/handleYourDispatcher.cfm">Read more</a>
+    </p>
+    <!---HOW TO HANDLE YOUR DISPATCHER End--->
 </div>
 <!-- End News -->
 <!--========== END PAGE CONTENT ==========--> 
