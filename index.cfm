@@ -7,9 +7,9 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta http-equiv="x-ua-compatible" content="ie=edge">
 <title>Truck Dispatch Go | Truckdispatchgo.com</title>
-<meta name="keywords" content="Truck Dispatching" />
+<meta name="keywords" content="Truck Dispatching, Experienced Truck Dispatcher, B2B telemarketing company, Customer Service, Social Media, Inbound and Outbound Dispatch Service" />
 <meta name="description" content="Immigration Consultancy">
-<meta name="author" content="onevoix.com">
+<meta name="author" content="truckdispatchgo.com">
 
 <!-- Web Fonts -->
 <link href="https://fonts.googleapis.com/css?family=Lato:300,400,400i|Montserrat:400,700" rel="stylesheet">
@@ -199,6 +199,7 @@
         <div class="g-text-center--sm">
           <h2 class="g-font-size-32--xs g-font-size-36--sm g-margin-t-100--lg">Areas of Expertise</h2>
         </div>
+        <br>
         <ul class="list-unstyled col-xs-4 g-full-width--xs g-ul-li-tb-5--xs g-margin-b-20--xs g-margin-b-0--sm">
           <li>
             <p class="text-uppercase g-font-size-14--xs g-font-weight--700 g-color--primary g-letter-spacing--2 g-margin-b-15--xs">LOAD SEARCHING</li>
@@ -308,7 +309,7 @@
   <div class="col-md-2 col-xs-6 g-full-width--xs">
    
       <!-- Team -->
-      <div class="s-team-v1"> <img class="img-responsive g-width-100-percent--xs" src="img/400x400/truck01.jpg" alt="Image">
+      <div class="s-team-v1"> <img class="img-responsive g-width-100-percent--xs" src="img/400x400/Dryvan.jpg" alt="Image">
         <div class="g-text-center--xs g-bg-color--white g-padding-x-30--xs g-padding-y-40--xs">
           <h2 class="g-font-size-18--xs g-margin-b-5--xs">Dry Van</h2>
           <span class="g-font-size-15--xs g-color--text"><i></i></span> </div>
@@ -319,7 +320,7 @@
   <div class="col-md-2 col-xs-6 g-full-width--xs">
     
       <!-- Team -->
-      <div class="s-team-v1"> <img class="img-responsive g-width-100-percent--xs" src="img/400x400/truck02.jpg" alt="Image">
+      <div class="s-team-v1"> <img class="img-responsive g-width-100-percent--xs" src="img/400x400/reefer.jpg" alt="Image">
         <div class="g-text-center--xs g-bg-color--white g-padding-x-30--xs g-padding-y-40--xs">
           <h3 class="g-font-size-18--xs g-margin-b-5--xs">Reefer</h3>
         </div>
@@ -364,26 +365,28 @@
       <!-- End Team --> 
     
   </div>
+ 
+  
   <div class="col-md-2 col-xs-6 g-full-width--xs trucksM">
    
       <!-- Team -->
       <div class="s-team-v1"> 
-      	<img class="img-responsive g-width-100-percent--xs" src="img/400x400/truck03.jpg" alt="Image">
+      	<img class="img-responsive g-width-100-percent--xs" src="img/400x400/hopper.jpg" alt="Image">
 	        <div class="g-text-center--xs g-bg-color--white g-padding-x-30--xs g-padding-y-40--xs">
-	          <h4 class="g-font-size-18--xs g-margin-b-5--xs">Power Only</h4>
+	          <h4 class="g-font-size-18--xs g-margin-b-5--xs">Hoppers</h4>
 	        </div>
       </div>
       <!-- End Team --> 
    
   </div>
   
-  <div class="col-md-2 col-xs-6 g-full-width--xs trucksM">
+   <div class="col-md-2 col-xs-6 g-full-width--xs trucksM">
    
       <!-- Team -->
       <div class="s-team-v1"> 
-      	<img class="img-responsive g-width-100-percent--xs" src="img/400x400/truck05.jpg" alt="Image">
+      	<img class="img-responsive g-width-100-percent--xs" src="img/400x400/poweronly.jpg" alt="Image">
 	        <div class="g-text-center--xs g-bg-color--white g-padding-x-30--xs g-padding-y-40--xs">
-	          <h4 class="g-font-size-18--xs g-margin-b-5--xs">Hoppers</h4>
+	          <h4 class="g-font-size-18--xs g-margin-b-5--xs">Power Only</h4>
 	        </div>
       </div>
       <!-- End Team --> 

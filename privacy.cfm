@@ -6,10 +6,10 @@
 <meta charset="utf-8"/>
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta http-equiv="x-ua-compatible" content="ie=edge">
-<title>AJOC INTERNATIONAL INC.l</title>
-<meta name="keywords" content="Immigration Consultancy Canada" />
+<title>Truck Dispatch Go | Truckdispatchgo.com</title>
+<meta name="keywords" content="Truck Dispatching, Experienced Truck Dispatcher, B2B telemarketing company, Customer Service, Social Media, Inbound and Outbound Dispatch Service" />
 <meta name="description" content="Immigration Consultancy">
-<meta name="author" content="onevoix.com">
+<meta name="author" content="truckdispatchgo.com">
 
 <!-- Web Fonts -->
 <link href="https://fonts.googleapis.com/css?family=Lato:300,400,400i|Montserrat:400,700" rel="stylesheet">

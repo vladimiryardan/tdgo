@@ -209,7 +209,7 @@
 	</p>
 	<!---The 101 For Dispatching Trucks End--->
 	
-	<h6 class="g-font-size-8--xs g-font-size-12--sm uppercase">Source: www.drdispatch.com</h6>
+	<h6 class="g-font-size-8--xs g-font-size-12--sm uppercase">Source: www.doft.com</h6>
   </div>
 </div>
 <!-- End blog -->
