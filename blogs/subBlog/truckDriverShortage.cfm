@@ -7,9 +7,12 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta http-equiv="x-ua-compatible" content="ie=edge">
 <title>Truck Dispatch Go | Truckdispatchgo.com</title>
-<meta name="keywords" content="Truck Dispatching" />
-<meta name="description" content="Immigration Consultancy">
-<meta name="author" content="onevoix.com">
+<meta name="keywords" content="Truck Dispatching, Experienced Truck Dispatcher, B2B telemarketing company, Customer Service, Social Media, Inbound and Outbound Dispatch Service, Causes And Long Term Solutions" />
+<meta name="description" content="Truck Dispatcher, Experienced Truck Dispatcher, Dispatching service, Customer Service,  Load Carrier, Truck Driver Helper, Safe Delivery, Arrange Pick Up">
+<meta name="author" content="truckdispatchgo.com">
+	
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://truckdispatchgo.com">
 
 <!-- Web Fonts -->
 <link href="https://fonts.googleapis.com/css?family=Lato:300,400,400i|Montserrat:400,700" rel="stylesheet">
@@ -114,7 +117,7 @@
 	<p class="g-font-size-18--xs">So what gives here?
 	</p>
 	<p class="g-font-size-18--xs">North American trucking companies weep and cry the blues about the empty seats in their 
-	company trucks and their big losses in revenue. However, I find it mind boggling they are so surprised drivers arenâ€™t 
+	company trucks and their big losses in revenue. However, I find it mind boggling they are so surprised drivers aren’t 
 	lining up to fill these driving jobs.
 	</p>
 	<p class="g-font-size-18--xs">The writing has been on the wall for many many years now. Driver turnover rates are in 
@@ -126,7 +129,7 @@
 	<p class="g-font-size-18--xs">Nothing has been done  to address this looming issue over the past number of years.
 	</p>
 	<p class="g-font-size-18--xs">It's only recently, the powers that be and North American carriers are sweating bullets 
-	over filling the 30,000+ empty seatsâ€¦ and wondering how to fix the problem.
+	over filling the 30,000+ empty seats… and wondering how to fix the problem.
 	</p>
 	<!---The Truck Driver Shortage: Causes And Long Term Solutions End --->
 	<br>	
@@ -134,7 +137,7 @@
 	<h3 class="g-font-size-21--xs g-font-size-25--sm">What Caused the Trucker Shortage?</h3>
 	<p class="g-font-size-18--xs">
 	The American and Canadian trucking companies are in this mess and have no one to blame but themselves. Many trucking 
-	companies have been guilty of implementing tricks and tactics to squirm out of paying the drivers money theyâ€™ve earned. 
+	companies have been guilty of implementing tricks and tactics to squirm out of paying the drivers money they’ve earned. 
 	</p>
 	<p class="g-font-size-18--xs">
 	The problem really boils down to money...in essence, <b>the distribution of money in the trucking industry</b>... it's not 
@@ -142,8 +145,8 @@
 	</p>
 	<!---What Caused the Trucker Shortage? End --->
 	<br>
-	<!---Thereâ€™s MONEY IN TRUCKINGâ€¦ itâ€™s just not distributed well. --->
-	<h3 class="g-font-size-21--xs g-font-size-25--sm">There's MONEY IN TRUCKINGâ€¦ itâ€™s just not distributed well.</h3>
+	<!---There’s MONEY IN TRUCKING… it’s just not distributed well. --->
+	<h3 class="g-font-size-21--xs g-font-size-25--sm">There's MONEY IN TRUCKING… it’s just not distributed well.</h3>
 	<p class="g-font-size-18--xs">
 	<b>#1. TRUCK DRIVER PAY IS TOO LOW</b>. A truck driving job was once a good paying career. A job that paid on the average, 
 	$43,500, 10 years ago, when costs were lower, now pays $41,000.
@@ -157,7 +160,7 @@
 	whole lot of $$ left in the trucker's pocket.
 	</p>
 	<p class="g-font-size-18--xs">
-	<b>#2. FREIGHT MOVES CHEAP</b>. Weâ€™ve let the shippers away with this criminal act for a long, long time. <b>Freight rates aren't even close 
+	<b>#2. FREIGHT MOVES CHEAP</b>. We’ve let the shippers away with this criminal act for a long, long time. <b>Freight rates aren't even close 
 	to what they should be. </b>
 	</p>
 	<p class="g-font-size-18--xs">
@@ -174,7 +177,7 @@
 	regulated than ever before.  Many drivers are distressed by the electronic log system and the ever changing Hours of Service regs, and 
 	are leaving the industry. 
 	</p>
-	<!---Thereâ€™s MONEY IN TRUCKINGâ€¦ itâ€™s just not distributed well. End--->
+	<!---There’s MONEY IN TRUCKING… it’s just not distributed well. End--->
 	<br>
 	<!---Who Is Left To Drive the Trucks?--->
 	<h3 class="g-font-size-21--xs g-font-size-25--sm">Who Is Left To Drive the Trucks?</h3>
@@ -202,7 +205,7 @@
 	<!---How To Solve the Trucker Shortage--->
 	<h3 class="g-font-size-21--xs g-font-size-25--sm">How To Solve the Trucker Shortage</h3>
 	<p class="g-font-size-18--xs">
-	Iâ€™m sure the very important CEOâ€™s of the big trucking companies think of truck drivers simply 
+	I’m sure the very important CEO’s of the big trucking companies think of truck drivers simply 
 	as a commodity to be used at the cheapest rates possible.  However, they will need to change 
 	their thinking in order to fix this problem.
 	</p>

@@ -7,9 +7,9 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta http-equiv="x-ua-compatible" content="ie=edge">
 <title>Truck Dispatch Go | Truckdispatchgo.com</title>
-<meta name="keywords" content="Truck Dispatching" />
-<meta name="description" content="Immigration Consultancy">
-<meta name="author" content="onevoix.com">
+<meta name="keywords" content="Truck Dispatching, Experienced Truck Dispatcher, B2B telemarketing company, Customer Service, Social Media, Inbound and Outbound Dispatch Service, Companies to watch out" />
+<meta name="description" content="Truck Dispatcher, Experienced Truck Dispatcher, Dispatching service, Customer Service,  Load Carrier, Truck Driver Helper, Safe Delivery, Arrange Pick Up, Companies to watch out">
+<meta name="author" content="truckdispatchgo.com">
 
 <!-- Web Fonts -->
 <link href="https://fonts.googleapis.com/css?family=Lato:300,400,400i|Montserrat:400,700" rel="stylesheet">
@@ -98,15 +98,15 @@
     <p class="g-font-size-18--xs"><strong>The 101 For Dispatching Trucks</strong>
 	</p>
     <p class="g-font-size-18--xs">In a report released in 2015, the American Trucking Associations projects that freight volume will 
-    increase by almost 30% by 2026. Trucking Dispatch industry has come a long way, Trucking dispatch companies on the face of it donâ€™t 
+    increase by almost 30% by 2026. Trucking Dispatch industry has come a long way, Trucking dispatch companies on the face of it don’t 
     look like a big deal, but what they manage to do is an immense job. Trucking dispatch companies are made of strong communication to 
     enable easy interaction amongst truck drivers, dispatchers and customers. Decision making, organizational skills and multitasking 
     abilities lie as the core skill in a trucking dispatch companies. A good portion of these companies use satellite tracking systems 
     and GPS technology for monitoring locations of their trucks. Truck dispatching is responsible for coordinating the transport of 
     freight between destinations, whether the destinations are across town or across the country. They arrange for the pickup and 
-    delivery schedules of all the companyâ€™s drivers, whether theyâ€™re driving small local delivery vehicles or long-haul rigs. Besides 
+    delivery schedules of all the company’s drivers, whether they’re driving small local delivery vehicles or long-haul rigs. Besides 
     that, they are responsible for consolidating the orders of freight so that trailers are filled before setting out on the way to their 
-    destinations. When thereâ€™s a specialized load of freight requiring that special handling or safety protocols be followed, the 
+    destinations. When there’s a specialized load of freight requiring that special handling or safety protocols be followed, the 
     dispatcher ensures that the driver handling that load is certified and adequately trained to do the job properly.The dispatcher 
     is responsible for making sure that all assets of a trucking company are properly utilized. This includes the trucks, as well as, 
     the drivers.
@@ -116,7 +116,7 @@
 	The trucking industry relies on safe drivers to complete deliveries. Often referred to as the backbone of American industry, 
 	truck drivers are typically thought of as the foundation of the system. However, they are not the only employees responsible 
 	for its success. Dispatchers play an essential role and are in high demand. Besides all this, dispatchers also help keep records, 
-	monitor driver daily logs for errors or violations, keep tab on driverâ€™s working hours and equipment availability. Except all these 
+	monitor driver daily logs for errors or violations, keep tab on driver’s working hours and equipment availability. Except all these 
 	responsibilities dispatchers are supposed to know the weather of all their drivers locations, so as to foresee any potential issues. 
 	Although in the age of the internet there are a variety of apps to aid both the drivers and dispatchers, but most of the work requires 
 	good intuition and knowledge of the industry.
@@ -139,8 +139,8 @@
 	<p class="g-font-size-18--xs"><b>3. FedEx:</b> The this has-to-get-there-overnight parcel delivery service has a reputation for passion 
 	in their service and their people recommend FedEx as an employer by a margin of three to one. They also have a gigantic fleet of ground 
 	vehicles of all sizes that require drivers for parcel delivery and line haul positions.FedEx Express invented express distribution and is 
-	the industryâ€™s global leader, providing rapid, reliable, time-definite delivery to more than 220 countries and territories, connecting 
-	markets that comprise more than 90 percent of the worldâ€™s gross domestic product within one to three business days.
+	the industry’s global leader, providing rapid, reliable, time-definite delivery to more than 220 countries and territories, connecting 
+	markets that comprise more than 90 percent of the world’s gross domestic product within one to three business days.
 	</p>
 	
 	<p class="g-font-size-18--xs"><b>4. Pitt Ohio:</b> Pitt Ohio delivers freight across North America by the truckload, LTL, and parcel delivery 
@@ -150,9 +150,9 @@
 	delivering to more destinations next-day than any other carrier.
 	</p>
 	
-	<p class="g-font-size-18--xs"><b>5. Prime Inc.:</b> This company is North Americaâ€™s  most successful refrigerated, flatbed, tanker, and intermodal 
+	<p class="g-font-size-18--xs"><b>5. Prime Inc.:</b> This company is North America’s  most successful refrigerated, flatbed, tanker, and intermodal 
 	carrier, provides safe, reliable and continuous on-time service to its expanding international customer base.Independent contractors routinely 
-	benefit from Primeâ€™s exceptional lease plan which offers virtually unlimited earning potential. Experienced contractors can get into a late-model 
+	benefit from Prime’s exceptional lease plan which offers virtually unlimited earning potential. Experienced contractors can get into a late-model 
 	455-horsepower Freightliner with no money down and no credit check. Incorporated is all about long distance driving OTR, so it is a company for 
 	present and future road warriors who thrive away from home for long periods. Prime offers paid CDL driver training, and that adds an obligation 
 	to stay with the company or pay a penalty for the time cut short.
@@ -160,7 +160,7 @@
 	
 	<p class="g-font-size-18--xs"><b>6. Southeastern Freight Lines:</b> As the name suggests, this less-than-truckload freight-hauling enterprise works in 
 	the Southeastern United States as well as Puerto Rico and the U.S. Virgin Islands. When Southeastern Freight Lines made its first delivery over 
-	60 years ago, the mission of that driver was exactly the same as it is for each associate today: to meet or exceed the needs of every customer â€“ 
+	60 years ago, the mission of that driver was exactly the same as it is for each associate today: to meet or exceed the needs of every customer – 
 	every single time. The driving force behind this company is their commitment to adding value through everything they do or, as their motto says, 
 	providing Quality Without Question. They have relationships with companies in other regions that transship across the country. 
 	</p>
@@ -182,14 +182,14 @@
 	
 	<p class="g-font-size-18--xs"><b>9. United Road Services:</b> This national company specializes in car hauling, and that is a well-paid driving job. 
 	United Road is the premier auto transport expert, shipping over three million vehicles annually throughout the United States and Canada.What makes 
-	them the best? United Road was founded in 1997 and serves every need of the auto transport industry. United Roadâ€™s customer list includes major 
+	them the best? United Road was founded in 1997 and serves every need of the auto transport industry. United Road’s customer list includes major 
 	automakers, manufacturers, remarketers, financial institutions, leasing companies, auctioneers, dealers, retail, and single individuals.
 	</p>
 	
 	<p class="g-font-size-18--xs"><b>10. Quality Distribution:</b> This company has a reputation that reflects the company name in the minds of its 
 	employees, Quality Distribution. At Quality Distribution Inc. (QDI), availability, reliability and dependability have been watchwords for more 
 	than 100 years. From their humble beginnings as a small operation hauling lime and milk to where they are today- operating the largest bulk tank 
-	truck network in North America- they havenâ€™t forgotten the importance of being available, reliable and dependable. reviewing workers speak of a 
+	truck network in North America- they haven’t forgotten the importance of being available, reliable and dependable. reviewing workers speak of a 
 	healthy life/work balance, as well as favorable pay and benefits. The company HQ is located in Tampa, Florida and specializes in moving truckloads 
 	of bulk liquids, including oil and gas, and other hazardous materials. The company conducts line haul operations from depots across the United 
 	States and Canada; drivers are usually home nightly.

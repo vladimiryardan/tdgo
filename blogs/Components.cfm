@@ -7,9 +7,12 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta http-equiv="x-ua-compatible" content="ie=edge">
 <title>Truck Dispatch Go | Truckdispatchgo.com</title>
-<meta name="keywords" content="Truck Dispatching" />
-<meta name="description" content="Immigration Consultancy">
-<meta name="author" content="onevoix.com">
+<meta name="keywords" content="Truck Dispatching, Experienced Truck Dispatcher, B2B telemarketing company, Customer Service, Social Media, Inbound and Outbound Dispatch Service, Training Program" />
+<meta name="description" content="Truck Dispatcher, Experienced Truck Dispatcher, Dispatching service, Customer Service,  Load Carrier, Truck Driver Helper, Safe Delivery, Arrange Pick Up, Training Program">
+<meta name="author" content="truckdispatchgo.com">
+	
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://truckdispatchgo.com">
 
 <!-- Web Fonts -->
 <link href="https://fonts.googleapis.com/css?family=Lato:300,400,400i|Montserrat:400,700" rel="stylesheet">
@@ -172,7 +175,7 @@
 	
 	<p class="g-font-size-18--xs">It might be the case that some semi-trucks may have personalities, but you will find out that drivers do! Drivers 
 	will present requirements of their own such as scheduled time off and equipment preferences. Building a motivated group of drivers will help 
-	you avoid nuisances and maintain you and your teamâ€™s focus on servicing customers' needs.
+	you avoid nuisances and maintain you and your team’s focus on servicing customers' needs.
 	</p>
 	
 	<p class="g-font-size-18--xs">In circumstances that involve hazardous material shipments, arranging for the driver to receive the training required 

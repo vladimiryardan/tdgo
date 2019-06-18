@@ -7,9 +7,12 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta http-equiv="x-ua-compatible" content="ie=edge">
 <title>Truck Dispatch Go | Truckdispatchgo.com</title>
-<meta name="keywords" content="Truck Dispatching" />
-<meta name="description" content="Immigration Consultancy">
-<meta name="author" content="onevoix.com">
+<meta name="keywords" content="Truck Dispatching, Experienced Truck Dispatcher, B2B telemarketing company, Customer Service, Social Media, Inbound and Outbound Dispatch Service, Truck Dispatcher's Job" />
+<meta name="description" content="Truck Dispatcher, Experienced Truck Dispatcher, Dispatching service, Customer Service,  Load Carrier, Truck Driver Helper, Safe Delivery, Arrange Pick Up">
+<meta name="author" content="truckdispatchgo.com">
+	
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://truckdispatchgo.com">
 
 <!-- Web Fonts -->
 <link href="https://fonts.googleapis.com/css?family=Lato:300,400,400i|Montserrat:400,700" rel="stylesheet">
@@ -90,23 +93,23 @@
 <!-- Blog -->
 <div id="js__scroll-to-section5"  class="container g-padding-y-80--xs">
   <div class="g-text-left--lg">
-  	<!---An Inside Look at a Truck Dispatcherâ€™s Job --->
-    <p class="g-font-size-18--xs"><strong>An Inside Look at a Truck Dispatcherâ€™s Job </strong>
+  	<!---An Inside Look at a Truck Dispatcher’s Job --->
+    <p class="g-font-size-18--xs"><strong>An Inside Look at a Truck Dispatcher's Job</strong>
 	</p>
     <p class="g-font-size-18--xs">There are a lot of different elements that go into ensuring the goods we use and consume get where 
-    they need to go. Many donâ€™t realize the complexities of the supply chain and the people (and roles) that make it run smoothly day 
+    they need to go. Many don’t realize the complexities of the supply chain and the people (and roles) that make it run smoothly day 
     in and day out.
 	</p>
 	
 	<p class="g-font-size-18--xs">
-		I interviewed one of Americaâ€™s truck drivers, Anthony Brown, to get his perspective on what life was like on the road. 
+		I interviewed one of America’s truck drivers, Anthony Brown, to get his perspective on what life was like on the road. 
 	</p>
 	
-	<p class="g-font-size-18--xs">Today, Iâ€™m speaking with Jim Bauer, a dispatcher at A.N. Webber, to learn what life is like for dispatchers. 
+	<p class="g-font-size-18--xs">Today, I’m speaking with Jim Bauer, a dispatcher at A.N. Webber, to learn what life is like for dispatchers. 
 	Like, drivers, truck dispatchers play a critical role in making sure freight gets to its final destination.
 	</p>
 	
-	<p class="g-font-size-18--xs">Letâ€™s dive in to see what life is like for dispatchers:
+	<p class="g-font-size-18--xs">Let’s dive in to see what life is like for dispatchers:
 	</p>
 	
 	<p class="g-font-size-18--xs"><strong>What is a typical day like for a truck dispatcher?</strong>
@@ -118,7 +121,7 @@
 	</p>
 	
 	<p class="g-font-size-18--xs">After I check my email, I get ready for the day, pour my coffee, and head to the office. 
-	I am usually there between 5:00 and 5:30 a.m. If there are no issues, I start my day by entering the dayâ€™s dispatchâ€”not 
+	I am usually there between 5:00 and 5:30 a.m. If there are no issues, I start my day by entering the day’s dispatch—not 
 	knowing what circumstances will occur. Will I have a sick driver, a break down, or a customer change their mind on a load?
 	</p>
 	
@@ -132,7 +135,7 @@
 	</p>
 	
 	<p class="g-font-size-18--xs">The way it is now, I do not have a choice in taking the loads. As busy as we are, they are just 
-	given to us. For backhauls, we do take some factors into considerationâ€”deadhead mileage, the type of driver, driver hours available, 
+	given to us. For backhauls, we do take some factors into consideration—deadhead mileage, the type of driver, driver hours available, 
 	where the load delivers, and the timeline are just a few. I work hard to get my drivers where they need to be, whether that is a 
 	terminal, a customer, or home to his or her family.
 	</p>
@@ -140,9 +143,9 @@
 	<p class="g-font-size-18--xs"><strong>What is the biggest challenge in your job? </strong>
 	</p>
 	
-	<p class="g-font-size-18--xs">I canâ€™t pick just one; there are a couple. The first is balancing my responsibilities. I need to make 
+	<p class="g-font-size-18--xs">I can’t pick just one; there are a couple. The first is balancing my responsibilities. I need to make 
 	customers, the boss, and my drivers happy. I have to appease everybody and do it efficiently. Another big challenge is the new hours 
-	of service (HOS)â€”especially the mandatory 30 minute breaks. I work with local drivers, making them take a break when there is work to 
+	of service (HOS)—especially the mandatory 30 minute breaks. I work with local drivers, making them take a break when there is work to 
 	be done gets frustrating
 	</p>
 	
@@ -150,7 +153,7 @@
 	</p>
 	
 	<p class="g-font-size-18--xs">We use satellite communication. Our trucks all have tablet computers mounted on the dashboards. We can 
-	tell a driver's location and send messages to individual trucks. We depend on technology for everythingâ€”the ease and convenience makes 
+	tell a driver's location and send messages to individual trucks. We depend on technology for everything—the ease and convenience makes 
 	every job easier. However, we do have technology glitches, the most difficult is not knowing if a driver received a message we sent.
 	</p>
 	 

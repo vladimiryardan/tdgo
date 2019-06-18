@@ -7,9 +7,9 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta http-equiv="x-ua-compatible" content="ie=edge">
 <title>Truck Dispatch Go | Truckdispatchgo.com</title>
-<meta name="keywords" content="Truck Dispatching" />
-<meta name="description" content="Immigration Consultancy">
-<meta name="author" content="onevoix.com">
+<meta name="keywords" content="Truck Dispatching, Experienced Truck Dispatcher, B2B telemarketing company, Customer Service, Social Media, Inbound and Outbound Dispatch Service, dark side of trucking" />
+<meta name="description" content="Truck Dispatcher, Experienced Truck Dispatcher, Dispatching service, Customer Service,  Load Carrier, Truck Driver Helper, Safe Delivery, Arrange Pick Up, darkside of trucking">
+<meta name="author" content="truckdispatchgo.com">
 
 <!-- Web Fonts -->
 <link href="https://fonts.googleapis.com/css?family=Lato:300,400,400i|Montserrat:400,700" rel="stylesheet">

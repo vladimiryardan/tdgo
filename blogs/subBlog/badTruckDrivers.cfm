@@ -7,9 +7,12 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta http-equiv="x-ua-compatible" content="ie=edge">
 <title>Truck Dispatch Go | Truckdispatchgo.com</title>
-<meta name="keywords" content="Truck Dispatching" />
-<meta name="description" content="Immigration Consultancy">
-<meta name="author" content="onevoix.com">
+<meta name="keywords" content="Truck Dispatching, Experienced Truck Dispatcher, B2B telemarketing company, Customer Service, Social Media, Inbound and Outbound Dispatch Service, Industry Lies, Scams and Secrets" />
+<meta name="description" content="Truck Dispatcher, Experienced Truck Dispatcher, Dispatching service, Customer Service,  Load Carrier, Truck Driver Helper, Safe Delivery, Arrange Pick Up">
+<meta name="author" content="truckdispatchgo.com">
+	
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://truckdispatchgo.com">
 
 <!-- Web Fonts -->
 <link href="https://fonts.googleapis.com/css?family=Lato:300,400,400i|Montserrat:400,700" rel="stylesheet">
@@ -97,8 +100,8 @@
 <!-- News -->
 <div id="js__scroll-to-section5"  class="container g-padding-y-80--xs">
   <div class="g-text-left--lg">
-  	<!---Bad Truck Drivers â€“ What They Do + How We Can Help Fix It--->
-  	<h3 class="g-font-size-21--xs g-font-size-25--sm">Bad Truck Drivers â€“ What They Do + How We Can Help Fix It</h3>
+  	<!---Bad Truck Drivers – What They Do + How We Can Help Fix It--->
+  	<h3 class="g-font-size-21--xs g-font-size-25--sm">Bad Truck Drivers – What They Do + How We Can Help Fix It</h3>
     <p class="g-font-size-18--xs">Bad truck drivers are a reality on our highways.
 	</p>
     <p class="g-font-size-18--xs">Fortunately, unsafe truck drivers are few in number. 
@@ -107,10 +110,10 @@
 	<p class="g-font-size-18--xs">As professional drivers, we need to recognize this 
 	problem and be part of the solution to eliminate bad truck drivers from our highway.
 	</p>
-	<!---Bad Truck Drivers â€“ What They Do + How We Can Help Fix It End --->
+	<!---Bad Truck Drivers – What They Do + How We Can Help Fix It End --->
 	<br>	
-	<!---Dangerous Things Truck Drivers Do â€“ Very FEW Truck Drivers Do--->
-	<h3 class="g-font-size-21--xs g-font-size-25--sm">Dangerous Things Truck Drivers Do â€“ Very FEW Truck Drivers Do</h3>
+	<!---Dangerous Things Truck Drivers Do – Very FEW Truck Drivers Do--->
+	<h3 class="g-font-size-21--xs g-font-size-25--sm">Dangerous Things Truck Drivers Do – Very FEW Truck Drivers Do</h3>
 	<p class="g-font-size-18--xs">
 	These are 2 of the most dangerous things some CDL drivers do, that we need to watch out for. 
 	</p>
@@ -123,11 +126,11 @@
 	</p>
 	<p class="g-font-size-18--xs">
 	The other day, we passed a big truck, where the driver had his laptop fixed to his 
-	dashboard, and was enjoying a movie, while driving. It was a â€˜Westernâ€™ truck.
+	dashboard, and was enjoying a movie, while driving. It was a ‘Western’ truck.
 	</p>
 	<p class="g-font-size-18--xs">
 	I've seen some pretty dumb things over the years, but this one just may take the 
-	'stupidest move ever' prize. Itâ€™s not hard to see why distracted driving has become 
+	'stupidest move ever' prize. It’s not hard to see why distracted driving has become 
 	such a focus for law enforcement .
 	</p>
 	<p class="g-font-size-18--xs">
@@ -152,7 +155,7 @@
 	The result of this pay system is commercial drivers driving too fast for road conditions and traffic 
 	congestion.
 	</p>
-	<!---Dangerous Things Truck Drivers Do â€“ Very FEW Truck Drivers Do End --->
+	<!---Dangerous Things Truck Drivers Do – Very FEW Truck Drivers Do End --->
 	<br>
 	<!---How the FMCSA Defines Distracted Driving--->
 	<h3 class="g-font-size-21--xs g-font-size-25--sm">How the FMCSA Defines Distracted Driving</h3>
@@ -182,7 +185,7 @@
 	</p>
 	<!---More Than One Carrier Pulling This Dirty Trick End --->
 	<br>
-	<!---Trucking Companies May Be Getting What Theyâ€™ve Paid For--->
+	<!---Trucking Companies May Be Getting What They’ve Paid For--->
 	<h3 class="g-font-size-21--xs g-font-size-25--sm">Trucking Companies May Be Getting What They've Paid For</h3>
 	<p class="g-font-size-18--xs">
 	What do trucking company owners think when they become aware of one of their people behaving this way?
@@ -197,10 +200,10 @@
 	The current shortage of truck drivers in North America has placed some low quality bad truck drivers at the wheel. 
 	Big fleets are hiring in large numbers and not being  selective of the quality of driver they are hiring.
 	</p>
-	<!---Trucking Companies May Be Getting What Theyâ€™ve Paid For End --->
+	<!---Trucking Companies May Be Getting What They’ve Paid For End --->
 	<br>
-	<!---Bad Truck Drivers â€“ A Few Bad Apples Spoil the Bunch--->
-	<h3 class="g-font-size-21--xs g-font-size-25--sm">Bad Truck Drivers â€“ A Few Bad Apples Spoil the Bunch</h3>
+	<!---Bad Truck Drivers – A Few Bad Apples Spoil the Bunch--->
+	<h3 class="g-font-size-21--xs g-font-size-25--sm">Bad Truck Drivers – A Few Bad Apples Spoil the Bunch</h3>
 	<p class="g-font-size-18--xs">
 	It's really embarrassing for the majority of the professional truck drivers in this industry.
 	</p>
@@ -211,7 +214,7 @@
 	<p class="g-font-size-18--xs">
 	It's no wonder the public has a low opinion of the truck driver and have little to no respect for us.
 	</p>
-	<!---Bad Truck Drivers â€“ A Few Bad Apples Spoil the Bunch End --->
+	<!---Bad Truck Drivers – A Few Bad Apples Spoil the Bunch End --->
 	<br>
 	<!---Moving On To Another Truck Driving Job End --->
 	<h6 class="g-font-size-8--xs g-font-size-12--sm uppercase">Source: www.smart-trucking.com</h6>

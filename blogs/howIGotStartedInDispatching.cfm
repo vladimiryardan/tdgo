@@ -7,9 +7,12 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta http-equiv="x-ua-compatible" content="ie=edge">
 <title>Truck Dispatch Go | Truckdispatchgo.com</title>
-<meta name="keywords" content="Truck Dispatching" />
-<meta name="description" content="Immigration Consultancy">
-<meta name="author" content="onevoix.com">
+<meta name="keywords" content="Truck Dispatching, Experienced Truck Dispatcher, B2B telemarketing company, Customer Service, Social Media, Inbound and Outbound Dispatch Service, Getting Started in Dispatching" />
+<meta name="description" content="Truck Dispatcher, Experienced Truck Dispatcher, Dispatching service, Customer Service,  Load Carrier, Truck Driver Helper, Safe Delivery, Arrange Pick Up, Getting Started in Dispatching">
+<meta name="author" content="truckdispatchgo.com">
+	
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://truckdispatchgo.com">
 
 <!-- Web Fonts -->
 <link href="https://fonts.googleapis.com/css?family=Lato:300,400,400i|Montserrat:400,700" rel="stylesheet">
@@ -118,7 +121,7 @@
 	
 	<p class="g-font-size-18--xs">I later left Wilson Trucking and moved to Baltimore, Maryland. Sticking to my love for trucking I was offered 
 	a job at Tri-Star Freight of Baltimore, Maryland. Tri-Star was a challenge to me like no other. This company was one of the biggest Military 
-	contracted cargo companies around. Tri- Star, basically moved the military soldierâ€™s personal belongings when they were being stationed to a 
+	contracted cargo companies around. Tri- Star, basically moved the military soldier’s personal belongings when they were being stationed to a 
 	new state or country. This was an intermodal company. I was hired to be the incoming clerk. All shipments that were to be picked in our radius 
 	came across my desk. I had to make sure that if it was from another country that it passed customs and security. After making sure that the cargo 
 	was cleared for delivery, my main job was to get the orders picked up on the correct trucks and delivered. This was my first time dealing with 

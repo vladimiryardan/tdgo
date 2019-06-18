@@ -7,9 +7,12 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta http-equiv="x-ua-compatible" content="ie=edge">
 <title>Truck Dispatch Go | Truckdispatchgo.com</title>
-<meta name="keywords" content="Truck Dispatching" />
-<meta name="description" content="Immigration Consultancy">
-<meta name="author" content="onevoix.com">
+<meta name="keywords" content="Truck Dispatching, Experienced Truck Dispatcher, B2B telemarketing company, Customer Service, Social Media, Inbound and Outbound Dispatch Service, Liars in Trucking Companies" />
+<meta name="description" content="Truck Dispatcher, Experienced Truck Dispatcher, Dispatching service, Customer Service,  Load Carrier, Truck Driver Helper, Safe Delivery, Arrange Pick Up">
+<meta name="author" content="truckdispatchgo.com">
+	
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://truckdispatchgo.com">
 
 <!-- Web Fonts -->
 <link href="https://fonts.googleapis.com/css?family=Lato:300,400,400i|Montserrat:400,700" rel="stylesheet">
@@ -232,7 +235,7 @@
 	<p class="g-font-size-18--xs">You have an appointment to meet with the Operations Manager.
 	</p>
 	
-	<p class="g-font-size-18--xs">He greets you in the doorway of his office. He doesnâ€™t invite you in to have a seat and talk.
+	<p class="g-font-size-18--xs">He greets you in the doorway of his office. He doesn’t invite you in to have a seat and talk.
 	</p>
 	
 	<p class="g-font-size-18--xs">Maybe you aren't worthy of his time?
@@ -263,7 +266,7 @@
 	</p>
 	
 	<p class="g-font-size-18--xs">A chimpanzee could work PC Miler. PC Miler on YOUR laptop says your last trip to Houston, 
-	TX was 1703 miles. Yet, the Terminal Managerâ€™s version of PC Miler, says that same trip to Houston was only 1650 miles.
+	TX was 1703 miles. Yet, the Terminal Manager’s version of PC Miler, says that same trip to Houston was only 1650 miles.
 	</p>
 	
 	<p class="g-font-size-18--xs"><i>How can that be?</i>
@@ -304,7 +307,7 @@
 	has a bad habit of thinking drivers are stupid.  They tend to treating them accordingly.
 	</p>
 	
-	<p class="g-font-size-18--xs">If you're a driver in the trucking industry and you havenâ€™t been lied to yet today, that's 
+	<p class="g-font-size-18--xs">If you're a driver in the trucking industry and you haven’t been lied to yet today, that's 
 	probably because you are still in the bunk of your truck!
 	</p>
 	

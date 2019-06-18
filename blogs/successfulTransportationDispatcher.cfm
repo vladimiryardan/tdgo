@@ -7,9 +7,12 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta http-equiv="x-ua-compatible" content="ie=edge">
 <title>Truck Dispatch Go | Truckdispatchgo.com</title>
-<meta name="keywords" content="Truck Dispatching" />
-<meta name="description" content="Immigration Consultancy">
-<meta name="author" content="onevoix.com">
+<meta name="keywords" content="Truck Dispatching, Experienced Truck Dispatcher, B2B telemarketing company, Customer Service, Social Media, Inbound and Outbound Dispatch Service, Successful Transportation Dispatcher" />
+<meta name="description" content="Truck Dispatcher, Experienced Truck Dispatcher, Dispatching service, Customer Service,  Load Carrier, Truck Driver Helper, Safe Delivery, Arrange Pick Up">
+<meta name="author" content="truckdispatchgo.com">
+	
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://truckdispatchgo.com">
 
 <!-- Web Fonts -->
 <link href="https://fonts.googleapis.com/css?family=Lato:300,400,400i|Montserrat:400,700" rel="stylesheet">
@@ -102,7 +105,7 @@
 	</p>
     <p class="g-font-size-18--xs">Emails, messages and phone calls are coming at you left and right, from customers and truck drivers. 
     You need to make sudden changes to routes based on construction or bad weather. And your driver might not make it in time. In those 
-    moments, itâ€™s easy for a dispatcher to get stressed out.
+    moments, it’s easy for a dispatcher to get stressed out.
 	</p>
 	
 	<p class="g-font-size-18--xs">
@@ -111,23 +114,23 @@
 	and continually changing, readiness and adaptability are required characteristics of a prospective truck dispatcher.
 	</p>
 	
-	<p class="g-font-size-18--xs">If youâ€™re thinking about becoming a transportation dispatcher, first, youâ€™ll want to know whether the position 
-	is right for you. Education is not always required to become a truck dispatcher, but there are helpful programs out thereâ€”programs in supply 
+	<p class="g-font-size-18--xs">If you’re thinking about becoming a transportation dispatcher, first, you’ll want to know whether the position 
+	is right for you. Education is not always required to become a truck dispatcher, but there are helpful programs out there—programs in supply 
 	chain management, transportation or logistics are useful and very applicable to a dispatcher position. While education is a great way to acquire 
-	the skills needed to become a dispatcher, direct experience in the field is also highly valuedâ€”positions in transportation, customer service, or 
+	the skills needed to become a dispatcher, direct experience in the field is also highly valued—positions in transportation, customer service, or 
 	as a courier should help to develop the skills needed to enter into the world of dispatch.
 	</p>
 	
-	<p class="g-font-size-18--xs">Once youâ€™re in a dispatcher position, there are certain keys to success in a position that can occasionally 
-	prove to be stressful. One tip is to always stay consistentâ€”check your documents and work before moving forward, because one single mistake 
-	can cause a domino effect of many more mistakes. Dispatchers must also be good at multitasking: youâ€™ll get off the phone, and having received 
+	<p class="g-font-size-18--xs">Once you’re in a dispatcher position, there are certain keys to success in a position that can occasionally 
+	prove to be stressful. One tip is to always stay consistent—check your documents and work before moving forward, because one single mistake 
+	can cause a domino effect of many more mistakes. Dispatchers must also be good at multitasking: you’ll get off the phone, and having received 
 	multiple emails in that time, you might need to get right back on the phone again and manage to answer those emails, and then move on to another 
-	issue to solve. Itâ€™s also important to plan aheadâ€”know what the weather will be like the next day (snow can always cause major delays), whether 
-	thereâ€™s construction on your route or not, and map out a general plan.
+	issue to solve. It’s also important to plan ahead—know what the weather will be like the next day (snow can always cause major delays), whether 
+	there’s construction on your route or not, and map out a general plan.
 	</p>
 	
-	<p class="g-font-size-18--xs">Overall, dispatching can be a fast-paced position, but it can also be rewarding. But if youâ€™re interested in becoming 
-	a dispatcher, thereâ€™s always room for opportunity at Evans. Check out our Careers page for more information.
+	<p class="g-font-size-18--xs">Overall, dispatching can be a fast-paced position, but it can also be rewarding. But if you’re interested in becoming 
+	a dispatcher, there’s always room for opportunity at Evans. Check out our Careers page for more information.
 	</p>
 
 	<h6 class="g-font-size-8--xs g-font-size-12--sm uppercase">Source: www.evansdist.com</h6>

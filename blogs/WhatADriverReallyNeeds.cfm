@@ -7,9 +7,12 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta http-equiv="x-ua-compatible" content="ie=edge">
 <title>Truck Dispatch Go | Truckdispatchgo.com</title>
-<meta name="keywords" content="Truck Dispatching" />
-<meta name="description" content="Immigration Consultancy">
-<meta name="author" content="onevoix.com">
+<meta name="keywords" content="Truck Dispatching, Experienced Truck Dispatcher, B2B telemarketing company, Customer Service, Social Media, Inbound and Outbound Dispatch Service, What a Driver Really Needs" />
+<meta name="description" content="Truck Dispatcher, Experienced Truck Dispatcher, Dispatching service, Customer Service,  Load Carrier, Truck Driver Helper, Safe Delivery, Arrange Pick Up">
+<meta name="author" content="truckdispatchgo.com">
+	
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://truckdispatchgo.com">
 
 <!-- Web Fonts -->
 <link href="https://fonts.googleapis.com/css?family=Lato:300,400,400i|Montserrat:400,700" rel="stylesheet">
@@ -82,7 +85,7 @@
     <div class="g-fullheight--xs g-bg-position--center" style="background: url('../img/1920x1080/truckNeeds.jpg');">
       <div class="container g-text-center--xs g-ver-center--xs">
         <div class="g-margin-b-30--xs">
-          <h2 class="g-font-size-32--xs g-font-size-45--sm g-font-size-60--md g-color--white uppercase">What a driver really needs</h2>
+          <h2 class="g-font-size-32--xs g-font-size-45--sm g-font-size-60--md g-color--white uppercase">What a Driver Really Needs</h2>
           <p class="g-font-size-18--xs g-font-size-22--sm g-color--white-opacity"> Clifford Petersen || April 09, 2019</p>
         </div>     
     </div>

@@ -7,9 +7,12 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta http-equiv="x-ua-compatible" content="ie=edge">
 <title>Truck Dispatch Go | Truckdispatchgo.com</title>
-<meta name="keywords" content="Truck Dispatching" />
-<meta name="description" content="Immigration Consultancy">
-<meta name="author" content="onevoix.com">
+<meta name="keywords" content="Truck Dispatching, Experienced Truck Dispatcher, B2B telemarketing company, Customer Service, Social Media, Inbound and Outbound Dispatch Service, Tips For Beginners" />
+<meta name="description" content="Truck Dispatcher, Experienced Truck Dispatcher, Dispatching service, Customer Service,  Load Carrier, Truck Driver Helper, Safe Delivery, Arrange Pick Up">
+<meta name="author" content="truckdispatchgo.com">
+	
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://truckdispatchgo.com">
 
 <!-- Web Fonts -->
 <link href="https://fonts.googleapis.com/css?family=Lato:300,400,400i|Montserrat:400,700" rel="stylesheet">
@@ -100,7 +103,7 @@
     <p class="g-font-size-18--xs"><strong>Tips For Beginners To Find The Best Loads Using DAT Load Board</strong>
 	</p>
     <p class="g-font-size-18--xs">Ready to start using a DAT Load Board, but not sure on how to find the
-     best loads for your truck? Look no further, we‚Äôre going to give you some tips and tricks on how to 
+     best loads for your truck? Look no further, weíre going to give you some tips and tricks on how to 
      find the best loads using DAT Power and/or DAT Truckers Edge. The same strategies apply to other load 
      boards as well and are guaranteed to help you find the best loads for your Dry Van, Reefer and/or Flatbed. 
      Get ready to read and learn Tips For Beginners To Find <b>The Best Loads Using DAT Load Board!</b> 
@@ -121,8 +124,8 @@
 	</p>
 	<!---Make sure to define your search and double check that everything is correct. End --->
 	<br>
-	<!---It‚Äôs better to search multiple states in the destination box.--->
-	<h3 class="g-font-size-21--xs g-font-size-25--sm">It‚Äôs better to search multiple states in the destination box.</h3>
+	<!---Itís better to search multiple states in the destination box.--->
+	<h3 class="g-font-size-21--xs g-font-size-25--sm">Itís better to search multiple states in the destination box.</h3>
 	
 	<p class="g-font-size-18--xs">
 		Does the driver want to go to a specific state? This can greatly influence the types of loads that 
@@ -131,15 +134,15 @@
 		also a good option if you need to get to a great paying load. It's better to search multiple states 
 		at once. Just write the abbreviation for each state that you want.
 	</p>
-	<!---It‚Äôs better to search multiple states in the destination box. End --->
+	<!---Itís better to search multiple states in the destination box. End --->
 	<br>
 	<!---Set an alarm!--->
 	<h3 class="g-font-size-21--xs g-font-size-25--sm">Set an alarm!</h3>
 	
 	<p class="g-font-size-18--xs">
 		DAT Load Board offers users an alarm feature which will sound off anytime a new load appears for your 
-		search. This is a great tool to use when the market is saturated and you can‚Äôt find any load for a specific 
-		area. Make sure to turn off the alarm after you‚Äôve found the load. There‚Äôs nothing more annoying than the 
+		search. This is a great tool to use when the market is saturated and you canít find any load for a specific 
+		area. Make sure to turn off the alarm after youíve found the load. Thereís nothing more annoying than the 
 		sound the alarm makes.
 	</p>
 	<!---Set an alarm! End --->
@@ -148,15 +151,15 @@
 	<h3 class="g-font-size-21--xs g-font-size-25--sm">Truck is in a saturated market and no good loads are available? Just organize results by Age. </h3>
 	
 	<p class="g-font-size-18--xs">
-		This tip is great if you‚Äôre in a market with too many trucks and not enough loads. Here‚Äôs an example. 
-		Your truck is empty and ready to roll in Dallas, but you just can‚Äôt find him any load. You call on a 
-		load only to hear the famous words, ‚Äúsorry, the load just got booked a second ago‚Äù. If you find yourself 
+		This tip is great if youíre in a market with too many trucks and not enough loads. Hereís an example. 
+		Your truck is empty and ready to roll in Dallas, but you just canít find him any load. You call on a 
+		load only to hear the famous words, ìsorry, the load just got booked a second agoî. If you find yourself 
 		in this situation, then define your search according to the Age of the load. Just click Age in the top 
 		left corner of the page, and all the results will appear as soon as they come up. In saturated markets, 
 		good loads go fast. This gives you a fighting chance to be the first to jump on a load. Just remember, 
-		that if the market is too saturated, don‚Äôt try negotiating too much. You‚Äôll find yourself without a load 
+		that if the market is too saturated, donít try negotiating too much. Youíll find yourself without a load 
 		because you wanted to negotiate. This strategy works even better when you search by Age and you limit the 
-		DHO (Dead Head Origin) to around 80 miles. By bringing the radius down to 80 miles you‚Äôll find the best 
+		DHO (Dead Head Origin) to around 80 miles. By bringing the radius down to 80 miles youíll find the best 
 		loads that your driver can get to within 2 hours. 
 	</p>
 	<!---Truck is in a saturated market and no good loads are available? Just organize results by Age.  End--->
@@ -166,26 +169,26 @@
 	
 	<p class="g-font-size-18--xs">
 		CA rookie mistake when it comes to truck dispatch is to have a driver that is getting unloaded in the 
-		afternoon and to wait until the afternoon comes around to find him a load. Don‚Äôt do it! You‚Äôre setting 
+		afternoon and to wait until the afternoon comes around to find him a load. Donít do it! Youíre setting 
 		yourself up for failure if you work this way. A majority of the time, the best loads are posted at the 
-		beginning of the day when brokers get into the office, around 07:00 ‚Äì 08:00 EST. There are plenty of 
+		beginning of the day when brokers get into the office, around 07:00 ñ 08:00 EST. There are plenty of 
 		loads that are posted early in the morning that have late pickup appointments, or open windows that can 
 		go into the night. If your driver is getting unloaded in the afternoon, make sure you get him a load in 
 		the morning, so that you respect his time and yours. 
 	</p>
 	<!---Driver is getting unloaded later in the day? Find him a load in the morning, not later in the day.  End --->
 	<br>
-	<!---Broker canceled a load? Don‚Äôt get caught up in any drama!--->
-	<h3 class="g-font-size-21--xs g-font-size-25--sm">Broker canceled a load? Don‚Äôt get caught up in any drama!</h3>
+	<!---Broker canceled a load? Donít get caught up in any drama!--->
+	<h3 class="g-font-size-21--xs g-font-size-25--sm">Broker canceled a load? Donít get caught up in any drama!</h3>
 	
 	<p class="g-font-size-18--xs">
 		What do you do when a broker cancels a load on you? You can cry a river, call the broker and cuss him out, 
 		or you can be a professional and realize that his is part of the game and get your driver a new load. Many 
 		beginners that start working as a truck dispatcher get caught up in the dramas that can go on with brokers. 
-		Take our advice, move on and don‚Äôt even think twice. If you feel that something is fishy, then you‚Äôre probably 
-		right. If you haven‚Äôt received a rate confirmation, then you are not on the load.
+		Take our advice, move on and donít even think twice. If you feel that something is fishy, then youíre probably 
+		right. If you havenít received a rate confirmation, then you are not on the load.
 	</p>
-	<!---Broker canceled a load? Don‚Äôt get caught up in any drama! End --->
+	<!---Broker canceled a load? Donít get caught up in any drama! End --->
 	<br>
 	<h6 class="g-font-size-8--xs g-font-size-12--sm uppercase">Source: www.ninjadispatch.com</h6>
   </div>

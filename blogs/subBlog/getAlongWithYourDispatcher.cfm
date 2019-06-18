@@ -7,10 +7,12 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta http-equiv="x-ua-compatible" content="ie=edge">
 <title>Truck Dispatch Go | Truckdispatchgo.com</title>
-<meta name="keywords" content="Truck Dispatching" />
-<meta name="description" content="Immigration Consultancy">
-<meta name="author" content="onevoix.com">
-
+<meta name="keywords" content="Truck Dispatching, Experienced Truck Dispatcher, B2B telemarketing company, Customer Service, Social Media, Inbound and Outbound Dispatch Service, How to Get Along With Your Dispatcher" />
+<meta name="description" content="Truck Dispatcher, Experienced Truck Dispatcher, Dispatching service, Customer Service,  Load Carrier, Truck Driver Helper, Safe Delivery, Arrange Pick Up">
+<meta name="author" content="truckdispatchgo.com">
+	
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://truckdispatchgo.com">
 <!-- Web Fonts -->
 <link href="https://fonts.googleapis.com/css?family=Lato:300,400,400i|Montserrat:400,700" rel="stylesheet">
 
@@ -166,7 +168,7 @@
 	</p>
 	<p class="g-font-size-18--xs">
 	Remember, you're the guy with the specialist licence here. You're the guy with the CDL. You're the guy with 
-	the driving experience. And youâ€™re the guy driving the truck, who fights the weather and the traffic, and 
+	the driving experience. And you’re the guy driving the truck, who fights the weather and the traffic, and 
 	everything else. 
 	</p>
 	<p class="g-font-size-18--xs">
@@ -179,7 +181,7 @@
 	</p>
 	<p class="g-font-size-18--xs">
 	There are many uncontrollable variables you'll encounter on your trip. So be sure to leave yourself some wiggle 
-	room for delivery time. Donâ€™t promise the moon and risk having to break your promise.
+	room for delivery time. Don’t promise the moon and risk having to break your promise.
 	</p>
 	<p class="g-font-size-18--xs">
     &#9755; Establish trip details before departure.

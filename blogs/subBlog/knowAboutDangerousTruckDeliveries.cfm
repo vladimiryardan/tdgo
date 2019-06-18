@@ -7,9 +7,12 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta http-equiv="x-ua-compatible" content="ie=edge">
 <title>Truck Dispatch Go | Truckdispatchgo.com</title>
-<meta name="keywords" content="Truck Dispatching" />
-<meta name="description" content="Immigration Consultancy">
-<meta name="author" content="onevoix.com">
+<meta name="keywords" content="Truck Dispatching, Experienced Truck Dispatcher, B2B telemarketing company, Customer Service, Social Media, Inbound and Outbound Dispatch Service, Dangerous Truck Deliveries" />
+<meta name="description" content="Truck Dispatcher, Experienced Truck Dispatcher, Dispatching service, Customer Service,  Load Carrier, Truck Driver Helper, Safe Delivery, Arrange Pick Up">
+<meta name="author" content="truckdispatchgo.com">
+	
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://truckdispatchgo.com">
 
 <!-- Web Fonts -->
 <link href="https://fonts.googleapis.com/css?family=Lato:300,400,400i|Montserrat:400,700" rel="stylesheet">
@@ -222,7 +225,7 @@
 	</p>
 	<!---New Jersey Docks: Communication End --->
 	<br>
-	<!---South Carolina: Donâ€™t Be a Target--->
+	<!---South Carolina: Don’t Be a Target--->
 	<h3 class="g-font-size-21--xs g-font-size-25--sm">South Carolina: Don't Be a Target</h3>
 	<p class="g-font-size-18--xs">
 	Another time I was down in South Carolina and I was delivering a COD load. I thought the standard procedure 
@@ -239,7 +242,7 @@
 	I skipped dinner and everything because I thought I wanted to be well out of that area before I stopped in case 
 	someone decided to follow me out and retrieved that cash from me. 
 	</p>
-	<!---South Carolina: Donâ€™t Be a Target End --->
+	<!---South Carolina: Don’t Be a Target End --->
 	<br>
 	<!---Moving On To Another Truck Driving Job End --->
 	<h6 class="g-font-size-8--xs g-font-size-12--sm uppercase">Source: www.smart-trucking.com</h6>

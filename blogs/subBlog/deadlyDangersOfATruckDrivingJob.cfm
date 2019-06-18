@@ -7,9 +7,12 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta http-equiv="x-ua-compatible" content="ie=edge">
 <title>Truck Dispatch Go | Truckdispatchgo.com</title>
-<meta name="keywords" content="Truck Dispatching" />
-<meta name="description" content="Immigration Consultancy">
-<meta name="author" content="onevoix.com">
+<meta name="keywords" content="Truck Dispatching, Experienced Truck Dispatcher, B2B telemarketing company, Customer Service, Social Media, Inbound and Outbound Dispatch Service, Deadly Dangers in Truck Driving Jobs" />
+<meta name="description" content="Truck Dispatcher, Experienced Truck Dispatcher, Dispatching service, Customer Service,  Load Carrier, Truck Driver Helper, Safe Delivery, Arrange Pick Up">
+<meta name="author" content="truckdispatchgo.com">
+	
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://truckdispatchgo.com">
 
 <!-- Web Fonts -->
 <link href="https://fonts.googleapis.com/css?family=Lato:300,400,400i|Montserrat:400,700" rel="stylesheet">
@@ -97,17 +100,17 @@
 <!-- News -->
 <div id="js__scroll-to-section5"  class="container g-padding-y-80--xs">
   <div class="g-text-left--lg">
-  	<!---The Deadly Dangers in Truck Driving Jobs That You Probably Didnâ€™t Know Existed--->
-  	<h3 class="g-font-size-21--xs g-font-size-25--sm">The Deadly Dangers in Truck Driving Jobs That You Probably Didnâ€™t 
+  	<!---The Deadly Dangers in Truck Driving Jobs That You Probably Didn’t Know Existed--->
+  	<h3 class="g-font-size-21--xs g-font-size-25--sm">The Deadly Dangers in Truck Driving Jobs That You Probably Didn’t 
   	Know Existed</h3>
     <p class="g-font-size-18--xs">There are numerous deadly dangers in truck driving jobs. There are so many ways a 
-    professional truck driver can get hurt in this profession. I can bet there are some that you didnâ€™t even realize 
+    professional truck driver can get hurt in this profession. I can bet there are some that you didn’t even realize 
     when you were training for your CDL.
 	</p>
-    <p class="g-font-size-18--xs">It is easy to get seriously hurt or killed in this line of work, if you donâ€™t keep your 
+    <p class="g-font-size-18--xs">It is easy to get seriously hurt or killed in this line of work, if you don’t keep your 
     head on straight and pay attention to the task at hand.
 	</p>
-	<!---The Deadly Dangers in Truck Driving Jobs That You Probably Didnâ€™t Know Existed End --->
+	<!---The Deadly Dangers in Truck Driving Jobs That You Probably Didn’t Know Existed End --->
 	<br>	
 	<!---Behind the Wheel--->
 	<h3 class="g-font-size-21--xs g-font-size-25--sm">Behind the Wheel</h3>
@@ -137,7 +140,7 @@
 	<h3 class="g-font-size-21--xs g-font-size-25--sm">Outside the Truck</h3>
 	<p class="g-font-size-18--xs">
 	&#9755; Pinning up to a trailer. Don't go under a trailer EVER. If you need to get under the trailer to remove a pin lock 
-	for example, place the back of the truckâ€™s frame underneath the trailer, in the event that the landing gear fails, the truck 
+	for example, place the back of the truck’s frame underneath the trailer, in the event that the landing gear fails, the truck 
 	frame will support the trailer.
 	</p>
 	<p class="g-font-size-18--xs">
@@ -146,7 +149,7 @@
 	</p>
 	<p class="g-font-size-18--xs">
 	&#9755; Climbing up on a trailer roof, truck roof - Be careful when climbing up on a truck or trailer. It's easy to loose your 
-	footing. Use a ladder. Donâ€™t climb like a monkey on trailer doors to change a light. It can end in a broken leg or worse.
+	footing. Use a ladder. Don’t climb like a monkey on trailer doors to change a light. It can end in a broken leg or worse.
 	</p>
 	<p class="g-font-size-18--xs">
 	&#9755; Air bags can settle when working under a truck. The air bags can settle and squash you when working under a truck. 
@@ -201,7 +204,7 @@
 	</p>
 	<p class="g-font-size-18--xs">
 	Remember, you're the guy with the specialist licence here. You're the guy with the CDL. You're the guy with 
-	the driving experience. And youâ€™re the guy driving the truck, who fights the weather and the traffic, and 
+	the driving experience. And you’re the guy driving the truck, who fights the weather and the traffic, and 
 	everything else. 
 	</p>
 	<p class="g-font-size-18--xs">
@@ -214,7 +217,7 @@
 	</p>
 	<p class="g-font-size-18--xs">
 	There are many uncontrollable variables you'll encounter on your trip. So be sure to leave yourself some wiggle 
-	room for delivery time. Donâ€™t promise the moon and risk having to break your promise.
+	room for delivery time. Don’t promise the moon and risk having to break your promise.
 	</p>
 	<p class="g-font-size-18--xs">
     &#9755; Establish trip details before departure.

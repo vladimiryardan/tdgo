@@ -7,9 +7,12 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta http-equiv="x-ua-compatible" content="ie=edge">
 <title>Truck Dispatch Go | Truckdispatchgo.com</title>
-<meta name="keywords" content="Truck Dispatching" />
-<meta name="description" content="Immigration Consultancy">
-<meta name="author" content="onevoix.com">
+<meta name="keywords" content="Truck Dispatching, Experienced Truck Dispatcher, B2B telemarketing company, Customer Service, Social Media, Inbound and Outbound Dispatch Service, Relationship Between Driver and Dispatcher" />
+<meta name="description" content="Truck Dispatcher, Experienced Truck Dispatcher, Dispatching service, Customer Service,  Load Carrier, Truck Driver Helper, Safe Delivery, Arrange Pick Up">
+<meta name="author" content="truckdispatchgo.com">
+	
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://truckdispatchgo.com">
 
 <!-- Web Fonts -->
 <link href="https://fonts.googleapis.com/css?family=Lato:300,400,400i|Montserrat:400,700" rel="stylesheet">
@@ -97,26 +100,26 @@
   	<!---Relationship Between The Dispatcher And The Driver--->
     <p class="g-font-size-18--xs"><strong>Relationship Between The Dispatcher And The Driver</strong>
 	</p>
-    <p class="g-font-size-18--xs">Last time we talked about the relationship between the Broker and Dispatch, now letâ€™s talk about the 
-    relationship between the dispatcher and the driver. Some may say there isnâ€™t much to say, but I greatly disagree. Your relationship 
+    <p class="g-font-size-18--xs">Last time we talked about the relationship between the Broker and Dispatch, now let’s talk about the 
+    relationship between the dispatcher and the driver. Some may say there isn’t much to say, but I greatly disagree. Your relationship 
     with the driver is very important, and can make or break your day.
 	</p>
 	
 	<p class="g-font-size-18--xs">
 	What you should know about the driver is that they are in there truck for hours at a time. Most of them are single drivers and so 
-	they are not just in their trucks for hours at a time but also by their self. Now many may say that thatâ€™s what they signed up for. 
-	Some may say well Iâ€™m not in a truck but I am along at work by myself for long hours at a time. None of these things matter. The thing 
+	they are not just in their trucks for hours at a time but also by their self. Now many may say that that’s what they signed up for. 
+	Some may say well I’m not in a truck but I am along at work by myself for long hours at a time. None of these things matter. The thing 
 	that matters the most is the sacrifice that they give on the job.
 	</p>
 	
 	<p class="g-font-size-18--xs">Drivers are away from their family and love ones for sometimes weeks at a time. Most of them are not out 
 	there because they just love being on the road. Many are on the road to take care of their family back home. I always say I never know 
-	what drivers are going through on the road. I know coming home from work is really hectic for me and Iâ€™m just in a car on the streets. 
+	what drivers are going through on the road. I know coming home from work is really hectic for me and I’m just in a car on the streets. 
 	People cut you off, drive crazy, and traffic can be stop and go. I only can image doing this on the highway with 40,000 or more pounds 
 	on your back in an eighteen wheeler.
 	</p>
 	
-	<p class="g-font-size-18--xs">When a driver calls into dispatch itâ€™s to hear a friendly voice along with entrusting you with the information 
+	<p class="g-font-size-18--xs">When a driver calls into dispatch it’s to hear a friendly voice along with entrusting you with the information 
 	that you give them. Dispatchers are the middle man for brokers and drivers. With that being said the driver hopes that you are giving them 
 	the correct information. When I have drivers call in and just start talking about non related load stuff. I just listen sometimes. A lot of 
 	drivers just want to vent. They may just need someone to pick up the phone and hear what they are going through.
@@ -129,9 +132,9 @@
 	</p>
 	
 	<p class="g-font-size-18--xs">After the driver and you have become acquainted now is the time for you to explain your position you play in the 
-	company. Rule of thumb always be up front and donâ€™t promise anything that you canâ€™t produce. Drivers like brokers will respect you more if you 
+	company. Rule of thumb always be up front and don’t promise anything that you can’t produce. Drivers like brokers will respect you more if you 
 	are honest and upfront with them. Like all relationships with time it will grow and develop more. Just remember drivers are the key ingredient 
-	to trucking. Without them we have no job. â€“ LaChunda Hunter
+	to trucking. Without them we have no job. – LaChunda Hunter
 	</p>
 	
 	<!---Relationship Between The Dispatcher And The Driver End--->

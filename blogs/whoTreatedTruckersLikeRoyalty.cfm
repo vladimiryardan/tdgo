@@ -7,9 +7,12 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta http-equiv="x-ua-compatible" content="ie=edge">
 <title>Truck Dispatch Go | Truckdispatchgo.com</title>
-<meta name="keywords" content="Truck Dispatching" />
-<meta name="description" content="Immigration Consultancy">
-<meta name="author" content="onevoix.com">
+<meta name="keywords" content="Truck Dispatching, Experienced Truck Dispatcher, B2B telemarketing company, Customer Service, Social Media, Inbound and Outbound Dispatch Service, Who Treated Truckers Like Royalty"/>
+<meta name="description" content="Truck Dispatcher, Experienced Truck Dispatcher, Dispatching service, Customer Service,  Load Carrier, Truck Driver Helper, Safe Delivery, Arrange Pick Up">
+<meta name="author" content="truckdispatchgo.com">
+	
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://truckdispatchgo.com">
 
 <!-- Web Fonts -->
 <link href="https://fonts.googleapis.com/css?family=Lato:300,400,400i|Montserrat:400,700" rel="stylesheet">
@@ -134,7 +137,7 @@
 	
 	<p class="g-font-size-18--xs">"Mass had the blue law in effect and trucks would get nailed running on Sundays. If you 
 	got stuck in the area the best place to get tied up would be at Mass 10. Gene had a place on the lake, with boats, beer 
-	& bbq's. He would take the drivers in and give them free range of the place with beer, steaks, and boat use for freeâ€¦ 
+	& bbq's. He would take the drivers in and give them free range of the place with beer, steaks, and boat use for free… 
 	He was even known to help a driver get bailed out of the jug for truck driving offence."
 	</p>
 	
@@ -173,7 +176,7 @@
 	</p>
 	<!---who treated truckers like royalty End --->
 	<br>
-	<h6 class="g-font-size-8--xs g-font-size-12--sm uppercase">Source: www.smart-trucking.com</h6>
+	<h6 class="g-font-size-8--xs g-font-size-12--sm uppercase">Source: www.overdriveonline.com</h6>
   </div>
 </div>
 <!-- End blog -->

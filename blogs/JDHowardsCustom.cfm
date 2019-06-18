@@ -7,9 +7,12 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta http-equiv="x-ua-compatible" content="ie=edge">
 <title>Truck Dispatch Go | Truckdispatchgo.com</title>
-<meta name="keywords" content="Truck Dispatching" />
-<meta name="description" content="Immigration Consultancy">
-<meta name="author" content="onevoix.com">
+<meta name="keywords" content="Truck Dispatching, Experienced Truck Dispatcher, B2B telemarketing company, Customer Service, Social Media, Inbound and Outbound Dispatch Service" />
+<meta name="description" content="Truck Dispatcher, Experienced Truck Dispatcher, Dispatching service, Customer Service,  Load Carrier, Truck Driver Helper, Safe Delivery, Arrange Pick Up">
+<meta name="author" content="truckdispatchgo.com">
+	
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://truckdispatchgo.com">
 
 <!-- Web Fonts -->
 <link href="https://fonts.googleapis.com/css?family=Lato:300,400,400i|Montserrat:400,700" rel="stylesheet">
@@ -83,7 +86,7 @@
       <div class="container g-text-center--xs g-ver-center--xs">
         <div class="g-margin-b-30--xs">
           <h2 class="g-font-size-32--xs g-font-size-45--sm g-font-size-60--md g-color--white uppercase">Ohio-based bulk asphalt hauler </h2>
-          <p class="g-font-size-18--xs g-font-size-22--sm g-color--white-opacity">J.D. Howardâ€™s custom 1995 KW W900L With An Older A-model Feel</p>
+          <p class="g-font-size-18--xs g-font-size-22--sm g-color--white-opacity">J.D. Howard’s custom 1995 KW W900L With An Older A-model Feel</p>
         </div>     
     </div>
   
@@ -98,7 +101,7 @@
 <div id="js__scroll-to-section5"  class="container g-padding-y-80--xs">
   <div class="g-text-left--lg">
   	<!---Things You Should Know About Lumpers --->
-    <p class="g-font-size-18--xs"><strong>Ohio-based bulk asphalt hauler J.D. Howardâ€™s custom 1995 KW W900L, with an older A-model feel</strong>
+    <p class="g-font-size-18--xs"><strong>Ohio-based bulk asphalt hauler J.D. Howard’s custom 1995 KW W900L, with an older A-model feel</strong>
 	</p>
     <p class="g-font-size-18--xs">Today leased to Ohio-based Ratta Trucking, owner-operator J.D. Howard has owned this 1995 W900L since 2009. 
     In the last couple of years, the rig has gotten a significant working over with Grafton Custom Chrome of Grafton, Ohio, and Todd, Rodney 
@@ -108,8 +111,8 @@
 	</p>
 	
 	<p class="g-font-size-18--xs">
-		In addition to a front-to-back refurbishment of many of the mechanical components of the truck â€” including the original Caterpillar 
-		engine, overhauled 120,000 miles ago â€” Howard invested in Jones Performanceâ€™s older A-model-style hood for the W900L and an 66-inch 
+		In addition to a front-to-back refurbishment of many of the mechanical components of the truck — including the original Caterpillar 
+		engine, overhauled 120,000 miles ago — Howard invested in Jones Performance’s older A-model-style hood for the W900L and an 66-inch 
 		ICT flattop sleeper built to resemble a classic Double Eagle-style model. 
 	</p>
 	
@@ -119,7 +122,7 @@
 	</p>
 	
 	<p class="g-font-size-18--xs">A new paint job came with all the work as well, all around giving the bobtail a 1970s/early 1980s retro feel
-	 in overall appearance. Catch plenty more about the truckâ€™s refinements in a talk and walk-around the unit with Howard in the video at the 
+	 in overall appearance. Catch plenty more about the truck’s refinements in a talk and walk-around the unit with Howard in the video at the 
 	 top of this post. The talk and all pictures were catch at the 2019 Mid-America Trucking Show in Louisville, Ky., where Howard competed in 
 	 the PKY Truck Beauty Championship there and placed 3rd in his First Show, Bobtail class. 
 	</p>
@@ -129,7 +132,7 @@
 	</p>
 	
 	<p class="g-font-size-18--xs">In the process of reconditioning the vehicle the frame was sandblasted and repainted, beginning with thick primer 
-	of a type also used for bridge supports that sit in water, Howard says. Heâ€™s hopeful for good longevity, as he notes in the video. Full fenders
+	of a type also used for bridge supports that sit in water, Howard says. He’s hopeful for good longevity, as he notes in the video. Full fenders
 	were sourced from Talladega Fiberglass, the stacks from Lincoln Chrome, and factor step covers made by 4 State Trucks.
 	</p>
 	

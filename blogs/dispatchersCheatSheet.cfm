@@ -7,9 +7,9 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta http-equiv="x-ua-compatible" content="ie=edge">
 <title>Truck Dispatch Go | Truckdispatchgo.com</title>
-<meta name="keywords" content="Truck Dispatching" />
-<meta name="description" content="Immigration Consultancy">
-<meta name="author" content="onevoix.com">
+<meta name="keywords" content="Truck Dispatching, Experienced Truck Dispatcher, B2B telemarketing company, Customer Service, Social Media, Inbound and Outbound Dispatch Service, Dispatcher's Cheat Sheet" />
+<meta name="description" content="Truck Dispatcher, Experienced Truck Dispatcher, Dispatching service, Customer Service,  Load Carrier, Truck Driver Helper, Safe Delivery, Arrange Pick Up, Dispatcher's Cheat Sheet">
+<meta name="author" content="truckdispatchgo.com">
 
 <!-- Web Fonts -->
 <link href="https://fonts.googleapis.com/css?family=Lato:300,400,400i|Montserrat:400,700" rel="stylesheet">
@@ -123,11 +123,11 @@
 	<p class="g-font-size-18--xs">Consequently, as a dispatcher, you must learn those variables if you are going to effectively manage 
 	drivers. When hired as a dispatcher, try to get in the truck with a driver while onboarding. Talk to the fleet manager or see if you 
 	can jump in the cab on one of the shorter trips. This experience will enhance your ability to schedule and manage drivers with greater 
-	understandingâ€“keeping your drivers happy and on the road.
+	understanding–keeping your drivers happy and on the road.
 	</p>
 	
 	<p class="g-font-size-18--xs">This increased awareness of the challenges drivers face will also help you protect your drivers. On the road, 
-	accidents happen, and more often than not itâ€™s not your truck driverâ€™s fault. Unfortunately, all too often, itâ€™s the truck driver that gets 
+	accidents happen, and more often than not it’s not your truck driver’s fault. Unfortunately, all too often, it’s the truck driver that gets 
 	blamed.
 	</p>
 	
@@ -154,7 +154,7 @@
 	</p>
 	
 	<p class="g-font-size-18--xs">Consistently checking in on your drivers and customers enables you to more quickly resolve issues that come 
-	upâ€“helping drivers work effectively and without undue stress.
+	up–helping drivers work effectively and without undue stress.
 	<ul >
 		<li >
 			<strong>Establish communication processes, and stick to them.</strong> Set specific times to communicate new jobs, to check in and to confirm 
@@ -230,13 +230,13 @@
 		<li >
 			<strong>And finally (and arguably the most important in terms of keeping drivers happy), Compliance:</strong> Lots and lots (and lots) 
 			of drivers feel stifled by regulations. This particular dissatisfaction with truck driving causes plenty of drivers to look for work 
-			elsewhere. While a dispatcher canâ€™t eliminate these regulations, he or she can help avoid compliance issuesâ€”relieving this pressure off 
+			elsewhere. While a dispatcher can’t eliminate these regulations, he or she can help avoid compliance issues—relieving this pressure off 
 			of drivers.
 		</li>
 	</ul>
 	</p>
 	
-	<p class="g-font-size-18--xs"><strong>Weâ€™re all depending on you</strong>
+	<p class="g-font-size-18--xs"><strong>We’re all depending on you</strong>
 	</p>
 	
 	<p class="g-font-size-18--xs">Obviously, a dispatcher's job requires exceptional multitasking skills, the ability to make quick decisions, and a 

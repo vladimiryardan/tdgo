@@ -7,9 +7,12 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta http-equiv="x-ua-compatible" content="ie=edge">
 <title>Truck Dispatch Go | Truckdispatchgo.com</title>
-<meta name="keywords" content="Truck Dispatching" />
-<meta name="description" content="Immigration Consultancy">
-<meta name="author" content="onevoix.com">
+<meta name="keywords" content="Truck Dispatching, Experienced Truck Dispatcher, B2B telemarketing company, Customer Service, Social Media, Inbound and Outbound Dispatch Service, Handling High Risk Deliveries" />
+<meta name="description" content="Truck Dispatcher, Experienced Truck Dispatcher, Dispatching service, Customer Service,  Load Carrier, Truck Driver Helper, Safe Delivery, Arrange Pick Up">
+<meta name="author" content="truckdispatchgo.com">
+	
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://truckdispatchgo.com">
 
 <!-- Web Fonts -->
 <link href="https://fonts.googleapis.com/css?family=Lato:300,400,400i|Montserrat:400,700" rel="stylesheet">
@@ -108,7 +111,7 @@
 	</p>
 	<p class="g-font-size-18--xs">Some delivery areas just aren't safe. Personal safety could be at risk. Find
 	 out BEFORE getting into the area, rather than when arriving. Once you've wheeled that truck and trailer
-	  into the area, there's often no turning back. Donâ€™t find out when you land that youâ€™re the only guy in
+	  into the area, there's often no turning back. Don’t find out when you land that you’re the only guy in
 	   the area without a gun.
 	</p>
 	<p class="g-font-size-18--xs">Usually it's best to go in and out of an area in daylight hours. If it's
@@ -121,12 +124,12 @@
 	</p>
 	<p class="g-font-size-18--xs">
 	It's not surprising to discover a delivery location area is high risk. Today's dispatcher's job is to move
-	the freight from point to point. They arenâ€™t particularly worried about driver safety. That is the job of
+	the freight from point to point. They aren’t particularly worried about driver safety. That is the job of
 	the driver. Don't rely on dispatch.
 	</p>
 	<!---Truck Driver Tips For Handling High Risk Deliveries End --->
 	<br>	
-	<!---Donâ€™t Rely on Dispatch For All the Answers--->
+	<!---Don’t Rely on Dispatch For All the Answers--->
 	<h3 class="g-font-size-21--xs g-font-size-25--sm">Don't Rely on Dispatch For All the Answers</h3>
 	<p class="g-font-size-18--xs">
 	1. Dispatchers will sometimes say things which just are not true. They probably won't tell you if there
@@ -136,7 +139,7 @@
 	2. It only take one error in judgment to change or cost a driver their life. The dispatcher will go home
 	 safely at the day's end after his shift. The driver also has the right to do the same.
 	</p>
-	<!---Donâ€™t Rely on Dispatch For All the Answers End --->
+	<!---Don’t Rely on Dispatch For All the Answers End --->
 	<br>
 	<!---In an Unsafe Area? What to Do--->
 	<h3 class="g-font-size-21--xs g-font-size-25--sm">In an Unsafe Area? What to Do</h3>
@@ -156,7 +159,7 @@
 	&#9755; Keep your cell phone handy, in case you need to call 911, or take a photo.
 	</p>
 	<p class="g-font-size-18--xs">
-	&#9755; Donâ€™t stop. Keep the truck moving if youâ€™re able.
+	&#9755; Don’t stop. Keep the truck moving if you’re able.
 	</p>
 	<p class="g-font-size-18--xs">
 	&#9755; Remain calm and keep your head on straight.
@@ -176,7 +179,7 @@
 	<h3 class="g-font-size-21--xs g-font-size-25--sm">Drivers are Responsible for Their Own Safety</h3>
 	<p class="g-font-size-18--xs">
 	It's up to the professional driver to make a common sense judgment call. Making high risk deliveries and thus
-	 jeopardizing your safety and risking your life for your job as a truck driver, just isnâ€™t worth it. It isnâ€™t
+	 jeopardizing your safety and risking your life for your job as a truck driver, just isn’t worth it. It isn’t
 	  part of the job.
 	</p>
 	<p class="g-font-size-18--xs">
@@ -201,7 +204,7 @@
 	 anyone else says or demands. It may cost you your driving job when all is said and done.
 	</p>
 	<p class="g-font-size-18--xs">
-	But there isnâ€™t a truck driving job that exists, that is worth a life.
+	But there isn’t a truck driving job that exists, that is worth a life.
 	</p>
 	<!---Drivers are Responsible for Their Own Safety End --->
 	<br>
