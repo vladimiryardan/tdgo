@@ -35,34 +35,25 @@
 </head>
 <!-- End Head -->
 
-<!-- Send Mail -->
-<cfif mode is "sendmail" >
-
-	<cftry>
     	<!--- send an email to the admin --->
 		<cfmail 
-				from="#application.mail.user#" 
-				subject="#form.subject#" 
-				to="jacobdeanpostanes@gmail.com"
+				from="#application.mail.name#" 
+				subject="Truckdispatchgo" 
+				to="info@onevoix.com"
 				type="html">
 				
-				Name: #form.name#<br>
-				Name: #form.email#<br>
-				Message: #form.message#<br>
-				Subject: #form.subject#<br>
+				test
+				<br>
+			
 		    
 		</cfmail>    
-    <cfcatch type="Any" >
-    </cfcatch>
-    </cftry>
-
 
 	<!--- send a copy to the client --->
 	<cftry>
     	<cfmail 
-			from="#application.mail.user#" 
+			from="#application.mail.name#" 
 			subject="We got your message for Truckdispatchgo.com" 
-			to="#form.email#"
+			to="#application.form.email#"
 			type="html">
 			
 				We are checking your message. Thank you!<br>
@@ -73,12 +64,37 @@
     </cfcatch>
     </cftry>
 
-	<!---CFMAIL END--->
-	
-	<cflocation url="inputContactSuccess.cfm" addtoken="false" >
-	
-</cfif>
 
+
+<!---#######DATABASE#######--->
+		<cfif mode is "finish">
+			<cflocation url="inputContactSuccess.cfm">
+		</cfif>
+
+		<!--- form handler --->
+		<cfif isdefined("submitted")>
+
+							
+							<!--- insert name if not existing --->
+							<cfquery>
+								INSERT INTO contactform 
+								( name, email, phone, message) 
+								VALUES
+								(
+									<cfqueryparam value="#form.name#" cfsqltype="cf_sql_varchar" />,
+									<cfqueryparam value="#form.email#" cfsqltype="cf_sql_varchar" />,
+									<cfqueryparam value="#form.phone#" cfsqltype="cf_sql_varchar" />,
+									<cfqueryparam value="#form.message#" cfsqltype="cf_sql_varchar" />
+									
+								)
+							</cfquery>			
+						
+				
+				<cflocation url="#cgi.script_NAME#?mode=finish" addtoken="false" >
+		
+		</cfif>
+		
+<!---######DATABASE QUERY ENDS###### --->	
 <!-- Body -->
 <body>
 <div id="js__scroll-to-section3"></div>
@@ -453,7 +469,7 @@
 <cfset ID = "">
 <cfset name = "">
 <cfset email = "">
-<cfset subject = "">
+<cfset phone = "">
 <cfset message = ""> 
 
 
@@ -468,8 +484,9 @@
           <div class="col-sm-6 g-margin-b-30--xs g-margin-b-0--md">
             <input type="email" class="form-control s-form-v3__input" name="email" id="email" value="#email#" required="true" placeholder="* Email">
           </div>
+        <!---Phone --->
           <div class="col-sm-6">
-            <input type="text" class="form-control s-form-v3__input" required="true" placeholder="* Phone">
+            <input type="text" class="form-control s-form-v3__input" name="phone" id="phone" value="#phone#" required="true" placeholder="* Phone">
           </div>
         </div>
         <!---Message --->

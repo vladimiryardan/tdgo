@@ -30,13 +30,19 @@
     	<!--- define custom coldfusion mappings. Keys are mapping names, values are full paths  --->    
     	<cfset this.mappings = structNew()>    
     	<!--- define a list of custom tag paths. --->    
-    	<cfset this.customtagpaths = "">    
-    	    
+    	<cfset this.customtagpaths = ""> 
+    	<!---datasource --->   
+    	<cfset this.datasource = "tdgo" >
+    	
 	<!--- Run when application starts up --->    
-	<cffunction name="onApplicationStart" returnType="boolean" output="false">   
-		
-		<cfreturn true>    
-	</cffunction>    
+	<cffunction name="OnApplicationStart" access="public" returntype="boolean" output="false" hint="Fires when the application is first created." >
+	            
+			<cfset application.mail = structNew()>
+			<cfset application.mail.email = "info@onevoix.com">
+			<cfset application.mail.name = "info@onevoix.com">
+			          
+		<cfreturn true >
+	</cffunction>
     
 
 	<!--- Runs before request as well, after onRequestStart --->    
@@ -69,5 +75,23 @@
 			<!---CODE BLOCK ENDS --->
 	</cfsilent>
 		
-    </cffunction>	    
+    </cffunction>	
+    
+<!---    <cffunction name="onMissingTemplate" returnType="boolean">
+			    <cfargument type="string" name="targetPage" required=true/>
+					<cftry>
+					    <!--- set response to 404 --->
+					    <cfheader statusCode = "404" statusText = "Page Not Found">
+					    <!--- include a template to show to the user --->   
+					    <cfset Mailto = "jacobdeanpostanes@gmail.com">
+					    <cflog file="missingfiles" text="#arguments.targetpage#">
+		    			<cflocation url="404.cfm?f=#urlEncodedFormat(arguments.targetpage)#&Mailto=#MailTo#" addToken="false">
+					    <!--- return true to prevent the default ColdFusion error handler from running --->
+					    <cfreturn true />
+					    <cfcatch>
+					        <cfreturn false />
+					    </cfcatch>
+					</cftry>
+				<cfreturn />	
+			</cffunction>   ---> 
 </cfcomponent>
