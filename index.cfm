@@ -35,7 +35,7 @@
 </head>
 <!-- End Head -->
 
-    	<!--- send an email to the admin --->
+    	<!---<!--- send an email to the admin --->
 		<cfmail 
 				from="#application.mail.name#" 
 				subject="Truckdispatchgo" 
@@ -62,7 +62,7 @@
 		</cfmail>    
     <cfcatch type="Any" >
     </cfcatch>
-    </cftry>
+    </cftry>--->
 
 
 

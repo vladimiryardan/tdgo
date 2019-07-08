@@ -200,7 +200,28 @@
   </div>
 </div>
 <!-- End blog -->
-
+<br>
+	<!---DISQUSS --->
+	<div id="disqus_thread"></div>
+		<script>
+		
+		/**
+		*  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+		*  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+		/*
+		var disqus_config = function () {
+		this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+		this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+		};
+		*/
+		(function() { // DON'T EDIT BELOW THIS LINE
+		var d = document, s = d.createElement('script');
+		s.src = 'https://truckdispatchgo-com.disqus.com/embed.js';
+		s.setAttribute('data-timestamp', +new Date());
+		(d.head || d.body).appendChild(s);
+		})();
+		</script>
+		<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 <!-- Form -->
 <div id="js__scroll-to-appointment" class="g-bg-color--sky-light g-padding-y-80--xs g-padding-y-0--sm">
   <div class="g-position--relative g-bg-color--primary"  style="background-color:#b80822 !important">
@@ -334,6 +355,8 @@
 <script type="text/javascript" src="../js/components/wow.min.js"></script> 
 <!--========== END JAVASCRIPTS ==========-->
 
+<!---Disquss close  --->
+<script id="dsq-count-scr" src="//truckdispatchgo-com.disqus.com/count.js" async></script>
 </body>
 <!-- End Body -->
 </html>
